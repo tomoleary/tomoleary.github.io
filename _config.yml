@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "Federico Fuentes"
 title_separator          : "-"
 name                     : "Federico Fuentes"
-description              : "This is my academic website: https://www.ices.utexas.edu/people/1310/"
+description              : "This is my academic website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,11 +79,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Federico Fuentes"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "This is my academic website: https://www.ices.utexas.edu/people/1310"
+  location         : "Austin, TX"
+  email            : "federico@ices.utexas.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/federicofuentes"
   gitlab           :
   google_plus      :
   keybase          :
