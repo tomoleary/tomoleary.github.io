@@ -5,15 +5,16 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "default" # "default", "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
 locale                   : "en"
 title                    : "Federico Fuentes"
 title_separator          : "-"
 name                     : "Federico Fuentes"
-description              : "This is my academic website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Personal website of Federico Fuentes."
+url                      : "https://federicofuentes.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -80,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Federico Fuentes"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "This is my academic website: https://www.ices.utexas.edu/people/1310"
-  location         : "Austin, TX"
+  avatar           : "/assets/images/EdinburgSquare.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Mathematics, computational mechanics, numerical analysis, finite element methods, fluid mechanics, hydrodynamic stability"
+  location         : "Austin, Texas"
   email            : "federico@ices.utexas.edu"
   uri              :
   bitbucket        :
@@ -97,10 +98,10 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "federico-fuentes-01089a2b" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  stackoverflow    : "2683646/federico" # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
@@ -247,3 +248,9 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      author_profile: true
