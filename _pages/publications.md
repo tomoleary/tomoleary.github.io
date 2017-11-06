@@ -20,7 +20,7 @@ Most of my publications should be indexed in my [Google Scholar profile](https:/
 
 ## Conference articles
 
-| <img src="/assets/images/PetIGAHyperelasticity.png" width="400px" alt=""> | Bernal, L. M., Calo, V. M., Collier, N., Espinosa, G. A., Fuentes, F., and Mahecha, J. C. (2013). Isogeometric analysis of hyperelastic materials using PetIGA. _Procedia Computer Science_, 18:1604-1613. 2013 International Conference on Computational Science (ICCS). [[doi](https://doi.org/10.1016/j.procs.2013.05.328)]|
+| <img src="/assets/images/PetIGAHyperelasticity.png" width="400px" alt=""> | Bernal, L. M., Calo, V. M., Collier, N., Espinosa, G. A., Fuentes, F., and Mahecha, J. C. (2013). Isogeometric analysis of hyperelastic materials using PetIGA. _Procedia Computer Science_, 18:1604-1613. 2013 International Conference on Computational Science (ICCS). [[doi](https://doi.org/10.1016/j.procs.2013.05.328)] [[code](https://bitbucket.org/dalcinl/petiga/)]|
 
 <br>
 
@@ -30,6 +30,7 @@ Here is a list of the latest talks and posters I've presented.
 
 ## Talks
 
+|Insulation integrity for power-dense, medium voltage, electric machinery (with Aleta Wilder). Office of Naval Research (ONR) Peer Review in Controls, Electromagnetism, and Power Electronics. Naval Postgraduate School, Monterey, CA, USA, November, 2017.|
 |Discrete least-squares (DLS) and polygonal discontinuous Petrov-Galerkin (PolyDPG) finite element methods. Third Minimum Residual and Least Squares Finite Element Methods Workshop. Portland State University, Portland, OR, USA, October, 2017.|
 |Global stability of 2D plane Couette flow beyond the energy stability limit. Texas Applied Mathematics and Engineering Symposium (TAMES). The University of Texas at Austin, Austin, TX, USA, September, 2017.|
 |Global stability of two-dimensional plane Couette flow beyond the energy stability limit. 2017 Geophysical Fluid Dynamics Program. Woods Hole Oceanographic Institute (WHOI), Woods Hole, MA, USA, August, 2017.|

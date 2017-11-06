@@ -18,6 +18,6 @@ My research lies in the interdisciplinary intersection of mathematics, physics, 
 More specifically, I do research in computational mathematics that involves numerical analysis and nonlinear dynamics.
 Within numerical analysis, I am interested in finite element methods and applied functional analysis.
 In the last few years, I have helped develop some of the latest advances in discontinuous Petrov-Galerkin (DPG) methods, which are very effective at solving partial differential equations (PDEs), and have many physical applications.
-Within nonlinear dynamics, I like to study hydrodynamic stability of classical flows, like plane Couette and pipe flow.
-Here, we pose (fluid) dynamical systems in the form of a semidefinite program (SDP) with sum-of-squares (SoS) constraints, and then use a computer to derive the stability properties of the dynamical system.
-You can find more detailed information about my research [here](/research/).
+Within nonlinear dynamics, I like to study hydrodynamic stability of classical flows, like plane Couette flow.
+Here, we pose (fluid) dynamical systems in the form of a semidefinite program (SDP) with sum-of-squares (SoS) constraints, and then use a computer to derive some important stability properties of the dynamical system.
+Learn more details about my research [here](/research/).
