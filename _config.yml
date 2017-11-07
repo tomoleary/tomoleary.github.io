@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Federico Fuentes"
   avatar           : "/assets/images/EdinburgSquare.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Mathematics, computational mechanics, numerical analysis, finite element methods, fluid mechanics, hydrodynamic stability"
+  bio              : "Applied mathematics, computational mechanics, numerical analysis, finite element methods, fluid mechanics, hydrodynamic stability"
   location         : "Austin, Texas"
   email            : "federico@ices.utexas.edu"
   uri              :

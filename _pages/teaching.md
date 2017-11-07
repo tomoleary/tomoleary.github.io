@@ -16,10 +16,10 @@ author_profile: true
 
 ### Professional Development
 
-- College of Natural Sciences Graduate Concentration in Undergraduate Teaching and Mentoring: three courses that provide an introduction to evidence-based teaching in STEM fields, a practical experience in curriculum design and teaching, and training in effective mentoring.
-- Teaching Preparation Certificate for Teaching Assistants
-- Inclusive Classrooms Leadership Certificate Seminar
-- Student Employee Excellence Certificate
+- _College of Natural Sciences Graduate Concentration in Undergraduate Teaching and Mentoring_: Three courses that provide an introduction to evidence-based teaching in STEM fields, a practical experience in curriculum design and teaching, and training in effective mentoring.
+- _Teaching Preparation Certificate for Teaching Assistants_
+- _Inclusive Classrooms Leadership Certificate Seminar_
+- _Student Employee Excellence Certificate_
 
 ## Universidad de los Andes (Colombia)
 
