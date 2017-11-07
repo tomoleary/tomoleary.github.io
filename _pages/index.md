@@ -20,5 +20,5 @@ More specifically, I do research in computational mathematics that involves nume
 Within numerical analysis, I am interested in finite element methods and applied functional analysis.
 In the last few years, I have helped develop some of the latest advances in discontinuous Petrov-Galerkin (DPG) methods, which are very effective at solving partial differential equations (PDEs), and have many physical applications.
 Within nonlinear dynamics, I like to study hydrodynamic stability of classical flows, like plane Couette flow.
-Here, we pose (fluid) dynamical systems in the form of a semidefinite program (SDP) with sum-of-squares (SoS) constraints, and then use a computer to derive some important stability properties of the dynamical system.
+Here, (fluid) dynamical systems are posed in the form of a semidefinite program (SDP) with sum-of-squares (SoS) constraints, and then a computer is used to derive some important stability properties of the dynamical system.
 Learn more details about my research [here](/research/).
