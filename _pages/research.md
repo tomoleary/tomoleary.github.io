@@ -34,7 +34,8 @@ Some highlights are shown next.
   <img src="/assets/images/ResearchShapeFunctions.png" alt="">
   <figcaption>Unified construction of high-order hierarchical discretizations of <em>H</em><sup>1</sup>, <em>H</em>(curl), <em>H</em>(div) and <em>L</em><sup>2</sup> by systematically projecting to faces and edges. </figcaption>
 </figure>
-Developed a unified and systematic approach to constructing arbitrary high-order conforming discretizations of the traditional Sobolev spaces lying in a differential de Rahm sequence (<em>H</em><sup>1</sup>, <em>H</em>(curl), <em>H</em>(div) and <em>L</em><sup>2</sup>) for each of the "standard" element shapes: tetrahedra,hexahedra, triangular prisms and pyramids.
+Developed a unified and systematic approach to constructing arbitrary high-order conforming discretizations of the traditional Sobolev spaces lying in a differential de Rahm sequence (<em>H</em><sup>1</sup>, <em>H</em>(curl), <em>H</em>(div) and <em>L</em><sup>2</sup>) for each of the "standard" element shapes: tetrahedra,hexahedra, triangular prisms and pyramids. 
+The code can be found [here](https://github.com/libESEAS/ESEAS).
 
 ### Discontinuous Petrov-Galerkin (DPG) methods in elasticity and viscoelasticity
 
@@ -73,7 +74,8 @@ These are very suitable for ill-conditioned problems, like near-resonant acousti
 
 As another outgrowth of DPG methods, we developed high-order polygonal DPG (PolyDPG) methods by taking advantage of the properties of ultraweak formulations.
 These methods are compatible with arbitrary polygonal elements, distortion-tolerant, numerically stable without the need of extra stabilization terms (unlike other methods), and carry a natural a posteriori error estimator for adaptivity.
-They are useful in an array of applications ranging from topology optimization to crack propagation and geophysics.
+They are useful in an array of applications ranging from topology optimization to crack propagation and geophysics. 
+The code is available at [www.polydpg.com](http://www.polydpg.com/).
 
 ## Hydrodynamic stability
 

@@ -8,7 +8,7 @@ author_profile: true
 
 ## The University of Texas at Austin
 
-### Experience
+### Teaching Assistant
 
 - Numerical Methods for Applications (2017, Todd Arbogast)
 - Functional Analysis in Theoretical Mechanics (2015, Leszek Demkowicz)
@@ -23,7 +23,7 @@ author_profile: true
 
 ## Universidad de los Andes (Colombia)
 
-### Experience
+### Teaching Assistant
 
 - Integral Calculus and Differential Equations (2011, Luis Jaime Corredor)
 - Integral Calculus and Differential Equations (2010, Monika Winklmeier)
