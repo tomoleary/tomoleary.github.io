@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/P1110853.jpg" width="340px" alt="" align="right" />
+<img src="/assets/images/P1110853.jpg" width="340px" alt="Federico Fuentes" align="right" />
 
 # About
 

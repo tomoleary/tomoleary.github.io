@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "Federico Fuentes"
 title_separator          : "-"
 name                     : "Federico Fuentes"
-description              : "Personal website of Federico Fuentes."
+description              : "Federico Fuentes' personal website"
 url                      : "https://federicofuentes.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "ia6pCY6o7bgdjYgiqIx3Ez3mUXQcl5lqbd6M8HkBwcI"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
