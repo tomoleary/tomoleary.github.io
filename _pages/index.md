@@ -23,8 +23,6 @@ Within nonlinear dynamics, I like to study hydrodynamic stability of classical f
 Here, (fluid) dynamical systems are posed in the form of a semidefinite program (SDP) with sum-of-squares (SoS) constraints, and then a computer is used to derive some important stability properties of the dynamical system.
 Learn more details about my research [here](/research/).
 
-When I'm not doing research I'm probably either playing or watching fútbol.
+When I'm not doing research I'm probably either playing or watching "fútbol".
 My clock definitely stops ticking every four years for the World Cup.
-I'm up to date in the world of tennis (all hail Roger Federer) and I do my best with baseball  (go Cards!).
-If there are no sporting events, then I watch TV series and movies (advanced user: several thousand hours under my belt).
-Finally, if all else fails, I browse youtube, read the news, and enjoy books.
+In my free time I also love to watch movies and TV series (advanced user: several thousand hours under my belt), browse youtube, read the news, enjoy books, and watch other sporting events like tennis (all hail Roger Federer) and baseball (go Cards!).
