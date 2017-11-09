@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "default" # "default", "air", "contrast", "dark", "di
 locale                   : "en"
 title                    : "Federico Fuentes"
 title_separator          : "-"
-name                     : "Federico Fuentes"
+name                     : "Federico Fuentes Caycedo"
 description              : "Federico Fuentes' personal website"
 url                      : "https://federicofuentes.github.io" # should not end with /
 baseurl                  : # the subpath of your site, e.g. "/blog"
