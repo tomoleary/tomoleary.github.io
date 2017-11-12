@@ -1,7 +1,7 @@
 ---
 title: "Curriculum vitae"
 layout: archive
-sitemap: false
+sitemap: true
 author_profile: true
 permalink: /CV/
 ---

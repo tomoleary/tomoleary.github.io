@@ -1,7 +1,7 @@
 ---
 title: "Research"
 layout: single
-sitemap: false
+sitemap: true
 permalink: /research/
 author_profile: true
 toc: true

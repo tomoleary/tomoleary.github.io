@@ -1,7 +1,7 @@
 ---
 title: ""
 layout: archive
-sitemap: false
+sitemap: true
 permalink: /
 author_profile: true
 ---
