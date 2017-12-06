@@ -22,15 +22,11 @@ Much of my PhD research was spent studying discontinuous Petrov-Galerkin finite 
 ### DLS Methods
 
 From extensive research on DPG methods, the term discrete least-squares finite element method (DLS method) was coined.
-The discrete system in DLS methods have a very specific algebraic structure which can be exploited to accelerate computation times or reduce the round-off error.
-
-The following figure (left) depicts the condition number of two coefficient matrices (blue and red) often used in computation.
-In green is a coefficient matrix which I discovered could also be used, but has a square root growth in its condition number, versus the other standards.
-The benefits of this greatly reduced condition number are demonstrated (far right) with frequency domain acoustic wave equation experiments _near resonance_.
+The discrete systems in DLS methods have a very specific algebraic structure which can be exploited to accelerate computation times or reduce the round-off error.
 
 <figure>
   <img src="/assets/images/ResearchDLS2.png" alt="">
-  <figcaption>Condition number growth of various stiffness matrices; notice the linear growth in green (left). A study in robustness and sensitivity to round-off error of frequency-domain acoustic wave equation near resonance (right) </figcaption>
+  <figcaption>(Left) Condition number growth of various stiffness matrices. Notice the linear growth in green. (Right) A study in robustness and sensitivity to round-off error of frequency-domain acoustic wave equation _near resonance_. Here, the DLS solution converges while others diverge. </figcaption>
 </figure>
 
 ### DPG* Methods
@@ -45,7 +41,7 @@ Currently, I am studying the properties of DPG* methods, including _a posteriori
 
 ### Goal-oriented Methods
 
-<img src="/assets/images/CodeCogsEqn.png" width="440px" alt="Brendan Keith" align="right" />
+<img src="/assets/images/CodeCogsEqn.png" width="100px" alt="Brendan Keith" align="right" />
 
 ## Applications
 
