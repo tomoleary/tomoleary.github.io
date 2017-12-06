@@ -9,7 +9,8 @@ author_profile: true
 Additional links to my preprints can be found on [arXiv.org](https://arxiv.org/find/math/1/au:+Keith_B/0/1/0/all/0/1) and [ResearchGate](https://www.researchgate.net/profile/Brendan_Keith).
 My journal articles can also be tracked on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56699706400) and [Google Scholar](https://scholar.google.com/citations?user=vcSEoi4AAAAJ&hl=en).
 
-## Preprints
+Preprints
+======
 
 | Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2017). On perfectly matched layers and non-symmetric variational formulations. [[preprint]()] |
 | Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2017). Goal-oriented adaptive mesh refinement for non-symmetric functional settings. [[preprint](https://arxiv.org/abs/1711.01996)] |
