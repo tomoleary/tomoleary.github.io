@@ -9,16 +9,13 @@ toc_label: "Research"
 toc_icon: "gear"
 ---
 
-I am a mathematical scientist and computational mechanician, and my research lies in the interdisciplinary intersection of mathematics, physics, engineering and computational science.
-Currently I have two main lines of research:
-- Numerical analysis, and more specifically, finite element analysis, where numerical methods are developed to solve partial differential equations (PDEs) using a computer.
-- Applied nonlinear dynamics, particularly hydrodynamic stability of incompressible fluid systems, where important properties are studied with the aid of a computer via semidefinite programs (SDPs) with sum-of-square (SoS) constraints. 
+Regardless of scale, in order to bridge the gap between observation and theory, modern science has come to heavily rely on computational means.
+From simulating star formation to proton transport, from climate change and sea level rise to turbulence and combustion (not to mention turbulent combustion), or from structural design to the design of personalized treatment pathways in state-of-the-art medical practice, computer simulations are indispensable.
+Through simulation, I strive to bring clarity and insight into such otherwise intractable problems.
+
+In addition to discovering a new class of finite element methods, called DPG* methods, and also classifying its dual category of finite element methods called discrete least-squares methods (DLS methods), I have written general and portable software for high-order and adaptive finite element methods and developed specific methods for structural, fluid, and wave mechanics problems.
 
 ## Finite element analysis
-
-<!-- Various PDEs arising from different physical phenomena may be solved numerically with a computer via finite element methods, where the domain is broken into a mesh of elements of different shapes. 
-For these methods to be effective, they must be proved to converge, so that the numerical solution obtained by the computer is shown to approach the exact solution of the PDE as the mesh is refined. 
-High-order discretizations of the mesh are valuable in many applications, as are spatial refinements of the domain, especially when they occur adaptively around a particular area of interest. -->
 
 I focus on many aspects of finite element analysis, and have developed, both in terms of software and the underlying mathematics, several finite element methods which are characterized by having:
 - High-order convergence (heirarchical high-order discretizations for different element shapes and "energy" spaces).
