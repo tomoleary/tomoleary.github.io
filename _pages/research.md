@@ -29,6 +29,8 @@ The discrete systems in DLS methods have a very specific algebraic structure whi
   <figcaption>(Left) Condition number growth of various stiffness matrices. Notice the <em>O</em>(<em>h</em><sup>-1</sup>) growth in green. This is comes reformulating the assembly algorithm, <em>not</em> from a new preconditioner. (Right) A study in robustness and sensitivity to round-off error of frequency-domain acoustic wave equation <em>near resonance</em>. Here, the DLS solutions converge while the others diverge. </figcaption>
 </figure>
 
+Keith, B., Petrides, S., Fuentes, F., and Demkowicz, L. (2017). Discrete least-squares finite element methods. _Computer Methods in Applied Mechanics and Engineering_, 327:226-255. [[preprint](https://arxiv.org/abs/1705.02078)] [[doi](https://doi.org/10.1016/j.cma.2017.08.043)]
+
 ### DPG* Methods
 
 DPG* methods are dual to DPG methods.
@@ -39,17 +41,35 @@ However, DPG* methods are associated with the least-squares problem correspondin
 
 Currently, I am studying the properties of DPG* methods, including _a posteriori_ error estimation, superconvergence, and applications to special problems without uniqueness of solutions.
 
+Keith, B., Demkowicz, L., and Gopalakrishnan, J. (2017). DPG* Method. [[link](https://arxiv.org/abs/1710.05223)]
+
 ### Goal-oriented Methods
 
-<img src="/assets/images/CodeCogsEqn.png" width="150px" alt="Brendan Keith" align="center" />
+Goal-oriented methods are tailored for accuracy in a specific output.
+Naturally, with goal-oriented methods, great efficiency improvements can be achieved when a globally high-quality solution is not necessary.
+Once the output is determined are many different ways to seek efficiency improvements.
+One way is through goal-oriented adaptive mesh refinement, which was I explored for non-symmetric functional setting through a new Petrov-Galerkin duality theory. 
+
+<figure>
+  <img src="/assets/images/ResearchGMR.png" alt="">
+  <figcaption>(Left) Condition number growth of various stiffness matrices. Notice the <em>O</em>(<em>h</em><sup>-1</sup>) growth in green. This is comes reformulating the assembly algorithm, <em>not</em> from a new preconditioner. (Right) A study in robustness and sensitivity to round-off error of frequency-domain acoustic wave equation <em>near resonance</em>. Here, the DLS solutions converge while the others diverge. </figcaption>
+</figure>
+
+Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2017). Goal-oriented adaptive mesh refinement for non-symmetric functional settings. [[preprint](https://arxiv.org/abs/1711.01996)]
 
 ## Applications
 
 ### Solids
 
+
+
 ### Fluids
 
+
+
 ### Waves
+
+
 
 ## Software
 
@@ -63,12 +83,6 @@ Some highlights are shown next.
 
 ### hp2d/hp3D
 
-<figure>
-  <img src="/assets/images/ResearchShapeFunctions.png" alt="">
-  <figcaption>Unified construction of high-order hierarchical discretizations of <em>H</em><sup>1</sup>, <em>H</em>(curl), <em>H</em>(div) and <em>L</em><sup>2</sup> by systematically projecting to faces and edges. </figcaption>
-</figure>
-Developed a unified and systematic approach to constructing arbitrary high-order conforming discretizations of the traditional Sobolev spaces lying in a differential de Rahm sequence (<em>H</em><sup>1</sup>, <em>H</em>(curl), <em>H</em>(div) and <em>L</em><sup>2</sup>) for each of the "standard" element shapes: tetrahedra,hexahedra, triangular prisms and pyramids. 
-The code can be found [here](https://github.com/libESEAS/ESEAS).
 
 ### Camellia
 
@@ -82,18 +96,11 @@ We showed their applicability by solving the equations of linear elasticity with
 We also derived DPG methods that combine different formulations, as they are useful in physical problems like racing-engine hoses and biomedical devices.
 Using DPG methods, we also successfully validated data from dynamic mechanical analysis (DMA) calibration experiments involving viscoelastic materials to within 5% of the quantity of interest.
 
-<figure>
-  <img src="/assets/images/ResearchDMAViscoelasticity.png" alt="">
-  <figcaption>Experimental setup of DMA calibration experiments (left) which were then adaptively simulated using a DPG method (mid-right). By post-processing the central clamp force, the manufacturer's calibration model was validated to within 5% of experimental measurements (right). </figcaption>
-</figure>
-
 ### ESEAS
 
 <figure>
-  <img src="/assets/images/ResearchDLS.png" alt="">
-  <figcaption>Numerically stable FEMs posed as a discrete least-squares (DLS) problem that deals directly with rectangular matrices (left). Using DLS FEMs, conditioning of near-resonant acoustics was shown to grow as <em>O</em>(<em>h</em><sup>-1</sup>), and the solution was found to converge even when traditional methods started to diverge (right). </figcaption>
+  <img src="/assets/images/ResearchShapeFunctions.png" alt="">
+  <figcaption>Unified construction of high-order hierarchical discretizations of <em>H</em><sup>1</sup>, <em>H</em>(curl), <em>H</em>(div) and <em>L</em><sup>2</sup> by systematically projecting to faces and edges. </figcaption>
 </figure>
-
-As an outgrowth of DPG methods, we exploited not only that DPG methods have positive definite stiffness matrices, but that they are a product of the transpose of a known rectangular matrix times itself.
-Thus, it can be posed as a discrete-least squares problem and solved with much better conditioning properties via QR-based solvers.
-These are very suitable for ill-conditioned problems, like near-resonant acoustics.
+Developed a unified and systematic approach to constructing arbitrary high-order conforming discretizations of the traditional Sobolev spaces lying in a differential de Rahm sequence (<em>H</em><sup>1</sup>, <em>H</em>(curl), <em>H</em>(div) and <em>L</em><sup>2</sup>) for each of the "standard" element shapes: tetrahedra,hexahedra, triangular prisms and pyramids. 
+The code can be found [here](https://github.com/libESEAS/ESEAS).
