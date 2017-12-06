@@ -87,7 +87,7 @@ Viscoelastic models are commonly used in engineering to simulate blood and polym
 These models are well-known to very challenging both in simulation and in mathematical analysis.
 
 I developed a new DPG finite element method of the Oldroyd-B viscoelastic fluid model which is both intrinsically stable throughout a broad range of models parameters and studied parameter-dependent adaptive mesh refinement with the method.
-The simulations for this project were completed using the C++ [Camellia software library](https://www.osti.gov/scitech/biblio/1334186), which I assisted in developing.
+The simulations for this project were completed using the [Camellia software library](https://www.osti.gov/scitech/biblio/1334186), which I assisted in developing.
 In collaboration with a new PhD student in my program, I am currently beginning a follow-up project to study goal-oriented adaptive mesh refinement strategies for this model.
 
 ##### Keith, B., Knechtges, P., Roberts, N.V., Elgeti, S., Behr, M., and Demkowicz, L (2017). An ultraweak DPG method for viscoelastic fluids. _J. Non-Newton. Fluid Mech._, 247:107-122. [[preprint](https://arxiv.org/abs/1612.03124)] [[doi](https://doi.org/10.1016/j.jnnfm.2017.06.006)]
@@ -114,18 +114,26 @@ Some of the software projects which I have led or contributed to are described b
 
 I contribute to and help maintain the two Fortran finite element softwares <em>hp</em>2D and <em>hp</em>3D which have complete 2D/3D support for local hierarchical anisotropic <em>h</em>- and <em>p</em>-refinement with one level of hanging nodes and shape functions for all standard elements conforming in each of the canonical de Rahm complex of Hilbert spaces:
 <figure>
-  <img src="/assets/images/ResearchExactSequence.png" style="width: 50%; height: 50%" alt="">
+  <img src="/assets/images/ResearchExactSequence.png" style="width: 60%; height: 60%" align="middle" alt="">
 </figure>
 The code is not openly available due to limited documentation but it is well-used within the Electromagnetics and Acoustics Group at ICES and among many collaborators.
 
 ### ESEAS
 
 <figure>
-  <img src="/assets/images/ResearchShapeFunctions.png" alt="">
-  <figcaption>Unified construction of high-order hierarchical discretizations of <em>H</em><sup>1</sup>, <em>H</em>(curl), <em>H</em>(div) and <em>L</em><sup>2</sup> by systematically projecting to faces and edges. </figcaption>
+  <img src="/assets/images/ReseachESEAS.png" alt="">
+  <figcaption> (Left) Illustrations of the 1D, 2D, and 3D elements supported by the ESEAS software. (Right) Illustration of the novel shape function construction for pyramid elements. </figcaption>
 </figure>
-Developed a unified and systematic approach to constructing arbitrary high-order conforming discretizations of the traditional Sobolev spaces lying in a differential de Rahm sequence (<em>H</em><sup>1</sup>, <em>H</em>(curl), <em>H</em>(div) and <em>L</em><sup>2</sup>) for each of the "standard" element shapes: tetrahedra,hexahedra, triangular prisms and pyramids.
+
+The ESEAS software library supports a complete set of features for evaluating the so-called ''shape functions'' which comprise the basis used in a finite element discretization.
+The library is extremely innovative for its support for all standard elements in one, two, and three spatial dimensions (see figure above; left) for arbitrary polynomial order.
+It relies on a minimal set of hierarchical routines to construct all elements.
+This hierarchical construction was a great breakthrough which also lead to the first explicit construction of arbitrary order pyramid elements (see figure above; right).
 
 ###### Fuentes, F., Keith, B., Demkowicz, L., and Nagaraj, S. (2015). Orientation embedded high order shape functions for the exact sequence elements of all shapes. _Computers & Mathematics with Applications_, 70(4):353-458. [[preprint](https://arxiv.org/abs/1504.03025)] [[doi](https://doi.org/10.1016/j.camwa.2015.04.027)] [[code](https://github.com/libESEAS/ESEAS)]
 
 ### Camellia
+
+Camellia began as an effort to simplify implementation of efficient solvers for the discontinuous Petrov-Galerkin (DPG) finite element methodology of Demkowicz and Gopalakrishnan. Since then, the feature set has expanded, to allow implementation of traditional continuous Galerkin methods, as well as discontinuous Galerkin (DG) methods, hybridizable DG (HDG) methods, first-order-system least squares (FOSLS), and the primal DPG method. This manual serves as an introduction to using Camellia. We begin, in Section 1.1, by describing some of the core features of Camellia. In Section 1.2 we provide an outline of the manual as a whole.
+
+Download Camellia [here](https://bitbucket.org/nateroberts/camellia.git).
