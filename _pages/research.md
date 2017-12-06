@@ -15,15 +15,17 @@ Through simulation, I strive to bring clarity and insight into such otherwise in
 
 In addition to discovering a new class of finite element methods, called [DPG* methods](https://arxiv.org/abs/1710.05223), and also classifying its dual category of finite element methods called [discrete least-squares methods (DLS methods)](https://doi.org/10.1016/j.cma.2017.08.043), I have written general and portable software for high-order and adaptive finite element methods and developed specific methods for structural, fluid, and wave mechanics problems.
 
+## Numerical Methods
+
+
+
 ## Applications
 
-### Structural Mechanics
+### Solids
 
-### Fluid Mechanics
+### Fluids
 
-### Wave Mechanics
-
-## Numerical Methods
+### Waves
 
 ## Software
 
