@@ -17,9 +17,29 @@ In addition to discovering a new class of finite element methods, called [DPG* m
 
 ## Numerical Methods
 
-### DPG* Methods
+Much of my PhD research was spent studying discontinuous Petrov-Galerkin finite element methods (DPG methods) which have significant properties amenable to high-order and adaptive simulations.
 
 ### DLS Methods
+
+<!-- Much of my PhD research was spent studying a specific type finite element method (DPG methods) which always have a very specific algebraic structure in their discretization. -->
+Eventually, after completing several research projects involving DPG methods, I discovered a number of special ways in which this structure could be exploited to achieve faster computation times and solution strategies which would reduce the round-off error in our numerical experiments.
+Many of these ideas have now become established practice in DPG method computations.
+
+By further exploring this algebraic structure, I observed that some of the strategies I had discovered could be applied to several other finite element methods as well.
+This lead to the new classification: discrete least-squares (DLS) finite element methods documented in \cite{Keith2017Discrete}, which I was invited to submit in a special issue in honor of the 80th birthday of Professor J.T. Oden.
+\Cref{fig:DLS} (center right) depicts the condition number of two coefficient matrices (blue and red) often used in computation.
+In green is a coefficient matrix which I discovered could also be used, but has a square root growth in its condition number, versus the other standards.
+The benefits of this greatly reduced condition number are demonstrated in \cref{fig:DLS} (far right) with frequency domain acoustic wave equation experiments \emph{near resonance}.
+
+### DPG* Methods
+
+DPG* methods are dual to DPG methods.
+This new class of finite element method uses the same coefficient matrix as the associated DPG method but has a different load and involves a post-processing step to solve render the solution.
+In the DLS theory, DPG methods can be identified with the least-squares problem corresponding to an overdetermined system of equations.
+An analogous identification can be made with DPG* methods.
+However, DPG* methods are associated with the least-squares problem corresponding to the _underdetermined_ systems of equations.
+
+Currently, I am studying the properties of DPG* methods, including _a posteriori_ error estimation, superconvergence, and applications to special problems without uniqueness of solutions.
 
 ### Goal-oriented Methods
 

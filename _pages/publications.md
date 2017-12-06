@@ -29,7 +29,7 @@ My journal articles can also be tracked on [Scopus](https://www.scopus.com/authi
 ## Other
 
 | Keith, B. (2014). Lagrangian coherent structures in three-dimensional steady flows. Master's Thesis, McGill University, Montreal, Quebec, Canada. [[link](http://digitool.Library.McGill.CA:80/R/-?func=dbin-jump-full&object_id=121521&silo_library=GEN01)] |
-| Robison, B.K., (2011). The Wave Equation and Multi-Dimensional Time. _The Waterloo Mathematics Review_, 1.1:32-42 [[link](http://mathreview.uwaterloo.ca/archive/voli/1/robison.pdf)] |
+| Robison, B.K., (2011). The Wave Equation and Multi-Dimensional Time. _The Waterloo Mathematics Review_, 1(1):32-42 [[link](http://mathreview.uwaterloo.ca/archive/voli/1/robison.pdf)] |
 
 
 
