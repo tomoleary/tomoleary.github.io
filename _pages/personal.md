@@ -10,4 +10,4 @@ author_profile: true
 
 <img src="/assets/images/BigBend1.png" width="440px" alt="Brendan Keith" align="right" />
 
-When I am not working, you may find me lifting weights at the gym, out riding my bike, playing board games with friends, or maybe hiking the South Rim at Big Bend National Park.
+When I am not working, you may find me lifting weights at the gym, out riding my bike :bike:, playing board games with friends, or maybe hiking the South Rim at Big Bend National Park :tent:.
