@@ -21,15 +21,17 @@ Much of my PhD research was spent studying discontinuous Petrov-Galerkin finite 
 
 ### DLS Methods
 
-<!-- Much of my PhD research was spent studying a specific type finite element method (DPG methods) which always have a very specific algebraic structure in their discretization. -->
-Eventually, after completing several research projects involving DPG methods, I discovered a number of special ways in which this structure could be exploited to achieve faster computation times and solution strategies which would reduce the round-off error in our numerical experiments.
-Many of these ideas have now become established practice in DPG method computations.
+From extensive research on DPG methods, the term discrete least-squares finite element method (DLS method) was coined.
+The discrete system in DLS methods have a very specific algebraic structure which can be exploited to accelerate computation times or reduce the round-off error.
 
-By further exploring this algebraic structure, I observed that some of the strategies I had discovered could be applied to several other finite element methods as well.
-This lead to the new classification: discrete least-squares (DLS) finite element methods documented in \cite{Keith2017Discrete}, which I was invited to submit in a special issue in honor of the 80th birthday of Professor J.T. Oden.
-\Cref{fig:DLS} (center right) depicts the condition number of two coefficient matrices (blue and red) often used in computation.
+The following figure (left) depicts the condition number of two coefficient matrices (blue and red) often used in computation.
 In green is a coefficient matrix which I discovered could also be used, but has a square root growth in its condition number, versus the other standards.
-The benefits of this greatly reduced condition number are demonstrated in \cref{fig:DLS} (far right) with frequency domain acoustic wave equation experiments \emph{near resonance}.
+The benefits of this greatly reduced condition number are demonstrated (far right) with frequency domain acoustic wave equation experiments _near resonance_.
+
+<figure>
+  <img src="/assets/images/ResearchDLS2.png" alt="">
+  <figcaption>Condition number growth of various stiffness matrices; notice the linear growth in green (left). A study in robustness and sensitivity to round-off error of frequency-domain acoustic wave equation near resonance (right) </figcaption>
+</figure>
 
 ### DPG* Methods
 
@@ -42,6 +44,8 @@ However, DPG* methods are associated with the least-squares problem correspondin
 Currently, I am studying the properties of DPG* methods, including _a posteriori_ error estimation, superconvergence, and applications to special problems without uniqueness of solutions.
 
 ### Goal-oriented Methods
+
+<img src="/assets/images/CodeCogsEqn.png" width="440px" alt="Brendan Keith" align="right" />
 
 ## Applications
 
