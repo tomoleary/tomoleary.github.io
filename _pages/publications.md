@@ -6,19 +6,22 @@ permalink: /publications/
 author_profile: true
 ---
 
-Most of my publications should be indexed in my [Google Scholar profile](https://scholar.google.com/citations?user=1TBfCsUAAAAJ&hl=en). As we all know, sometimes Google Scholar doesn't update correctly, so I will try to keep the most recent version of my publications here as well (published articles, articles in press, and preprints). Additionally, many of my preprints can be consulted in [arXiv.org](https://arxiv.org/find/math/1/au:+Fuentes_Federico/0/1/0/all/0/1) and [ResearchGate](https://www.researchgate.net/profile/Federico_Fuentes).
+Additional links to my preprints can be found on [arXiv.org](https://arxiv.org/find/math/1/au:+Keith_B/0/1/0/all/0/1) and [ResearchGate](https://www.researchgate.net/profile/Brendan_Keith).
+My journal articles can also be tracked on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56699706400) and [Google Scholar](https://scholar.google.com/citations?user=vcSEoi4AAAAJ&hl=en).
+
+## Preprints
+
+
 
 ## Journal articles
 
-| <img src="/assets/images/PolyDPG.png" width="400px" alt=""> | Vaziri Astaneh, A., Fuentes, F., Mora, J., and Demkowicz, L. (2017). High-order polygonal discontinuous Petrov-Galerkin (PolyDPG) methods using ultraweak formulations. [[preprint](https://arxiv.org/abs/1706.06754)] [[code](http://www.polydpg.com/)]|
-| <img src="/assets/images/DLSAcoustics.png" width="400px" alt=""> | Keith, B., Petrides, S., Fuentes, F., and Demkowicz, L. (2017). Discrete least-squares finite element methods. _Computer Methods in Applied Mechanics and Engineering_ (in press). [[preprint](https://arxiv.org/abs/1705.02078)] [[doi](https://doi.org/10.1016/j.cma.2017.08.043)] |
-| <img src="/assets/images/DMAViscoelasticity.png" width="400px" alt=""> | Fuentes, F., Demkowicz, L., and Wilder, A. (2017). Using a DPG method to validate DMA experimental calibration of viscoelastic materials. _Computer Methods in Applied Mechanics and Engineering_, 325:748-765. [[preprint](https://arxiv.org/abs/1703.10998)] [[doi](https://doi.org/10.1016/j.cma.2017.07.012)] |
-| <img src="/assets/images/CoupledElasticity.png" width="400px" alt=""> | Fuentes, F., Keith, B., Demkowicz, L., and Le Tallec, P. (2017). Coupled variational formulations of linear elasticity and the DPG methodology. _Journal of Computational Physics_, 348:715-731. [[preprint](https://arxiv.org/abs/1609.08180)] [[doi](https://doi.org/10.1016/j.jcp.2017.07.051)] |
+| <img src="/assets/images/DLSAcoustics.png" width="400px" alt=""> | Keith, B., Petrides, S., Fuentes, F., and Demkowicz, L. (2017). Discrete least-squares finite element methods. _Computer Methods in Applied Mechanics and Engineering_, 327:226-255. [[preprint](https://arxiv.org/abs/1705.02078)] [[doi](https://doi.org/10.1016/j.cma.2017.08.043)] |
+| <img src="/assets/images/ColourPlots.png" width="400px" alt=""> | Keith, B., Knechtges, P., Roberts, N.V., Elgeti, S., Behr, M., and Demkowicz, L (2017). An ultraweak DPG method for viscoelastic fluids. _Journal of Non-Newtonian Fluid Mechanics_, 325:107-122. [[preprint](https://arxiv.org/abs/1612.03124)] [[doi](https://doi.org/10.1016/j.jnnfm.2017.06.006)] |
+| <img src="/assets/images/CoupledElasticity.png" width="400px" alt=""> | Fuentes, F., Keith, B., Demkowicz, L., and Le Tallec, P. (2017). Coupled variational formulations of linear elasticity and the DPG methodology. _Journal of Computational Physics_, 247:715-731. [[preprint](https://arxiv.org/abs/1609.08180)] [[doi](https://doi.org/10.1016/j.jcp.2017.07.051)] |
 | <img src="/assets/images/DPGElasticity.png" width="400px" alt=""> | Keith, B., Fuentes, F., and Demkowicz, L. (2016). The DPG methodology applied to different variational formulations of linear elasticity. _Computer Methods in Applied Mechanics and Engineering_, 309:579-609. [[preprint](https://arxiv.org/abs/1601.07937)] [[doi](https://doi.org/10.1016/j.cma.2016.05.034)] |
-| <img src="/assets/images/ArtificialTaylorCouette.png" width="400px" alt=""> | Huang, D., Chernyshenko, S., Goulart, P., Lasagna, D., Tutty, O., and Fuentes, F. (2015). Sum-of-squares of polynomials approach to nonlinear stability of fluid flows: an example of application. _Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences_, 471(2183). [[doi](https://doi.org/10.1098/rspa.2015.0622)] |
 | <img src="/assets/images/ShapeFunctions.png" width="400px" alt=""> | Fuentes, F., Keith, B., Demkowicz, L., and Nagaraj, S. (2015). Orientation embedded high order shape functions for the exact sequence elements of all shapes. _Computers & Mathematics with Applications_, 70(4):353-458. [[preprint](https://arxiv.org/abs/1504.03025)] [[doi](https://doi.org/10.1016/j.camwa.2015.04.027)] [[code](https://github.com/libESEAS/ESEAS)]|
 
-## Conference articles
+<!-- ## Conference articles
 
 | <img src="/assets/images/PetIGAHyperelasticity.png" width="400px" alt=""> | Bernal, L. M., Calo, V. M., Collier, N., Espinosa, G. A., Fuentes, F., and Mahecha, J. C. (2013). Isogeometric analysis of hyperelastic materials using PetIGA. _Procedia Computer Science_, 18:1604-1613. 2013 International Conference on Computational Science (ICCS). [[doi](https://doi.org/10.1016/j.procs.2013.05.328)] [[code](https://bitbucket.org/dalcinl/petiga/)]|
 
@@ -49,4 +52,4 @@ Here is a list of the latest talks and posters I've presented.
 |<img src="/assets/images/AMFEBabuska2016.png" width="400px" alt="">|Minimum residual methods in linear thermoviscoelasticity. Workshop for Advances in Mathematics for Finite Elements (Babuška 90 years). The University of Texas at Austin, Austin, TX, USA, March, 2016.|
 |<img src="/assets/images/POEMs2015.png" width="400px" alt="">|Pyramid High Order Exact Sequence Shape Functions. Polytopal Element Methods in Mathematics and Engineering. Georgia Institute of Technology, Atlanta, GA, USA, October, 2015.|
 |<img src="/assets/images/TAMU2015.png" width="400px" alt="">|Pyramid High Order Exact Sequence Shape Functions. Advanced Numerical Methods in the Mathematical Sciences. Texas A&M University, College St., TX, USA, May, 2015.|
-|<img src="/assets/images/HOFEIM2014.png" width="400px" alt="">|Orientation Embedded Finite Element (FE) Shape Functions for the Exact Sequence Elements of All Shapes. Sixth International Workshop on High-Order Finite Element and Isogeometric Methods (HOFEIM). Frauenchiemsee Island, Germany, July, 2014.|
+|<img src="/assets/images/HOFEIM2014.png" width="400px" alt="">|Orientation Embedded Finite Element (FE) Shape Functions for the Exact Sequence Elements of All Shapes. Sixth International Workshop on High-Order Finite Element and Isogeometric Methods (HOFEIM). Frauenchiemsee Island, Germany, July, 2014.| -->

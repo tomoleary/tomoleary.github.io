@@ -77,15 +77,3 @@ Using DPG methods, we also successfully validated data from dynamic mechanical a
 As an outgrowth of DPG methods, we exploited not only that DPG methods have positive definite stiffness matrices, but that they are a product of the transpose of a known rectangular matrix times itself.
 Thus, it can be posed as a discrete-least squares problem and solved with much better conditioning properties via QR-based solvers.
 These are very suitable for ill-conditioned problems, like near-resonant acoustics.
-
-### High-order polygonal DPG (PolyDPG) methods
-
-<figure>
-  <img src="/assets/images/ResearchPolyDPG.png" alt="">
-  <figcaption>PolyDPG methods solve Poisson's equation using general polygonal elements including highly distorted concave elements (left), and even discontinuous material properties relevant in geophysics (middle). Polygonal refinement strategies are not limited to quadtree meshes and perform comparably with traditional methods (right). </figcaption>
-</figure>
-
-As another outgrowth of DPG methods, we developed high-order polygonal DPG (PolyDPG) methods by taking advantage of the properties of ultraweak formulations.
-These methods are compatible with arbitrary polygonal elements, distortion-tolerant, numerically stable without the need of extra stabilization terms (unlike other methods), and carry a natural a posteriori error estimator for adaptivity.
-They are useful in an array of applications ranging from topology optimization to crack propagation and geophysics. 
-The code is available at [www.polydpg.com](http://www.polydpg.com/).
