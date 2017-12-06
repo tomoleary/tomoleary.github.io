@@ -26,7 +26,7 @@ The discrete systems in DLS methods have a very specific algebraic structure whi
 
 <figure>
   <img src="/assets/images/ResearchDLS2.png" alt="">
-  <figcaption>(Left) Condition number growth of various stiffness matrices. Notice the <em>O</em>(<em>h</em><sup>-1</sup>) growth in green. This is comes reformulating the assembly algorithm, <em>not<em> from a new preconditioner. (Right) A study in robustness and sensitivity to round-off error of frequency-domain acoustic wave equation <em>near resonance<em>. Here, the DLS solutions converge while the others diverge. </figcaption>
+  <figcaption>(Left) Condition number growth of various stiffness matrices. Notice the <em>O</em>(<em>h</em><sup>-1</sup>) growth in green. This is comes reformulating the assembly algorithm, <em>not</em> from a new preconditioner. (Right) A study in robustness and sensitivity to round-off error of frequency-domain acoustic wave equation <em>near resonance</em>. Here, the DLS solutions converge while the others diverge. </figcaption>
 </figure>
 
 ### DPG* Methods
@@ -41,7 +41,7 @@ Currently, I am studying the properties of DPG* methods, including _a posteriori
 
 ### Goal-oriented Methods
 
-<img src="/assets/images/CodeCogsEqn.png" width="100px" alt="Brendan Keith" align="right" />
+<img src="/assets/images/CodeCogsEqn.png" width="150px" alt="Brendan Keith" align="center" />
 
 ## Applications
 
