@@ -61,6 +61,8 @@ One way is through goal-oriented adaptive mesh refinement, which was I explored 
 
 ### Solids
 
+
+
 ##### Fuentes, F., Keith, B., Demkowicz, L., and Le Tallec, P. (2017). Coupled variational formulations of linear elasticity and the DPG methodology. _J. Comput. Phys._, 348:715-731. [[preprint](https://arxiv.org/abs/1609.08180)] [[doi](https://doi.org/10.1016/j.jcp.2017.07.051)]
 ##### Keith, B., Fuentes, F., and Demkowicz, L. (2016). The DPG methodology applied to different variational formulations of linear elasticity. _Comput. Methods Appl. Mech. Engrg._, 309:579-609. [[preprint](https://arxiv.org/abs/1601.07937)] [[doi](https://doi.org/10.1016/j.cma.2016.05.034)]
 
@@ -75,6 +77,9 @@ One way is through goal-oriented adaptive mesh refinement, which was I explored 
 
 ## Software
 
+I have written a significant amount of software in Fortran, Matlab, and C++.
+Some of the software projects which I have led or contributed to are described below.
+
 I focus on many aspects of finite element analysis, and have developed, both in terms of software and the underlying mathematics, several finite element methods which are characterized by having:
 - High-order convergence (heirarchical high-order discretizations for different element shapes and "energy" spaces).
 - Proofs of numerical stability (inf-sup conditions satisfied for variational formulations).
@@ -83,9 +88,24 @@ I focus on many aspects of finite element analysis, and have developed, both in 
 
 Some highlights are shown next.
 
+### ESEAS
+
+<figure>
+  <img src="/assets/images/ResearchShapeFunctions.png" alt="">
+  <figcaption>Unified construction of high-order hierarchical discretizations of <em>H</em><sup>1</sup>, <em>H</em>(curl), <em>H</em>(div) and <em>L</em><sup>2</sup> by systematically projecting to faces and edges. </figcaption>
+</figure>
+Developed a unified and systematic approach to constructing arbitrary high-order conforming discretizations of the traditional Sobolev spaces lying in a differential de Rahm sequence (<em>H</em><sup>1</sup>, <em>H</em>(curl), <em>H</em>(div) and <em>L</em><sup>2</sup>) for each of the "standard" element shapes: tetrahedra,hexahedra, triangular prisms and pyramids.
+
+###### Fuentes, F., Keith, B., Demkowicz, L., and Nagaraj, S. (2015). Orientation embedded high order shape functions for the exact sequence elements of all shapes. _Computers & Mathematics with Applications_, 70(4):353-458. [[preprint](https://arxiv.org/abs/1504.03025)] [[doi](https://doi.org/10.1016/j.camwa.2015.04.027)] [[code](https://github.com/libESEAS/ESEAS)]
+
 ### hp2d/hp3D
 
-
+I contribute to and help maintain the two Fortran finite element softwares <em>hp</em>2D and <em>hp</em>3D which have complete 2D/3D support for local hierarchical anisotropic <em>h</em> and <em>p</em> refinement with one level of hanging nodes and shape functions for all standard elements conforming in each of the canonical 3D exact sequence energy spaces:
+<!-- \begin{equation}
+    \HSo^1(K) \xrightarrow{\,\,\grad\,\,} \bHSo(\curl,K) \xrightarrow{\,\,\curl\,\,} \bHSo(\div,K) \xrightarrow{\,\,\div\,\,} \Leb^2(K) \, .
+\label{eq:ExactSequence}
+\end{equation} -->
+The code is not openly available due to limited documentation but it is well-used within the Electromagnetics and Acoustics Group at ICES and among many collaborators.
 
 ### Camellia
 
@@ -98,12 +118,3 @@ Disontinuous Petrov-Galerkin (DPG) methods are crafted to be stable for any line
 We showed their applicability by solving the equations of linear elasticity with various variational formulations, some being fast, others being slower, but robust in the near-incompressible limit.
 We also derived DPG methods that combine different formulations, as they are useful in physical problems like racing-engine hoses and biomedical devices.
 Using DPG methods, we also successfully validated data from dynamic mechanical analysis (DMA) calibration experiments involving viscoelastic materials to within 5% of the quantity of interest.
-
-### ESEAS
-
-<figure>
-  <img src="/assets/images/ResearchShapeFunctions.png" alt="">
-  <figcaption>Unified construction of high-order hierarchical discretizations of <em>H</em><sup>1</sup>, <em>H</em>(curl), <em>H</em>(div) and <em>L</em><sup>2</sup> by systematically projecting to faces and edges. </figcaption>
-</figure>
-Developed a unified and systematic approach to constructing arbitrary high-order conforming discretizations of the traditional Sobolev spaces lying in a differential de Rahm sequence (<em>H</em><sup>1</sup>, <em>H</em>(curl), <em>H</em>(div) and <em>L</em><sup>2</sup>) for each of the "standard" element shapes: tetrahedra,hexahedra, triangular prisms and pyramids. 
-The code can be found [here](https://github.com/libESEAS/ESEAS).
