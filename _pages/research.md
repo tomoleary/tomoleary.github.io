@@ -21,13 +21,13 @@ Much of my PhD research was spent studying discontinuous Petrov-Galerkin finite 
 
 ### DLS Methods
 
-From extensive research on DPG methods, the term discrete least-squares finite element method (DLS method) was coined.
-The discrete systems in DLS methods have a very specific algebraic structure which can be exploited to accelerate computation times or reduce the round-off error.
-
 <figure>
   <img src="/assets/images/ResearchDLS2.png" alt="">
   <figcaption>(Left) Condition number growth of various stiffness matrices. Notice the <em>O</em>(<em>h</em><sup>-1</sup>) growth in green. This is comes reformulating the assembly algorithm, <em>not</em> from a new preconditioner. (Right) A study in robustness and sensitivity to round-off error of frequency-domain acoustic wave equation <em>near resonance</em>. Here, the DLS solutions converge while the others diverge. </figcaption>
 </figure>
+
+From extensive research on DPG methods, the term discrete least-squares finite element method (DLS method) was coined.
+The discrete systems in DLS methods have a very specific algebraic structure which can be exploited to accelerate computation times or reduce the round-off error.
 
 ###### Keith, B., Petrides, S., Fuentes, F., and Demkowicz, L. (2017). Discrete least-squares finite element methods. _Comput. Methods Appl. Mech. Engrg._, 327:226-255. [[preprint](https://arxiv.org/abs/1705.02078)] [[doi](https://doi.org/10.1016/j.cma.2017.08.043)]
 
@@ -39,21 +39,21 @@ In the DLS theory, DPG methods can be identified with the least-squares problem 
 An analogous identification can be made with DPG* methods.
 However, DPG* methods are associated with the least-squares problem corresponding to the _underdetermined_ systems of equations.
 
-Currently, I am studying the properties of DPG* methods, including _a posteriori_ error estimation, superconvergence, and applications to special problems without uniqueness of solutions.
+Currently, I am studying the properties of DPG* methods, including _a posteriori_ error estimation, superconvergence, and applications to special problems lacking uniqueness of solutions.
 
 ###### Keith, B., Demkowicz, L., and Gopalakrishnan, J. (2017). DPG* Method. _ArXiv e-print arXiv:1710.05223 [math.NA]_ [[link](https://arxiv.org/abs/1710.05223)]
 
 ### Goal-oriented Methods
 
-Goal-oriented methods are tailored for accuracy in a specific output.
-Naturally, with goal-oriented methods, great efficiency improvements can be achieved when a globally high-quality solution is not necessary.
-Once the output is determined are many different ways to seek efficiency improvements.
-One way is through goal-oriented adaptive mesh refinement, which was I explored for non-symmetric functional setting through a new Petrov-Galerkin duality theory. 
-
 <figure>
   <img src="/assets/images/ResearchGMR.png" alt="">
   <figcaption> (Far left) Manufactured solution with high gradient in the region colored red. (Center left) A region of interest (shaded light red) where the solution is declared to be of primary interest. (Center right) A goal-oriented adaptive mesh refinement pattern which seeks to minimize the numerical error in the region of interest. (Far right) Vast improvement in the efficiency across three new goal-oriented refinement strategies, shown in red, green, and blue, in comparison to a standard adaptive mesh refinement strategy, shown in black. </figcaption>
 </figure>
+
+Goal-oriented methods are tailored for accuracy in a specific output.
+Naturally, with goal-oriented methods, great efficiency improvements can be achieved when a globally high-quality solution is not necessary.
+Once the output is determined are many different ways to seek efficiency improvements.
+One way is through goal-oriented adaptive mesh refinement, which was I explored for non-symmetric functional setting through a new Petrov-Galerkin duality theory. 
 
 ###### Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2017). Goal-oriented adaptive mesh refinement for non-symmetric functional settings. _ArXiv e-print arXiv:1711.01996 [math.NA]_ [[preprint](https://arxiv.org/abs/1711.01996)]
 
@@ -61,17 +61,16 @@ One way is through goal-oriented adaptive mesh refinement, which was I explored 
 
 ### Solids
 
-In a sequence of two papers, I analyzed and implemented four different formulations —- denoted strong, mixed, primal, and ultraweak, respectively (see following figure; left) -- of a common linearized elasticity model.
-This project culminated in the analysis of a very difficult coupled rubber and steel two-material model (see \cref{fig:Elasticity}; center and right).
-Here, due to the incompressibility of the rubber, standard displacement-only methods will often break down or ''lock.''
-Additionally, the steel in the model was very thin and so, likewise, some alternative formulations will often break down there.
-Our solution was to develop a special method coupling two different formulations together at the material interface, thus greatly improving the accuracy possible solely with either individual formulation.
-
 <figure>
   <img src="/assets/images/ResearchElasticity.png" alt="">
   <figcaption>(Left) Adaptive mesh refinement with different formulations for a singular solution. (Center) Schematic diagrams of a complicated sheathed hose problem. (Right) The computed azimuthal stress on the two material in the hose. </figcaption>
 </figure>
 
+In a sequence of two papers, I analyzed and implemented four different formulations —- denoted strong, mixed, primal, and ultraweak, respectively (see following figure; left) -- of a common linearized elasticity model.
+This project culminated in the analysis of a very difficult coupled rubber and steel two-material model (see \cref{fig:Elasticity}; center and right).
+Here, due to the incompressibility of the rubber, standard displacement-only methods will often break down or ''lock.''
+Additionally, the steel in the model was very thin and so, likewise, some alternative formulations will often break down there.
+Our solution was to develop a special method coupling two different formulations together at the material interface, thus greatly improving the accuracy possible solely with either individual formulation.
 
 ##### Fuentes, F., Keith, B., Demkowicz, L., and Le Tallec, P. (2017). Coupled variational formulations of linear elasticity and the DPG methodology. _J. Comput. Phys._, 348:715-731. [[preprint](https://arxiv.org/abs/1609.08180)] [[doi](https://doi.org/10.1016/j.jcp.2017.07.051)]
 ##### Keith, B., Fuentes, F., and Demkowicz, L. (2016). The DPG methodology applied to different variational formulations of linear elasticity. _Comput. Methods Appl. Mech. Engrg._, 309:579-609. [[preprint](https://arxiv.org/abs/1601.07937)] [[doi](https://doi.org/10.1016/j.cma.2016.05.034)]
@@ -104,7 +103,7 @@ Some of the software projects which I have led or contributed to are described b
 
 I contribute to and help maintain the two Fortran finite element softwares <em>hp</em>2D and <em>hp</em>3D which have complete 2D/3D support for local hierarchical anisotropic <em>h</em>- and <em>p</em>-refinement with one level of hanging nodes and shape functions for all standard elements conforming in each of the canonical de Rahm complex of Hilbert spaces:
 <figure>
-  <img src="/assets/images/ResearchExactSequence.png" alt="">
+  <img src="/assets/images/ResearchExactSequence.png" width="200px" alt="">
 </figure>
 The code is not openly available due to limited documentation but it is well-used within the Electromagnetics and Acoustics Group at ICES and among many collaborators.
 
