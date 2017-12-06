@@ -66,8 +66,8 @@ One way is through goal-oriented adaptive mesh refinement, which was I explored 
   <figcaption>(Left) Adaptive mesh refinement with different formulations for a singular solution. (Center) Schematic diagrams of a complicated sheathed hose problem. (Right) The computed azimuthal stress on the two material in the hose. </figcaption>
 </figure>
 
-In a sequence of two papers, I analyzed and implemented four different formulations —- denoted strong, mixed, primal, and ultraweak, respectively (see following figure; left) -- of a common linearized elasticity model.
-This project culminated in the analysis of a very difficult coupled rubber and steel two-material model (see \cref{fig:Elasticity}; center and right).
+In a sequence of two papers, I analyzed and implemented four different formulations — denoted strong, mixed, primal, and ultraweak, respectively (see figure; left) — of a common linearized elasticity model.
+This project culminated in the analysis of a very difficult coupled rubber and steel two-material model (see figure; center and right).
 Here, due to the incompressibility of the rubber, standard displacement-only methods will often break down or ''lock.''
 Additionally, the steel in the model was very thin and so, likewise, some alternative formulations will often break down there.
 Our solution was to develop a special method coupling two different formulations together at the material interface, thus greatly improving the accuracy possible solely with either individual formulation.
@@ -83,6 +83,13 @@ Our solution was to develop a special method coupling two different formulations
   <figcaption> (Left) Velocity field and stress tensor component profiles from an Oldroyd-B fluid model. (Center) Convergence through adaptive mesh refinements of the horizontal traction component of the solution. (Right) An example of an adaptively refined mesh after five refinement steps. </figcaption>
 </figure>
 
+Viscoelastic models are commonly used in engineering to simulate blood and polymer melts.
+These models are well-known to very challenging both in simulation and in mathematical analysis.
+
+I developed a new DPG finite element method of the Oldroyd-B viscoelastic fluid model which is both intrinsically stable throughout a broad range of models parameters and studied parameter-dependent adaptive mesh refinement with the method.
+The simulations for this project were completed using the C++ [Camellia software library](https://www.osti.gov/scitech/biblio/1334186), which I assisted in developing.
+In collaboration with a new PhD student in my program, I am currently beginning a follow-up project to study goal-oriented adaptive mesh refinement strategies for this model.
+
 ##### Keith, B., Knechtges, P., Roberts, N.V., Elgeti, S., Behr, M., and Demkowicz, L (2017). An ultraweak DPG method for viscoelastic fluids. _J. Non-Newton. Fluid Mech._, 247:107-122. [[preprint](https://arxiv.org/abs/1612.03124)] [[doi](https://doi.org/10.1016/j.jnnfm.2017.06.006)]
 
 ### Waves
@@ -91,6 +98,10 @@ Our solution was to develop a special method coupling two different formulations
   <img src="/assets/images/ResearchWaves.png" alt="">
   <figcaption> (Far left) A 2D computational domain with a perfectly matched layer (PML). (Center left) A 3D computational domain with a PML. (Center right) The $x$-component of the displacement from a 2D elastodynamics model. (Far right) <em>x</em>-component of the electric field from a 3D electromagnetics model. </figcaption>
 </figure>
+
+Perfectly matched layers (PMLs) are a very widespread type of artificial absorbing boundary layer used in numerical methods for wave propagation problems defined on unbounded domains.
+In order to lay the groundwork for some of my colleagues to begin their dissertation research, Ali Vaziri Astaneh and I recently developed PMLs for high-order DPG methods for several acoustic, elastodynamic, and electromagnetic models.
+Results from our numerical verification experiments are given in the figure above.
 
 ##### Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2017). On perfectly matched layers and non-symmetric variational formulations. [[preprint]()]
 
