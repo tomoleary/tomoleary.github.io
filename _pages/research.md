@@ -103,7 +103,7 @@ Some of the software projects which I have led or contributed to are described b
 
 I contribute to and help maintain the two Fortran finite element softwares <em>hp</em>2D and <em>hp</em>3D which have complete 2D/3D support for local hierarchical anisotropic <em>h</em>- and <em>p</em>-refinement with one level of hanging nodes and shape functions for all standard elements conforming in each of the canonical de Rahm complex of Hilbert spaces:
 <figure>
-  <img src="/assets/images/ResearchExactSequence.png" width="200px" alt="">
+  <img src="/assets/images/ResearchExactSequence.png" style="width: 50%; height: 50%" alt="">
 </figure>
 The code is not openly available due to limited documentation but it is well-used within the Electromagnetics and Acoustics Group at ICES and among many collaborators.
 
