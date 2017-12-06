@@ -12,19 +12,19 @@ My journal articles can also be tracked on [Scopus](https://www.scopus.com/authi
 ## Preprints
 
 | Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2017). On perfectly matched layers and non-symmetric variational formulations. [[preprint]()] |
-| Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2017). Goal-oriented adaptive mesh refinement for non-symmetric functional settings. [[preprint](https://arxiv.org/abs/1711.01996)] |
+| Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2017). Goal-oriented adaptive mesh refinement for non-symmetric functional settings. _arXiv:1711.01996 [math.NA]_ [[preprint](https://arxiv.org/abs/1711.01996)] |
 
 ## Journal Articles
 
 | Keith, B., Petrides, S., Fuentes, F., and Demkowicz, L. (2017). Discrete least-squares finite element methods. _Computer Methods in Applied Mechanics and Engineering_, 327:226-255. [[preprint](https://arxiv.org/abs/1705.02078)] [[doi](https://doi.org/10.1016/j.cma.2017.08.043)] |
-| Keith, B., Knechtges, P., Roberts, N.V., Elgeti, S., Behr, M., and Demkowicz, L (2017). An ultraweak DPG method for viscoelastic fluids. _Journal of Non-Newtonian Fluid Mechanics_, 325:107-122. [[preprint](https://arxiv.org/abs/1612.03124)] [[doi](https://doi.org/10.1016/j.jnnfm.2017.06.006)] |
+| Keith, B., Knechtges, P., Roberts, N.V., Elgeti, S., Behr, M., and Demkowicz, L (2017). An ultraweak DPG method for viscoelastic fluids. _Journal of Non-Newtonian Fluid Mechanics_, 247:107-122. [[preprint](https://arxiv.org/abs/1612.03124)] [[doi](https://doi.org/10.1016/j.jnnfm.2017.06.006)] |
 | Fuentes, F., Keith, B., Demkowicz, L., and Le Tallec, P. (2017). Coupled variational formulations of linear elasticity and the DPG methodology. _Journal of Computational Physics_, 247:715-731. [[preprint](https://arxiv.org/abs/1609.08180)] [[doi](https://doi.org/10.1016/j.jcp.2017.07.051)] |
 | Keith, B., Fuentes, F., and Demkowicz, L. (2016). The DPG methodology applied to different variational formulations of linear elasticity. _Computer Methods in Applied Mechanics and Engineering_, 309:579-609. [[preprint](https://arxiv.org/abs/1601.07937)] [[doi](https://doi.org/10.1016/j.cma.2016.05.034)] |
 | Fuentes, F., Keith, B., Demkowicz, L., and Nagaraj, S. (2015). Orientation embedded high order shape functions for the exact sequence elements of all shapes. _Computers & Mathematics with Applications_, 70(4):353-458. [[preprint](https://arxiv.org/abs/1504.03025)] [[doi](https://doi.org/10.1016/j.camwa.2015.04.027)] [[code](https://github.com/libESEAS/ESEAS)] |
 
 ## Technical Reports
 
-| Keith, B., Demkowicz, L., and Gopalakrishnan, J. (2017). DPG* Method. [[link](https://arxiv.org/abs/1710.05223)] |
+| Keith, B., Demkowicz, L., and Gopalakrishnan, J. (2017). DPG* Method. _arXiv:1710.05223 [math.NA]_ [[link](https://arxiv.org/abs/1710.05223)] |
 
 ## Other
 
