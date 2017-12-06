@@ -41,7 +41,7 @@ However, DPG* methods are associated with the least-squares problem correspondin
 
 Currently, I am studying the properties of DPG* methods, including _a posteriori_ error estimation, superconvergence, and applications to special problems without uniqueness of solutions.
 
-###### Keith, B., Demkowicz, L., and Gopalakrishnan, J. (2017). DPG* Method. _arXiv:1710.05223 [math.NA]_ [[link](https://arxiv.org/abs/1710.05223)]
+###### Keith, B., Demkowicz, L., and Gopalakrishnan, J. (2017). DPG* Method. _ArXiv e-print arXiv:1710.05223 [math.NA]_ [[link](https://arxiv.org/abs/1710.05223)]
 
 ### Goal-oriented Methods
 
@@ -52,16 +52,16 @@ One way is through goal-oriented adaptive mesh refinement, which was I explored 
 
 <figure>
   <img src="/assets/images/ResearchGMR.png" alt="">
-  <figcaption>(Left) Condition number growth of various stiffness matrices. Notice the <em>O</em>(<em>h</em><sup>-1</sup>) growth in green. This is comes reformulating the assembly algorithm, <em>not</em> from a new preconditioner. (Right) A study in robustness and sensitivity to round-off error of frequency-domain acoustic wave equation <em>near resonance</em>. Here, the DLS solutions converge while the others diverge. </figcaption>
+  <figcaption> (Far left) Manufactured solution with high gradient in the region colored red. (Center left) A region of interest (shaded light red) where the solution is declared to be of primary interest. (Center right) A goal-oriented adaptive mesh refinement pattern which seeks to minimize the numerical error in the region of interest. (Far right) Vast improvement in the efficiency across three new goal-oriented refinement strategies, shown in red, green, and blue, in comparison to a standard adaptive mesh refinement strategy, shown in black. </figcaption>
 </figure>
 
-###### Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2017). Goal-oriented adaptive mesh refinement for non-symmetric functional settings. _arXiv:1711.01996 [math.NA]_ [[preprint](https://arxiv.org/abs/1711.01996)]
+###### Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2017). Goal-oriented adaptive mesh refinement for non-symmetric functional settings. _ArXiv e-print arXiv:1711.01996 [math.NA]_ [[preprint](https://arxiv.org/abs/1711.01996)]
 
 ## Applications
 
 ### Solids
 
-##### Fuentes, F., Keith, B., Demkowicz, L., and Le Tallec, P. (2017). Coupled variational formulations of linear elasticity and the DPG methodology. _J. Comput. Phys._, 247:715-731. [[preprint](https://arxiv.org/abs/1609.08180)] [[doi](https://doi.org/10.1016/j.jcp.2017.07.051)]
+##### Fuentes, F., Keith, B., Demkowicz, L., and Le Tallec, P. (2017). Coupled variational formulations of linear elasticity and the DPG methodology. _J. Comput. Phys._, 348:715-731. [[preprint](https://arxiv.org/abs/1609.08180)] [[doi](https://doi.org/10.1016/j.jcp.2017.07.051)]
 ##### Keith, B., Fuentes, F., and Demkowicz, L. (2016). The DPG methodology applied to different variational formulations of linear elasticity. _Comput. Methods Appl. Mech. Engrg._, 309:579-609. [[preprint](https://arxiv.org/abs/1601.07937)] [[doi](https://doi.org/10.1016/j.cma.2016.05.034)]
 
 
@@ -84,6 +84,7 @@ I focus on many aspects of finite element analysis, and have developed, both in 
 Some highlights are shown next.
 
 ### hp2d/hp3D
+
 
 
 ### Camellia
