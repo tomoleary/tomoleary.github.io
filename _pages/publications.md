@@ -12,7 +12,9 @@ My journal articles can also be tracked on [Scopus](https://www.scopus.com/authi
 ## Preprints
 <!-- <img src="theSource" style="width:30px;height:30px;" /> -->
 
-| <img src="/assets/images/PML.png" style="width:400px;" alt=""> | Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2017). On perfectly matched layers and non-symmetric variational formulations. |
+| <img src="/assets/images/DLSAcoustics.png" style="width:400px;" alt=""> | Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2017). On perfectly matched layers and non-symmetric variational formulations. |
+
+<!-- | <img src="/assets/images/PML.png" style="width:400px;" alt=""> | Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2017). On perfectly matched layers and non-symmetric variational formulations. | -->
 
 | <img src="/assets/images/GoalOriented.png" width="400px" alt=""> | Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2017). Goal-oriented adaptive mesh refinement for non-symmetric functional settings. [[preprint](https://arxiv.org/abs/1711.01996)] |
 
