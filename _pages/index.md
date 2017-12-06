@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/BigBend2.png" width="340px" alt="Brendan Keith" align="right" />
+<!-- <img src="/assets/images/BigBend2.png" width="340px" alt="Brendan Keith" align="right" /> -->
 
 # About
 

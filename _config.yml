@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Brendan Keith"
   avatar           : "/assets/images/profile_square.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computational Science & Applications"
+  bio              : "Computational Science, Numerical Analysis, & Applications"
   location         : "Austin, Texas"
   email            : "brendan@ices.utexas.edu"
   uri              :
