@@ -17,7 +17,11 @@ In addition to discovering a new class of finite element methods, called [DPG* m
 
 ## Numerical Methods
 
+### DPG* Methods
 
+### DLS Methods
+
+### Goal-oriented Methods
 
 ## Applications
 
