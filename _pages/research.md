@@ -61,6 +61,16 @@ One way is through goal-oriented adaptive mesh refinement, which was I explored 
 
 ### Solids
 
+In a sequence of two papers, I analyzed and implemented four different formulations —- denoted strong, mixed, primal, and ultraweak, respectively (see following figure; left) -- of a common linearized elasticity model.
+This project culminated in the analysis of a very difficult coupled rubber and steel two-material model (see \cref{fig:Elasticity}; center and right).
+Here, due to the incompressibility of the rubber, standard displacement-only methods will often break down or ''lock.''
+Additionally, the steel in the model was very thin and so, likewise, some alternative formulations will often break down there.
+Our solution was to develop a special method coupling two different formulations together at the material interface, thus greatly improving the accuracy possible solely with either individual formulation.
+
+<figure>
+  <img src="/assets/images/ResearchElasticity.png" alt="">
+  <figcaption>(Left) Adaptive mesh refinement with different formulations for a singular solution. (Center) Schematic diagrams of a complicated sheathed hose problem. (Right) The computed azimuthal stress on the two material in the hose. </figcaption>
+</figure>
 
 
 ##### Fuentes, F., Keith, B., Demkowicz, L., and Le Tallec, P. (2017). Coupled variational formulations of linear elasticity and the DPG methodology. _J. Comput. Phys._, 348:715-731. [[preprint](https://arxiv.org/abs/1609.08180)] [[doi](https://doi.org/10.1016/j.jcp.2017.07.051)]
@@ -69,9 +79,19 @@ One way is through goal-oriented adaptive mesh refinement, which was I explored 
 
 ### Fluids
 
+<figure>
+  <img src="/assets/images/ResearchFluid.png" alt="">
+  <figcaption> (Left) Velocity field and stress tensor component profiles from an Oldroyd-B fluid model. (Center) Convergence through adaptive mesh refinements of the horizontal traction component of the solution. (Right) An example of an adaptively refined mesh after five refinement steps. </figcaption>
+</figure>
+
 ##### Keith, B., Knechtges, P., Roberts, N.V., Elgeti, S., Behr, M., and Demkowicz, L (2017). An ultraweak DPG method for viscoelastic fluids. _J. Non-Newton. Fluid Mech._, 247:107-122. [[preprint](https://arxiv.org/abs/1612.03124)] [[doi](https://doi.org/10.1016/j.jnnfm.2017.06.006)]
 
 ### Waves
+
+<figure>
+  <img src="/assets/images/ResearchWaves.png" alt="">
+  <figcaption> (Far left) A 2D computational domain with a perfectly matched layer (PML). (Center left) A 3D computational domain with a PML. (Center right) The $x$-component of the displacement from a 2D elastodynamics model. (Far right) <em>x</em>-component of the electric field from a 3D electromagnetics model. </figcaption>
+</figure>
 
 ##### Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2017). On perfectly matched layers and non-symmetric variational formulations. [[preprint]()]
 
@@ -80,13 +100,13 @@ One way is through goal-oriented adaptive mesh refinement, which was I explored 
 I have written a significant amount of software in Fortran, Matlab, and C++.
 Some of the software projects which I have led or contributed to are described below.
 
-I focus on many aspects of finite element analysis, and have developed, both in terms of software and the underlying mathematics, several finite element methods which are characterized by having:
-- High-order convergence (heirarchical high-order discretizations for different element shapes and "energy" spaces).
-- Proofs of numerical stability (inf-sup conditions satisfied for variational formulations).
-- Adaptivity (so the meshes spatially refine in a particular area of interest).
-- Desirable linear algebra properties to exploit in solvers.
+### <em>hp</em>2d/<em>hp</em>3D
 
-Some highlights are shown next.
+I contribute to and help maintain the two Fortran finite element softwares <em>hp</em>2D and <em>hp</em>3D which have complete 2D/3D support for local hierarchical anisotropic <em>h</em>- and <em>p</em>-refinement with one level of hanging nodes and shape functions for all standard elements conforming in each of the canonical de Rahm complex of Hilbert spaces:
+<figure>
+  <img src="/assets/images/ResearchExactSequence.png" alt="">
+</figure>
+The code is not openly available due to limited documentation but it is well-used within the Electromagnetics and Acoustics Group at ICES and among many collaborators.
 
 ### ESEAS
 
@@ -98,23 +118,4 @@ Developed a unified and systematic approach to constructing arbitrary high-order
 
 ###### Fuentes, F., Keith, B., Demkowicz, L., and Nagaraj, S. (2015). Orientation embedded high order shape functions for the exact sequence elements of all shapes. _Computers & Mathematics with Applications_, 70(4):353-458. [[preprint](https://arxiv.org/abs/1504.03025)] [[doi](https://doi.org/10.1016/j.camwa.2015.04.027)] [[code](https://github.com/libESEAS/ESEAS)]
 
-### hp2d/hp3D
-
-I contribute to and help maintain the two Fortran finite element softwares <em>hp</em>2D and <em>hp</em>3D which have complete 2D/3D support for local hierarchical anisotropic <em>h</em> and <em>p</em> refinement with one level of hanging nodes and shape functions for all standard elements conforming in each of the canonical 3D exact sequence energy spaces:
-<!-- \begin{equation}
-    \HSo^1(K) \xrightarrow{\,\,\grad\,\,} \bHSo(\curl,K) \xrightarrow{\,\,\curl\,\,} \bHSo(\div,K) \xrightarrow{\,\,\div\,\,} \Leb^2(K) \, .
-\label{eq:ExactSequence}
-\end{equation} -->
-The code is not openly available due to limited documentation but it is well-used within the Electromagnetics and Acoustics Group at ICES and among many collaborators.
-
 ### Camellia
-
-<figure>
-  <img src="/assets/images/ResearchElasticity.png" alt="">
-  <figcaption>Linear elasticity in the L-shape domain solved with different DPG variational formulations, all converging, but displaying different refinement patterns (left). Sheathed hose composed of a thick inner layer of rubbber, and a very thin outer layer of steel (middle). It was solved using a coupled linear elasticity DPG method which is robust in the incompressible limit inside the rubber subdomain and computationally cheap in the steel layer (right). </figcaption>
-</figure>
-
-Disontinuous Petrov-Galerkin (DPG) methods are crafted to be stable for any linear well-posed variational formulation of a PDE.
-We showed their applicability by solving the equations of linear elasticity with various variational formulations, some being fast, others being slower, but robust in the near-incompressible limit.
-We also derived DPG methods that combine different formulations, as they are useful in physical problems like racing-engine hoses and biomedical devices.
-Using DPG methods, we also successfully validated data from dynamic mechanical analysis (DMA) calibration experiments involving viscoelastic materials to within 5% of the quantity of interest.
