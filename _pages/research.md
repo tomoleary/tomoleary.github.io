@@ -109,7 +109,7 @@ Results from our numerical verification experiments are given in the figure abov
 
 <figure>
   <img src="/assets/images/ResearchLCS.png" alt="">
-  <figcaption> Lagrangian Coherent Structures (LCSs) in the ABC flow. Elliptic LCS families in blue, red, and green, and Parabolic LCS in yellow.. </figcaption>
+  <figcaption> Lagrangian Coherent Structures (LCSs) in the ABC flow. Elliptic LCS families in blue, red, and green, and Parabolic LCS in yellow. </figcaption>
 </figure>
 
 A Lagrangian coherent structure (LCS) is an influential material surface which acts as a skeleton of observed mixing patterns in a dynamical system.
