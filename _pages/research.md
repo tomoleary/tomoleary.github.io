@@ -43,7 +43,7 @@ Currently, I am studying the properties of DPG* methods, including _a posteriori
 
 ###### Keith, B., Demkowicz, L., and Gopalakrishnan, J. (2017). DPG* Method. _ArXiv e-print arXiv:1710.05223 [math.NA]_ [[link](https://arxiv.org/abs/1710.05223)]
 
-### Goal-oriented Methods
+### Goal-Oriented Methods
 
 <figure>
   <img src="/assets/images/ResearchGMR.png" alt="">
@@ -104,6 +104,18 @@ In order to lay the groundwork for some of my colleagues to begin their disserta
 Results from our numerical verification experiments are given in the figure above.
 
 ##### Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2017). On perfectly matched layers and non-symmetric variational formulations. [[preprint](/assets/documents/main.pdf)]
+
+### Coherent Structures
+
+<figure>
+  <img src="/assets/images/ResearchLCS.png" alt="">
+  <figcaption> Lagrangian Coherent Structures (LCSs) in the ABC flow. Elliptic LCS families in blue, red, and green, and Parabolic LCS in yellow.. </figcaption>
+</figure>
+
+A Lagrangian coherent structure (LCS) is an influential material surface which acts as a skeleton of observed mixing patterns in a dynamical system.
+During my Master's studies under [Professor George Haller](), I analyzed nonlinear dynamical systems via several new variational characterizations of LCSs.
+
+##### Keith, B. (2014). Lagrangian coherent structures in three-dimensional steady flows. Master's Thesis, McGill University, Montreal, Quebec, Canada. [[link](http://digitool.Library.McGill.CA:80/R/-?func=dbin-jump-full&object_id=121521&silo_library=GEN01)]
 
 ## Software
 
