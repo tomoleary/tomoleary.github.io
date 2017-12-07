@@ -34,10 +34,10 @@ The discrete systems in DLS methods have a very specific algebraic structure whi
 ### DPG* Methods
 
 DPG* methods are dual to DPG methods.
-This new class of finite element method uses the same coefficient matrix as the associated DPG method but has a different load and involves a post-processing step to solve render the solution.
+This new class of finite element method uses the same coefficient matrix as the associated DPG method but has a different load and involves a post-processing step to render the solution.
 In the DLS theory, DPG methods can be identified with the least-squares problem corresponding to an overdetermined system of equations.
 An analogous identification can be made with DPG* methods.
-However, DPG* methods are associated with the least-squares problem corresponding to the _underdetermined_ systems of equations.
+However, DPG* methods are associated with the least-squares problem corresponding to an _underdetermined_ systems of equations.
 
 Currently, I am studying the properties of DPG* methods, including _a posteriori_ error estimation, superconvergence, and applications to special problems lacking uniqueness of solutions.
 
@@ -51,9 +51,9 @@ Currently, I am studying the properties of DPG* methods, including _a posteriori
 </figure>
 
 Goal-oriented methods are tailored for accuracy in a specific output.
-Naturally, with goal-oriented methods, great efficiency improvements can be achieved when a globally high-quality solution is not necessary.
-Once the output is determined are many different ways to seek efficiency improvements.
-One way is through goal-oriented adaptive mesh refinement, which was I explored for non-symmetric functional setting through a new Petrov-Galerkin duality theory. 
+With goal-oriented methods, great efficiency improvements can be achieved because a globally high-quality solution is often not necessary.
+Once the output is determined there are many different ways in which to seek efficiency improvements.
+One way is through goal-oriented adaptive mesh refinement, which I explored for non-symmetric functional settings through a new Petrov-Galerkin duality theory which I developed. 
 
 ###### Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2017). Goal-oriented adaptive mesh refinement for non-symmetric functional settings. _ArXiv e-print arXiv:1711.01996 [math.NA]_ [[preprint](https://arxiv.org/abs/1711.01996)]
 
@@ -70,7 +70,7 @@ In a sequence of two papers, I analyzed and implemented four different formulati
 This project culminated in the analysis of a very difficult coupled rubber and steel two-material model (see figure; center and right).
 Here, due to the incompressibility of the rubber, standard displacement-only methods will often break down or ''lock.''
 Additionally, the steel in the model was very thin and so, likewise, some alternative formulations will often break down there.
-Our solution was to develop a special method coupling two different formulations together at the material interface, thus greatly improving the accuracy possible solely with either individual formulation.
+Our solution was to develop a special method coupling two different formulations together at the material interface; hence, greatly improving the accuracy possible solely with either individual formulation.
 
 ##### Fuentes, F., Keith, B., Demkowicz, L., and Le Tallec, P. (2017). Coupled variational formulations of linear elasticity and the DPG methodology. _J. Comput. Phys._, 348:715-731. [[preprint](https://arxiv.org/abs/1609.08180)] [[doi](https://doi.org/10.1016/j.jcp.2017.07.051)]
 ##### Keith, B., Fuentes, F., and Demkowicz, L. (2016). The DPG methodology applied to different variational formulations of linear elasticity. _Comput. Methods Appl. Mech. Engrg._, 309:579-609. [[preprint](https://arxiv.org/abs/1601.07937)] [[doi](https://doi.org/10.1016/j.cma.2016.05.034)]
@@ -86,7 +86,7 @@ Our solution was to develop a special method coupling two different formulations
 Viscoelastic models are commonly used in engineering to simulate blood and polymer melts.
 These models are well-known to very challenging both in simulation and in mathematical analysis.
 
-I developed a new DPG finite element method of the Oldroyd-B viscoelastic fluid model which is both intrinsically stable throughout a broad range of models parameters and studied parameter-dependent adaptive mesh refinement with the method.
+I developed a new DPG finite element method of the Oldroyd-B viscoelastic fluid model which is both intrinsically stable throughout a broad range of model parameters and studied parameter-dependent adaptive mesh refinement with the method.
 The simulations for this project were completed using the [Camellia software library](https://www.osti.gov/scitech/biblio/1334186), which I assisted in developing.
 In collaboration with a new PhD student in my program, I am currently beginning a follow-up project to study goal-oriented adaptive mesh refinement strategies for this model.
 
@@ -100,7 +100,7 @@ In collaboration with a new PhD student in my program, I am currently beginning 
 </figure>
 
 Perfectly matched layers (PMLs) are a very widespread type of artificial absorbing boundary layer used in numerical methods for wave propagation problems defined on unbounded domains.
-In order to lay the groundwork for some of my colleagues to begin their dissertation research, Ali Vaziri Astaneh and I recently developed PMLs for high-order DPG methods for several acoustic, elastodynamic, and electromagnetic models.
+In order to lay the groundwork for some of my colleagues to begin their dissertation research, Dr Ali Vaziri Astaneh and I recently developed PMLs for high-order DPG methods for several acoustic, elastodynamic, and electromagnetic models.
 Results from our numerical verification experiments are given in the figure above.
 
 ##### Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2017). On perfectly matched layers and non-symmetric variational formulations. [[preprint]()]
@@ -125,8 +125,8 @@ The code is not openly available due to limited documentation but it is well-use
   <figcaption> (Left) Illustrations of the 1D, 2D, and 3D elements supported by the ESEAS software. (Right) Illustration of the novel shape function construction for pyramid elements. </figcaption>
 </figure>
 
-The ESEAS software library supports a complete set of features for evaluating the so-called ''shape functions'' which comprise the basis used in a finite element discretization.
-The library is extremely innovative for its support for all standard elements in one, two, and three spatial dimensions (see figure above; left) for arbitrary polynomial order.
+The ESEAS software library supports a complete set of features for evaluating the so-called ''shape functions'' which comprise the bases used in a finite element discretization.
+The library is extremely innovative for its support for all standard elements in one, two, and three spatial dimensions for arbitrary polynomial order (see figure above; left).
 It relies on a minimal set of hierarchical routines to construct all elements.
 This hierarchical construction was a great breakthrough which also lead to the first explicit construction of arbitrary order pyramid elements (see figure above; right).
 
