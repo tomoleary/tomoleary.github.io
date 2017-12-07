@@ -113,7 +113,7 @@ Results from our numerical verification experiments are given in the figure abov
 </figure>
 
 A Lagrangian coherent structure (LCS) is an influential material surface which acts as a skeleton of observed mixing patterns in a dynamical system.
-During my Master's studies under [Professor George Haller](), I analyzed nonlinear dynamical systems via several new variational characterizations of LCSs.
+During my Master's studies supervised by [Professor George Haller](http://georgehaller.com/), I analyzed nonlinear dynamical systems via several new variational characterizations of LCSs.
 
 ##### Keith, B. (2014). Lagrangian coherent structures in three-dimensional steady flows. Master's Thesis, McGill University, Montreal, Quebec, Canada. [[link](http://digitool.Library.McGill.CA:80/R/-?func=dbin-jump-full&object_id=121521&silo_library=GEN01)]
 
