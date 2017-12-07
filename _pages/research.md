@@ -105,7 +105,7 @@ Results from our numerical verification experiments are given in the figure abov
 
 ##### Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2017). On perfectly matched layers and non-symmetric variational formulations. [[preprint](/assets/documents/main.pdf)]
 
-### Coherent Structures
+### Mixing patterns
 
 <figure>
   <img src="/assets/images/ResearchLCS.png" alt="">
