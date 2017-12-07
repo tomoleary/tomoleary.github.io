@@ -24,7 +24,7 @@ My journal articles can also be tracked on [Scopus](https://www.scopus.com/authi
 
 ## Technical Reports
 
-| Keith, B., Demkowicz, L., and Gopalakrishnan, J. (2017). DPG* Method. _ArXiv e-print arXiv:1710.05223 [math.NA]_ [[link](https://arxiv.org/abs/1710.05223)] |
+| Keith, B., Demkowicz, L., and Gopalakrishnan, J. (2017). DPG* Method. ICES Report 17-25. The University of Texas at Austin. [[link](https://www.ices.utexas.edu/media/reports/2017/1725.pdf)] |
 
 ## Other
 

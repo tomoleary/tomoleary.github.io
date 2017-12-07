@@ -96,7 +96,7 @@ In collaboration with a new PhD student in my program, I am currently beginning 
 
 <figure>
   <img src="/assets/images/ResearchWaves.png" alt="">
-  <figcaption> (Far left) A 2D computational domain with a perfectly matched layer (PML). (Center left) A 3D computational domain with a PML. (Center right) The $x$-component of the displacement from a 2D elastodynamics model. (Far right) <em>x</em>-component of the electric field from a 3D electromagnetics model. </figcaption>
+  <figcaption> (Far left) A 2D computational domain with a perfectly matched layer (PML). (Center left) A 3D computational domain with a PML. (Center right) The <em>x</em>-component of the displacement from a 2D elastodynamics model. (Far right) The <em>x</em>-component of the electric field from a 3D electromagnetics model. </figcaption>
 </figure>
 
 Perfectly matched layers (PMLs) are a very widespread type of artificial absorbing boundary layer used in numerical methods for wave propagation problems defined on unbounded domains.
@@ -121,7 +121,7 @@ The code is not openly available due to limited documentation but it is well-use
 ### ESEAS
 
 <figure>
-  <img src="/assets/images/ReseachESEAS.png" alt="">
+  <img src="/assets/images/ReseachESEAS.png" style="width: 90%; height: 90%" align="middle" alt="">
   <figcaption> (Left) Illustrations of the 1D, 2D, and 3D elements supported by the ESEAS software. (Right) Illustration of the novel shape function construction for pyramid elements. </figcaption>
 </figure>
 

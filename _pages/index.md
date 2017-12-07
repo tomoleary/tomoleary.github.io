@@ -14,7 +14,8 @@ I am a graduate research assistant and PhD candidate at the [Institute for Compu
 My research is supervised by [Professor Leszek Demkowicz](http://users.ices.utexas.edu/~leszek/). <br>
 
 My research is driven towards understanding — e.g. characterizing, quantifying, and, ultimately, predicting — natural phenomena through mathematical modelling.
-From this purview, computer methods are indispensable in order to make decisions and reach conclusions for contemporary problems in science and engineering.
-By employing mathematical tools from functional analysis, topology, differential geometry, and numerical linear algebra, the intent of my research is to develop the most accurate and practical algorithms for modern scientific and engineering purposes.
+Within this purview, numerical methods are indispensable.
+They must be used in order to make decisions and reach conclusions in science and engineering.
+By employing mathematical tools from functional analysis, topology, differential geometry, and numerical linear algebra, the intent of my research is to develop the most accurate and practical numerical methods for modern scientific and engineering purposes.
 
 Learn more about my research [here](/research/).
