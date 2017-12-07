@@ -125,7 +125,7 @@ The code is not openly available due to limited documentation but it is well-use
   <figcaption> (Left) Illustrations of the 1D, 2D, and 3D elements supported by the ESEAS software. (Right) Illustration of the novel shape function construction for pyramid elements. </figcaption>
 </figure>
 
-The ESEAS software library supports a complete set of features for evaluating the so-called ''shape functions'' which comprise the bases used in a finite element discretization.
+The ESEAS (exact sequence elements of all shapes) software library supports a complete set of features for evaluating the so-called ''shape functions'' which comprise the bases used in a finite element discretization.
 The library is extremely innovative for its support for all standard elements in one, two, and three spatial dimensions for arbitrary polynomial order (see figure above; left).
 It relies on a minimal set of hierarchical routines to construct all elements.
 This hierarchical construction was a great breakthrough which also lead to the first explicit construction of arbitrary order pyramid elements (see figure above; right).
@@ -134,6 +134,13 @@ This hierarchical construction was a great breakthrough which also lead to the f
 
 ### Camellia
 
-Camellia began as an effort to simplify implementation of efficient solvers for the discontinuous Petrov-Galerkin (DPG) finite element methodology of Demkowicz and Gopalakrishnan. Since then, the feature set has expanded, to allow implementation of traditional continuous Galerkin methods, as well as discontinuous Galerkin (DG) methods, hybridizable DG (HDG) methods, first-order-system least squares (FOSLS), and the primal DPG method. This manual serves as an introduction to using Camellia. We begin, in Section 1.1, by describing some of the core features of Camellia. In Section 1.2 we provide an outline of the manual as a whole.
+The Camellia software library is a C++ toolbox developed by Dr Nathan V. Roberts which uses Sandia's Trilinos library of packages.
+It is a publicly available software with many tools for rapid implementation of finite element methods including discontinuous Galerkin, discontinuous Petrov-Galerkin, hybridizable discontinuous Galerkin, and first-order system least-squares methods.
+Development of support for DPG* methods in Camellia is ongoing.
+
+<!-- Camellia's mechanisms allow the user to simply provide the bilinear form, boundary conditions, polynomial order, and material and load data before solving a problem.
+Afterwards, Camellia's many f -->
 
 Download Camellia [here](https://bitbucket.org/nateroberts/camellia.git).
+
+Download the Camellia manual [here](https://www.osti.gov/scitech/biblio/1334186).
