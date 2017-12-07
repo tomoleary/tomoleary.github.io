@@ -13,21 +13,21 @@ Regardless of scale, in order to bridge the gap between observation and theory, 
 From simulating star formation to proton transport, from climate change and sea level rise to turbulence and combustion (not to mention turbulent combustion), or from structural design to the design of personalized treatment pathways in state-of-the-art medical practice, computer simulations are indispensable.
 Through simulation, I strive to bring clarity and insight into such otherwise intractable problems.
 
-In addition to discovering a new class of finite element methods, called [DPG* methods](https://arxiv.org/abs/1710.05223), and also classifying its dual category of finite element methods called [discrete least-squares methods (DLS methods)](https://doi.org/10.1016/j.cma.2017.08.043), I have written general and portable software for high-order and adaptive finite element methods and developed specific methods for structural, fluid, and wave mechanics problems.
+In addition to discovering a new class of finite element methods, called [DPG* methods](https://arxiv.org/abs/1710.05223), and also classifying its dual category of methods called [discrete least-squares methods (DLS methods)](https://doi.org/10.1016/j.cma.2017.08.043), I have written general and portable software for high-order and adaptive simulations and developed specific methods for structural, fluid, and wave mechanics problems.
 
 ## Numerical Methods
 
-Much of my PhD research was spent studying discontinuous Petrov-Galerkin finite element methods (DPG methods) which have significant properties amenable to high-order and adaptive simulations.
+Much of my PhD research was spent focusing on discontinuous Petrov-Galerkin finite element methods (DPG methods) which have significant properties amenable to high-order and adaptive simulations.
 
 ### DLS Methods
 
 <figure>
   <img src="/assets/images/ResearchDLS2.png" alt="">
-  <figcaption>(Left) Condition number growth of various stiffness matrices. Notice the <em>O</em>(<em>h</em><sup>-1</sup>) growth in green. This is comes reformulating the assembly algorithm, <em>not</em> from a new preconditioner. (Right) A study in robustness and sensitivity to round-off error of frequency-domain acoustic wave equation <em>near resonance</em>. Here, the DLS solutions converge while the others diverge. </figcaption>
+  <figcaption>(Left) Condition number growth of various stiffness matrices. Notice the <em>O</em>(<em>h</em><sup>-1</sup>) growth in green. This is comes from reformulating the assembly algorithm, <em>not</em> from a new preconditioner. (Right) A study in robustness and sensitivity to round-off error with the frequency-domain acoustic wave equation <em>near resonance</em>. Here, the DLS solutions converge while the others diverge. </figcaption>
 </figure>
 
 From extensive research on DPG methods, the term discrete least-squares finite element method (DLS method) was coined.
-The discrete systems in DLS methods have a very specific algebraic structure which can be exploited to accelerate computation times or reduce the round-off error.
+The discrete linear systems in DLS methods have a very specific algebraic structure which can be exploited to accelerate computation or to reduce round-off error.
 
 ###### Keith, B., Petrides, S., Fuentes, F., and Demkowicz, L. (2017). Discrete least-squares finite element methods. _Comput. Methods Appl. Mech. Engrg._, 327:226-255. [[preprint](https://arxiv.org/abs/1705.02078)] [[doi](https://doi.org/10.1016/j.cma.2017.08.043)]
 
@@ -37,7 +37,7 @@ DPG* methods are dual to DPG methods.
 This new class of finite element method uses the same coefficient matrix as the associated DPG method but has a different load and involves a post-processing step to render the solution.
 In the DLS theory, DPG methods can be identified with the least-squares problem corresponding to an overdetermined system of equations.
 An analogous identification can be made with DPG* methods.
-However, DPG* methods are associated with the least-squares problem corresponding to an _underdetermined_ systems of equations.
+However, DPG* methods are associated with the least-squares problem corresponding to an _underdetermined_ system of equations.
 
 Currently, I am studying the properties of DPG* methods, including _a posteriori_ error estimation, superconvergence, and applications to special problems lacking uniqueness of solutions.
 
@@ -47,13 +47,13 @@ Currently, I am studying the properties of DPG* methods, including _a posteriori
 
 <figure>
   <img src="/assets/images/ResearchGMR.png" alt="">
-  <figcaption> (Far left) Manufactured solution with high gradient in the region colored red. (Center left) A region of interest (shaded light red) where the solution is declared to be of primary interest. (Center right) A goal-oriented adaptive mesh refinement pattern which seeks to minimize the numerical error in the region of interest. (Far right) Vast improvement in the efficiency across three new goal-oriented refinement strategies, shown in red, green, and blue, in comparison to a standard adaptive mesh refinement strategy, shown in black. </figcaption>
+  <figcaption> (Far left) Manufactured solution with a large gradient in the region coloured deep red. (Center left) A region of interest (shaded light red) where the solution is declared to be of primary interest. (Center right) A goal-oriented adaptive mesh refinement pattern which seeks to minimize the numerical error in the region of interest. (Far right) Vast improvement in the efficiency across three new goal-oriented refinement strategies, shown in red, green, and blue, in comparison to a standard adaptive mesh refinement strategy, shown in black. </figcaption>
 </figure>
 
 Goal-oriented methods are tailored for accuracy in a specific output.
 With goal-oriented methods, great efficiency improvements can be achieved because a globally high-quality solution is often not necessary.
 Once the output is determined there are many different ways in which to seek efficiency improvements.
-One way is through goal-oriented adaptive mesh refinement, which I explored for non-symmetric functional settings through a new Petrov-Galerkin duality theory which I developed. 
+One way is through goal-oriented adaptive mesh refinement, which I explored in non-symmetric functional settings through a new Petrov-Galerkin duality theory which I developed. 
 
 ###### Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2017). Goal-oriented adaptive mesh refinement for non-symmetric functional settings. _ArXiv e-print arXiv:1711.01996 [math.NA]_ [[preprint](https://arxiv.org/abs/1711.01996)]
 
@@ -63,13 +63,13 @@ One way is through goal-oriented adaptive mesh refinement, which I explored for 
 
 <figure>
   <img src="/assets/images/ResearchElasticity.png" alt="">
-  <figcaption>(Left) Adaptive mesh refinement with different formulations for a singular solution. (Center) Schematic diagrams of a complicated sheathed hose problem. (Right) The computed azimuthal stress on the two material in the hose. </figcaption>
+  <figcaption>(Left) Adaptive mesh refinement with different formulations for a singular solution. (Center) Schematic diagrams of a complicated sheathed hose problem. (Right) The computed azimuthal stress on the two materials in the hose. </figcaption>
 </figure>
 
 In a sequence of two papers, I analyzed and implemented four different formulations — denoted strong, mixed, primal, and ultraweak, respectively (see figure; left) — of a common linearized elasticity model.
-This project culminated in the analysis of a very difficult coupled rubber and steel two-material model (see figure; center and right).
+This project culminated in the analysis of a very difficult high material contrast coupled rubber and steel model (see figure; center and right).
 Here, due to the incompressibility of the rubber, standard displacement-only methods will often break down or ''lock.''
-Additionally, the steel in the model was very thin and so, likewise, some alternative formulations will often break down there.
+Additionally, the steel in the model is very thin and so, likewise, some alternative formulations will often break down there.
 Our solution was to develop a special method coupling two different formulations together at the material interface; hence, greatly improving the accuracy possible solely with either individual formulation.
 
 ##### Fuentes, F., Keith, B., Demkowicz, L., and Le Tallec, P. (2017). Coupled variational formulations of linear elasticity and the DPG methodology. _J. Comput. Phys._, 348:715-731. [[preprint](https://arxiv.org/abs/1609.08180)] [[doi](https://doi.org/10.1016/j.jcp.2017.07.051)]
@@ -110,7 +110,7 @@ Results from our numerical verification experiments are given in the figure abov
 I have written a significant amount of software in Fortran, Matlab, and C++.
 Some of the software projects which I have led or contributed to are described below.
 
-### <em>hp</em>2d/<em>hp</em>3D
+### <em>hp</em>2D/<em>hp</em>3D
 
 I contribute to and help maintain the two Fortran finite element softwares <em>hp</em>2D and <em>hp</em>3D which have complete 2D/3D support for local hierarchical anisotropic <em>h</em>- and <em>p</em>-refinement with one level of hanging nodes and shape functions for all standard elements conforming in each of the canonical de Rahm complex of Hilbert spaces:
 <figure>
@@ -135,8 +135,8 @@ This hierarchical construction was a great breakthrough which also lead to the f
 ### Camellia
 
 The Camellia software library is a C++ toolbox developed by Dr Nathan V. Roberts which uses Sandia's Trilinos library of packages.
-It is a publicly available software with many tools for rapid implementation of finite element methods including discontinuous Galerkin, discontinuous Petrov-Galerkin, hybridizable discontinuous Galerkin, and first-order system least-squares methods.
-Development of support for DPG* methods in Camellia is ongoing.
+It is a publicly available software with many tools for rapid implementation of finite element methods including discontinuous Galerkin (DG), discontinuous Petrov-Galerkin (DPG), hybridizable discontinuous Galerkin (HDG), and first-order system least-squares methods (FOSLS).
+Development of full support for DPG* methods in Camellia is ongoing.
 
 <!-- Camellia's mechanisms allow the user to simply provide the bilinear form, boundary conditions, polynomial order, and material and load data before solving a problem. -->
 
