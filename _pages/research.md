@@ -17,8 +17,8 @@ In addition to discovering a new class of finite element methods, called [DPG* m
 
 ## Numerical Methods
 
-Much of my PhD research was spent focusing on discontinuous Petrov-Galerkin finite element methods (DPG methods) which have significant properties amenable to high-order and adaptive simulations.
-The following descriptions involve <em>new</em> methods which I developed during my studies.
+Much of my PhD research was spent focusing on discontinuous Petrov-Galerkin finite element methods (DPG methods) which have been used extensively for high-order and adaptive simulations.
+The following descriptions involve <em>new</em> methods and contributions to DPG development from my research.
 
 ### DLS Methods
 
