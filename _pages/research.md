@@ -138,8 +138,7 @@ The Camellia software library is a C++ toolbox developed by Dr Nathan V. Roberts
 It is a publicly available software with many tools for rapid implementation of finite element methods including discontinuous Galerkin, discontinuous Petrov-Galerkin, hybridizable discontinuous Galerkin, and first-order system least-squares methods.
 Development of support for DPG* methods in Camellia is ongoing.
 
-<!-- Camellia's mechanisms allow the user to simply provide the bilinear form, boundary conditions, polynomial order, and material and load data before solving a problem.
-Afterwards, Camellia's many f -->
+<!-- Camellia's mechanisms allow the user to simply provide the bilinear form, boundary conditions, polynomial order, and material and load data before solving a problem. -->
 
 Download Camellia [here](https://bitbucket.org/nateroberts/camellia.git).
 
