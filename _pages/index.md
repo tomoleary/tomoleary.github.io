@@ -13,9 +13,9 @@ author_profile: true
 I am a graduate research assistant and PhD candidate at the [Institute for Computational Engineering and Sciences (ICES)](https://www.ices.utexas.edu/).
 My research is supervised by [Professor Leszek Demkowicz](http://users.ices.utexas.edu/~leszek/). <br>
 
-My research is driven towards understanding — e.g. characterizing, quantifying, and, ultimately, predicting — natural phenomena through mathematical modelling.
+My research is driven towards understanding — e.g. characterizing, quantifying, and, ultimately, predicting — natural phenomena by way of mathematical modelling.
 Within this purview, numerical methods are indispensable.
-They must be used in order to make decisions and reach conclusions in science and engineering.
+Indeed, they must be used in order to make decisions and reach conclusions when dealing with contemporary science and engineering problems.
 By employing mathematical tools from functional analysis, topology, differential geometry, and numerical linear algebra, the intent of my research is to develop the most accurate and practical numerical methods for modern scientific and engineering purposes.
 
 Learn more about my research [here](/research/).
