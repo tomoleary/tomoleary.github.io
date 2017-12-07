@@ -54,7 +54,7 @@ Currently, I am studying the properties of DPG* methods, including _a posteriori
 Goal-oriented methods are tailored for accuracy in a specific output.
 With goal-oriented methods, great efficiency improvements can be achieved because a globally high-quality solution is often not necessary.
 Once the output is determined there are many different ways in which to seek efficiency improvements.
-One way is through goal-oriented adaptive mesh refinement, which can be rigorously formulated in non-symmetric functional settings with the new Petrov-Galerkin duality theory I developed. 
+One way is through goal-oriented adaptive mesh refinement, which can be rigorously formulated in non-symmetric functional settings with the new Petrov-Galerkin duality theory that I developed. 
 
 ###### Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2017). Goal-oriented adaptive mesh refinement for non-symmetric functional settings. _ArXiv e-print arXiv:1711.01996 [math.NA]_ [[preprint](https://arxiv.org/abs/1711.01996)]
 
