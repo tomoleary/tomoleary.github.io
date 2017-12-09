@@ -153,6 +153,6 @@ Development of full support for DPG* methods in Camellia is ongoing.
 
 <!-- Camellia's mechanisms allow the user to simply provide the bilinear form, boundary conditions, polynomial order, and material and load data before solving a problem. -->
 
-Download Camellia [here](https://bitbucket.org/nateroberts/camellia.git).
+[Download Camellia](https://bitbucket.org/nateroberts/camellia.git)
 
-Download the Camellia manual [here](https://www.osti.gov/scitech/biblio/1334186).
+[Download the Camellia manual](https://www.osti.gov/scitech/biblio/1334186)
