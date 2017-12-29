@@ -67,7 +67,7 @@ One way is through goal-oriented adaptive mesh refinement, which can be rigorous
   <figcaption>(Left) Adaptive mesh refinement with different formulations for a singular solution. (Center) Schematic diagrams of a complicated sheathed hose problem. (Right) The computed azimuthal stress on the two materials in the hose. </figcaption>
 </figure>
 
-In a sequence of two papers, Federico Fuentes and I analyzed and implemented four different formulations — denoted strong, mixed, primal, and ultraweak, respectively (see figure; left) — of a common linearized elasticity model.
+In a sequence of two papers, Federico Fuentes and I analyzed four different formulations — denoted strong, mixed, primal, and ultraweak, respectively (see figure; left) — of a common linearized elasticity model.
 This project culminated in the analysis of a very difficult high material contrast coupled rubber and steel model (see figure; center and right).
 Here, due to the incompressibility of the rubber, standard displacement-only methods will often break down or ''lock.''
 Additionally, the steel in the model is very thin and so, likewise, some alternative formulations will often break down there.
