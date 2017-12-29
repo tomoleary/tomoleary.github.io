@@ -53,7 +53,7 @@ Currently, I am studying the properties of DPG* methods, including _a posteriori
 
 Goal-oriented methods are tailored for accuracy in a specific output.
 With goal-oriented methods, great efficiency improvements can be achieved because a globally high-quality solution is often not necessary.
-Once the output is determined there are many different ways in which to seek efficiency improvements.
+Once the output is determined, there are many different ways in which to seek efficiency improvements.
 One way is through goal-oriented adaptive mesh refinement, which can be rigorously formulated in non-symmetric functional settings with the new Petrov-Galerkin duality theory that I developed. 
 
 ###### Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2017). Goal-oriented adaptive mesh refinement for non-symmetric functional settings. _ArXiv e-print arXiv:1711.01996 [math.NA]_ [[preprint](https://arxiv.org/abs/1711.01996)]
@@ -67,7 +67,7 @@ One way is through goal-oriented adaptive mesh refinement, which can be rigorous
   <figcaption>(Left) Adaptive mesh refinement with different formulations for a singular solution. (Center) Schematic diagrams of a complicated sheathed hose problem. (Right) The computed azimuthal stress on the two materials in the hose. </figcaption>
 </figure>
 
-In a sequence of two papers, I analyzed and implemented four different formulations — denoted strong, mixed, primal, and ultraweak, respectively (see figure; left) — of a common linearized elasticity model.
+In a sequence of two papers, Federico Fuentes and I analyzed and implemented four different formulations — denoted strong, mixed, primal, and ultraweak, respectively (see figure; left) — of a common linearized elasticity model.
 This project culminated in the analysis of a very difficult high material contrast coupled rubber and steel model (see figure; center and right).
 Here, due to the incompressibility of the rubber, standard displacement-only methods will often break down or ''lock.''
 Additionally, the steel in the model is very thin and so, likewise, some alternative formulations will often break down there.
@@ -84,12 +84,13 @@ Our solution was to develop a special method coupling two different formulations
   <figcaption> (Left) Velocity field and stress tensor component profiles from an Oldroyd-B fluid model. (Center) Convergence through adaptive mesh refinements of the horizontal traction component of the solution. (Right) An example of an adaptively refined mesh after five refinement steps. </figcaption>
 </figure>
 
-Viscoelastic models are commonly used in engineering to simulate blood and polymer melts.
+Viscoelastic fluid models are commonly used in engineering to simulate blood and polymer melts.
 These models are well-known to very challenging both in simulation and in mathematical analysis.
 
-I developed a new DPG finite element method of the Oldroyd-B viscoelastic fluid model which is both intrinsically stable throughout a broad range of model parameters and studied parameter-dependent adaptive mesh refinement with the method.
+I developed a new DPG finite element method of the Oldroyd-B viscoelastic fluid model which is intrinsically stable throughout a broad range of model parameters.
+I then studied parameter-dependent adaptive mesh refinement with the method.
 The simulations for this project were completed using the [Camellia software library](https://www.osti.gov/scitech/biblio/1334186), which I assisted in developing.
-In collaboration with a new PhD student in my program, I am currently beginning a follow-up project to study goal-oriented adaptive mesh refinement strategies for this model.
+I am currently working on a follow-up project to study goal-oriented adaptive mesh refinement strategies for this model.
 
 ##### Keith, B., Knechtges, P., Roberts, N.V., Elgeti, S., Behr, M., and Demkowicz, L (2017). An ultraweak DPG method for viscoelastic fluids. _J. Non-Newton. Fluid Mech._, 247:107-122. [[preprint](https://arxiv.org/abs/1612.03124)] [[doi](https://doi.org/10.1016/j.jnnfm.2017.06.006)]
 
