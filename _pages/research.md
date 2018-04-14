@@ -24,7 +24,7 @@ The following descriptions pertain to <em>new</em> methods and contributions to 
 
 <figure>
   <img src="/assets/images/ResearchDLS2.png" alt="">
-  <figcaption>(Left) Condition number growth of various stiffness matrices. Notice the <em>O</em>(<em>h</em><sup>-1</sup>) growth in green. This is comes from reformulating the assembly algorithm, <em>not</em> from a new preconditioner. (Right) A study in robustness and sensitivity to round-off error with the frequency-domain acoustic wave equation <em>near resonance</em>. Here, the DLS solutions converge while the others diverge. </figcaption>
+  <figcaption>Left: Condition number growth of various stiffness matrices. Notice the <em>O</em>(<em>h</em><sup>-1</sup>) growth in green. This is comes from reformulating the assembly algorithm, <em>not</em> from a new preconditioner. Right: A study in robustness and sensitivity to round-off error with the frequency-domain acoustic wave equation <em>near resonance</em>. Here, the DLS solutions converge while the others diverge. </figcaption>
 </figure>
 
 From extensive research on DPG methods, the term discrete least-squares finite element method (DLS method) was coined.
@@ -48,7 +48,7 @@ Currently, I am studying the properties of DPG* methods, including _a posteriori
 
 <figure>
   <img src="/assets/images/ResearchGMR.png" alt="">
-  <figcaption> (Far left) Manufactured solution with a large gradient in the region coloured deep red. (Center left) A region of interest (shaded light red) where the solution is declared to be of primary interest. (Center right) A goal-oriented adaptive mesh refinement pattern which seeks to minimize the numerical error in the region of interest. (Far right) Vast improvement in the efficiency across three new goal-oriented refinement strategies, shown in red, green, and blue, in comparison to a standard adaptive mesh refinement strategy, shown in black. </figcaption>
+  <figcaption> Far left: Manufactured solution with a large gradient in the region coloured deep red. Center left: A region of interest (shaded light red) where the solution is declared to be of primary interest. Center right: A goal-oriented adaptive mesh refinement pattern which seeks to minimize the numerical error in the region of interest. Far right: Vast improvement in the efficiency across three new goal-oriented refinement strategies, shown in red, green, and blue, in comparison to a standard adaptive mesh refinement strategy, shown in black. </figcaption>
 </figure>
 
 Goal-oriented methods are tailored for accuracy in a specific output.
@@ -64,7 +64,7 @@ One way is through goal-oriented adaptive mesh refinement, which can be rigorous
 
 <figure>
   <img src="/assets/images/ResearchElasticity.png" alt="">
-  <figcaption>(Left) Adaptive mesh refinement with different formulations for a singular solution. (Center) Schematic diagrams of a complicated sheathed hose problem. (Right) The computed azimuthal stress on the two materials in the hose. </figcaption>
+  <figcaption>Left: Adaptive mesh refinement with different formulations for a singular solution. Center: Schematic diagrams of a complicated sheathed hose problem. Right: The computed azimuthal stress on the two materials in the hose. </figcaption>
 </figure>
 
 In a sequence of two papers, Federico Fuentes and I analyzed four different formulations — denoted strong, mixed, primal, and ultraweak, respectively (see figure; left) — of a common linearized elasticity model.
@@ -81,7 +81,7 @@ Our solution was to develop a special method coupling two different formulations
 
 <figure>
   <img src="/assets/images/ResearchFluid.png" alt="">
-  <figcaption> (Left) Velocity field and stress tensor component profiles from an Oldroyd-B fluid model. (Center) Convergence through adaptive mesh refinements of the horizontal traction component of the solution. (Right) An example of an adaptively refined mesh after five refinement steps. </figcaption>
+  <figcaption> Left: Velocity field and stress tensor component profiles from an Oldroyd-B fluid model. Center: Convergence through adaptive mesh refinements of the horizontal traction component of the solution. Right: An example of an adaptively refined mesh after five refinement steps. </figcaption>
 </figure>
 
 Viscoelastic fluid models are commonly used in engineering to simulate blood and polymer melts.
@@ -98,7 +98,7 @@ I am currently working on a follow-up project to study goal-oriented adaptive me
 
 <figure>
   <img src="/assets/images/ResearchWaves.png" alt="">
-  <figcaption> (Far left) A 2D computational domain with a perfectly matched layer (PML). (Center left) A 3D computational domain with a PML. (Center right) The <em>x</em>-component of the displacement from a 2D elastodynamics model. (Far right) The <em>x</em>-component of the electric field from a 3D electromagnetics model. </figcaption>
+  <figcaption> Far left: A 2D computational domain with a perfectly matched layer (PML). Center left: A 3D computational domain with a PML. Center right: The <em>x</em>-component of the displacement from a 2D elastodynamics model. Far right: The <em>x</em>-component of the electric field from a 3D electromagnetics model. </figcaption>
 </figure>
 
 Perfectly matched layers (PMLs) are a very widespread type of artificial absorbing boundary layer used in numerical methods for wave propagation problems defined on unbounded domains.
@@ -136,7 +136,7 @@ The code is not openly available due to limited documentation but it is well-use
 
 <figure>
   <img src="/assets/images/ReseachESEAS.png" style="width: 90%; height: 90%" align="middle" alt="">
-  <figcaption> (Left) Illustrations of the 1D, 2D, and 3D elements supported by the ESEAS software. (Right) Illustration of the novel shape function construction for pyramid elements. </figcaption>
+  <figcaption> Left: Illustrations of the 1D, 2D, and 3D elements supported by the ESEAS software. Right: Illustration of the novel shape function construction for pyramid elements. </figcaption>
 </figure>
 
 The ESEAS (exact sequence elements of all shapes) software library supports a complete set of features for evaluating the so-called ''shape functions'' which comprise the bases used in a finite element discretization.
