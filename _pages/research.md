@@ -105,7 +105,7 @@ Perfectly matched layers (PMLs) are a very widespread type of artificial absorbi
 In order to lay the groundwork for some of my colleagues to begin their dissertation research, Dr Ali Vaziri Astaneh and I recently developed PMLs for high-order DPG methods for several acoustic, elastodynamic, and electromagnetic models.
 Results from our numerical verification experiments are given in the figure above.
 
-##### Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2018). On perfectly matched layers and discontinuous Petrov–Galerkin methods. _ArXiv e-print arXiv:1804.04496 [math.NA]_ [[preprint](https://arxiv.org/abs/1804.04496)]
+##### Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2018). On perfectly matched layers for discontinuous Petrov–Galerkin methods. _ArXiv e-print arXiv:1804.04496 [math.NA]_ [[preprint](https://arxiv.org/abs/1804.04496)]
 
 ### Mixing patterns
 
