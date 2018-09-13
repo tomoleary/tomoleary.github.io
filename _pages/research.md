@@ -13,7 +13,7 @@ Regardless of scale, in order to bridge the gap between observation and theory, 
 From simulating star formation to proton transport, from climate change and sea level rise to turbulence and combustion (not to mention turbulent combustion), or from structural design to the design of personalized treatment pathways in state-of-the-art medical practice, computer simulations are indispensable.
 Through simulation, I strive to bring clarity and insight into such otherwise intractable problems.
 
-In addition to discovering a new class of finite element methods, called [DPG* methods](https://arxiv.org/abs/1710.05223), and also classifying its dual category of methods called [discrete least-squares methods (DLS methods)](https://doi.org/10.1016/j.cma.2017.08.043), I have written general and portable software for high-order and adaptive simulations and developed specific methods for structural, fluid, and wave mechanics problems.
+In addition to discovering a new class of finite element methods, called [DPG* methods](https://arxiv.org/abs/1809.03153), and also classifying its dual category of methods called [discrete least-squares methods (DLS methods)](https://doi.org/10.1016/j.cma.2017.08.043), I have written general and portable software for high-order and adaptive simulations and developed specific methods for structural, fluid, and wave mechanics problems.
 
 ## Numerical Methods
 
@@ -42,7 +42,7 @@ However, DPG* methods are associated with the least-squares problem correspondin
 
 Currently, I am studying the properties of DPG* methods, including _a posteriori_ error estimation, superconvergence, and applications to special problems lacking uniqueness of solutions.
 
-###### Keith, B., Demkowicz, L., and Gopalakrishnan, J. (2017). DPG* Method. _ArXiv e-print arXiv:1710.05223 [math.NA]_ [[link](https://arxiv.org/abs/1710.05223)]
+###### Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2018). The DPG-star Method. _ArXiv e-print arXiv:1809.03153 [math.NA]_ [[link](https://arxiv.org/abs/1809.03153)]
 
 ### Goal-Oriented Methods
 

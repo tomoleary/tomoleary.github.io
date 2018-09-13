@@ -10,8 +10,11 @@ author_profile: true
 
 # About
 
-I am a graduate research assistant and PhD candidate at the [Institute for Computational Engineering and Sciences (ICES)](https://www.ices.utexas.edu/).
-My work is supervised by [Professor Leszek Demkowicz](http://users.ices.utexas.edu/~leszek/). <br>
+<!-- I am a graduate research assistant and PhD candidate at the [Institute for Computational Engineering and Sciences (ICES)](https://www.ices.utexas.edu/).
+My work is supervised by [Professor Leszek Demkowicz](http://users.ices.utexas.edu/~leszek/). <br> -->
+
+I am a postdoctoral researcher in the [Chair for Numerical Mathematics](https://www-m2.ma.tum.de/) at the Technical University of Munich.
+My work is supervised by [Professor Barbara Wohlmuth](http://www.professoren.tum.de/en/wohlmuth-barbara/). <br>
 
 My research is driven towards understanding — e.g. characterizing, quantifying, and, ultimately, predicting — natural phenomena by way of mathematical modelling.
 Within this purview, numerical methods are indispensable.
