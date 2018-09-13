@@ -11,7 +11,7 @@ My journal articles can also be tracked on [Scopus](https://www.scopus.com/authi
 
 ## Preprints
 
-| Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2018). The DPG-star Method. _ArXiv e-print arXiv:1809.03153 [math.NA]_ [[preprint](https://arxiv.org/abs/1809.03153)] |
+| Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2018). The DPG-star method. _ArXiv e-print arXiv:1809.03153 [math.NA]_ [[preprint](https://arxiv.org/abs/1809.03153)] |
 | Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2018). On perfectly matched layers for discontinuous Petrov–Galerkin methods. _ArXiv e-print arXiv:1804.04496 [math.NA]_ [[preprint](https://arxiv.org/abs/1804.04496)] |
 | Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2017). Goal-oriented adaptive mesh refinement for non-symmetric functional settings. _ArXiv e-print arXiv:1711.01996 [math.NA]_ [[preprint](https://arxiv.org/abs/1711.01996)] |
 

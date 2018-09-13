@@ -42,7 +42,7 @@ However, DPG* methods are associated with the least-squares problem correspondin
 
 Currently, I am studying the properties of DPG* methods, including _a posteriori_ error estimation, superconvergence, and applications to special problems lacking uniqueness of solutions.
 
-###### Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2018). The DPG-star Method. _ArXiv e-print arXiv:1809.03153 [math.NA]_ [[link](https://arxiv.org/abs/1809.03153)]
+###### Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2018). The DPG-star method. _ArXiv e-print arXiv:1809.03153 [math.NA]_ [[link](https://arxiv.org/abs/1809.03153)]
 
 ### Goal-Oriented Methods
 
