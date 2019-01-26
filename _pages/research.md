@@ -17,7 +17,7 @@ In addition to discovering a new class of finite element methods, called [DPG* m
 
 ## Numerical Methods
 
-Much of my PhD research was spent focusing on discontinuous Petrov-Galerkin finite element methods (DPG methods) which have been used extensively for high-order and adaptive simulations.
+Much of my [PhD research](http://hdl.handle.net/2152/68919) was spent focusing on discontinuous Petrov-Galerkin finite element methods (DPG methods) which have been used extensively for high-order and adaptive simulations.
 The following descriptions pertain to <em>new</em> methods and contributions to DPG development which came from my research.
 
 ### DLS Methods
@@ -105,7 +105,7 @@ Perfectly matched layers (PMLs) are a very widespread type of artificial absorbi
 In order to lay the groundwork for some of my colleagues to begin their dissertation research, Dr Ali Vaziri Astaneh and I recently developed PMLs for high-order DPG methods for several acoustic, elastodynamic, and electromagnetic models.
 Results from our numerical verification experiments are given in the figure above.
 
-##### Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2018). On perfectly matched layers for discontinuous Petrov–Galerkin methods. _ArXiv e-print arXiv:1804.04496 [math.NA]_ [[preprint](https://arxiv.org/abs/1804.04496)]
+##### Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2018). On perfectly matched layers for discontinuous Petrov–Galerkin methods. _Computational Mechanics_ [[preprint](https://arxiv.org/abs/1804.04496)] [[doi](https://doi.org/10.1007/s00466-018-1640-3)]
 
 ### Mixing patterns
 
