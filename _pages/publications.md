@@ -11,6 +11,7 @@ My journal articles can also be tracked on [Scopus](https://www.scopus.com/authi
 
 ## Preprints
 
+| Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: a priori error estimation. _ArXiv e-print arXiv:1902.07333 [math.NA]_ [[preprint](https://arxiv.org/abs/1902.07333)] |
 | Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2018). The DPG-star method. _ArXiv e-print arXiv:1809.03153 [math.NA]_ [[preprint](https://arxiv.org/abs/1809.03153)] |
 | Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2017). Goal-oriented adaptive mesh refinement for non-symmetric functional settings. _ArXiv e-print arXiv:1711.01996 [math.NA]_ [[preprint](https://arxiv.org/abs/1711.01996)] |
 
