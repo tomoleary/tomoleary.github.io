@@ -8,8 +8,8 @@ permalink: /CV/
 
 [Download my CV](/assets/documents/CV.pdf)
 
-<!-- <object data="/assets/documents/CVWebsite.pdf" type="application/pdf" width="100%" height="70px"> 
-  <p>It appears you don't have a pdf plugin for this browser.
-  You can <a href="/assets/documents/CVWebsite.pdf">click here to
-  download the pdf file.</a></p>  
-</object> -->
+<object data="/assets/documents/CV.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/documents/CV.pdf">
+        <p>This browser does not support PDFs. Please <a href="/assets/documents/CV.pdf">download the PDF</a> to view.</p>
+    </embed>
+</object>
