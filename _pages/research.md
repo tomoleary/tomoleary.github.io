@@ -19,7 +19,7 @@ I am interested in applying my work to problems at the frontiers of science and 
 
 ## Numerical Methods
 
-Much of my [PhD research](http://hdl.handle.net/2152/68919) was spent focusing on discontinuous Petrov-Galerkin finite element methods (DPG methods) which have been used extensively in engineering and scientific applications.
+Much of my [PhD research](http://hdl.handle.net/2152/68919), supervised by [Leszek Demkowicz](https://users.oden.utexas.edu/~leszek/), was spent focusing on discontinuous Petrov-Galerkin finite element methods (DPG methods) which have been used extensively in engineering and scientific applications.
 Since beginning my postdoctoral research, I have been focused on an emerging approach to finite element analysis which has been dubbed the "[surrogate matrix methodology](https://www-m2.ma.tum.de/bin/view/Allgemeines/M2SURR)."
 In additional, as part of my role in the EU's Horizon 2020 research and innovation program [ExaQUte](http://exaqute.eu/), my research has also included shape optimization under uncertainty, multilevel Monte Carlo methods, and turbulent inlet generation for large eddy simulation.
 The following summaries only pertain to my contributions to the field of finite element methods.
@@ -28,7 +28,7 @@ The following summaries only pertain to my contributions to the field of finite 
 
 <figure>
   <img src="/assets/images/Research2DPlot.png" alt="">
-  <figcaption> <em>hp</em>-adaptive mesh refinement with a DPG* method for Poisson's equation on the L-shaped domain. Left: The DPG* solution. (Color scale represents solution values.) Right: The corresponding <em>hp</em> quadtree mesh delivered by an <em>hp</em>-adaptive algorithm after fifteen refinements. (Colors represent the polynomial degree <em>p</em>.) </figcaption>
+  <figcaption> <em>hp</em>-adaptive mesh refinement with a DPG* method for Poisson's equation on the L-shaped domain. Left: The DPG* solution. (Colour scale represents solution values.) Right: The corresponding <em>hp</em> quadtree mesh delivered by an <em>hp</em>-adaptive algorithm after fifteen refinements. (Colours represent the polynomial degree <em>p</em>.) </figcaption>
 </figure>
 
 DPG* methods are dual to DPG methods.
@@ -142,7 +142,7 @@ Results from our numerical verification experiments are given in the figure abov
 </figure>
 
 A Lagrangian coherent structure (LCS) is an influential material surface which acts as a skeleton of observed mixing patterns in a dynamical system.
-During my Master's studies supervised by [Professor George Haller](http://georgehaller.com/), I analyzed several problems via new variational characterizations of LCSs.
+During my Master's studies, supervised by [George Haller](http://georgehaller.com/), I analyzed several problems via new variational characterizations of LCSs.
 
 ###### Keith, B. (2014). Lagrangian coherent structures in three-dimensional steady flows. Master's Thesis, McGill University, Montreal, Quebec, Canada. [[link](http://digitool.Library.McGill.CA:80/R/-?func=dbin-jump-full&object_id=121521&silo_library=GEN01)]
 
