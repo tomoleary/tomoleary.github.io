@@ -1,5 +1,5 @@
 ---
-title: "homepage"
+title: "About"
 layout: archive
 sitemap: true
 permalink: /
@@ -9,7 +9,7 @@ text-align: justify
 
 <!-- <img src="/assets/images/BigBend2.png" width="340px" alt="Brendan Keith" align="right" /> -->
 
-# About
+<!-- # About -->
 
 I am a postdoctoral researcher in the [Chair for Numerical Mathematics](https://www-m2.ma.tum.de/) at the Technical University of Munich.
 My work is supervised by [Barbara Wohlmuth](http://www.professoren.tum.de/en/wohlmuth-barbara/). <br>
