@@ -99,7 +99,7 @@ Once the output is determined, there are many different ways in which to seek ef
 One way is through goal-oriented adaptive mesh refinement, which can be rigorously formulated in non-symmetric functional settings and applied to DPG methods. 
 </p>
 
-###### Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2019). Goal-oriented adaptive mesh refinement for discontinuous Petrov–Galerkin methods. _SIAM J. Numer. Anal. (To appear)_ [[preprint](https://arxiv.org/abs/1711.01996)]
+###### Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2019). Goal-oriented adaptive mesh refinement for discontinuous Petrov–Galerkin methods. _SIAM J. Numer. Anal._, 57(4):1649-1676 [[preprint](https://arxiv.org/abs/1711.01996)]
 
 ## Applications
 

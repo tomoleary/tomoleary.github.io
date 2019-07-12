@@ -18,7 +18,7 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 
 ## Journal Articles
 
-| Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2019). Goal-oriented adaptive mesh refinement for discontinuous Petrov–Galerkin methods. _SIAM Journal on Numerical Analysis (To appear)_ [[preprint](https://arxiv.org/abs/1711.01996)] |
+| Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2019). Goal-oriented adaptive mesh refinement for discontinuous Petrov–Galerkin methods. _SIAM Journal on Numerical Analysis_, 57(4):1649-1676 [[preprint](https://arxiv.org/abs/1711.01996)] [[doi](https://doi.org/10.1137/18M1181754)] |
 | Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2018). On perfectly matched layers for discontinuous Petrov–Galerkin methods. _Computational Mechanics_, 63(6):1131-1145 [[preprint](https://arxiv.org/abs/1804.04496)] [[doi](https://doi.org/10.1007/s00466-018-1640-3)] |
 | Keith, B., Petrides, S., Fuentes, F., and Demkowicz, L. (2017). Discrete least-squares finite element methods. _Computer Methods in Applied Mechanics and Engineering_, 327:226-255. [[preprint](https://arxiv.org/abs/1705.02078)] [[doi](https://doi.org/10.1016/j.cma.2017.08.043)] |
 | Keith, B., Knechtges, P., Roberts, N.V., Elgeti, S., Behr, M., and Demkowicz, L (2017). An ultraweak DPG method for viscoelastic fluids. _Journal of Non-Newtonian Fluid Mechanics_, 247:107-122. [[preprint](https://arxiv.org/abs/1612.03124)] [[doi](https://doi.org/10.1016/j.jnnfm.2017.06.006)] |
