@@ -11,7 +11,7 @@ toc_icon: "gear"
 <p style="text-align: justify">
 In order to bridge the gaps between observation, theory, and prediction, modern science has come to heavily rely on sophisticated computational methods.
 From simulating star formation to proton transport, from climate change and sea level rise to turbulence and combustion (not to mention turbulent combustion), and from structural design to the design of personalized treatment pathways in state-of-the-art medical practice, complex computer simulations are indispensable, regardless of scale.
-By studying the mathematics behind computer simulations, I try to bring clarity and insight into these otherwise intractable problems.
+By studying the mathematics behind computer simulations, I try to bring clarity and insight into otherwise intractable problems like these.
 </p>
 
 <p style="text-align: justify">
