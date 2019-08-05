@@ -16,7 +16,7 @@ My work is supervised by <a href="http://www.professoren.tum.de/en/wohlmuth-barb
 <!-- </p> -->
 
 <!-- <p style="text-align: justify"> -->
-My research is driven towards understanding — e.g., characterizing, quantifying, and, ultimately, predicting — natural phenomena by way of mathematical modelling.
+My research is driven towards characterizing, quantifying, and, ultimately, predicting natural phenomena by way of mathematical modelling.
 Within this purview, numerical methods are indispensable.
 Indeed, they <em>must</em> be used in order to make informed decisions and reach reliable conclusions when facing contemporary problems in science and engineering.
 By employing mathematical tools from functional analysis, topology, differential geometry, and numerical linear algebra, the intent of my research is to develop the most accurate and practical numerical methods for modern scientific and engineering purposes.
