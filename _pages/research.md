@@ -67,7 +67,7 @@ This ongoing work is part of <a href="https://www-m2.ma.tum.de/bin/view/Allgemei
 </p>
 
 ###### Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: Accelerating isogeometric structural analysis. _In preparation_
-###### Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: A reference implementation for low-cost assembly in isogeometric analysis. _Submitted_
+###### Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: A reference implementation for low-cost assembly in isogeometric analysis. _ArXiv e-print  arXiv:1909.04029 [cs.MS]_ [[preprint](https://arxiv.org/abs/1909.04029)] [[code](https://dx.doi.org/10.5281/zenodo.3402341)]
 ###### Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: Low-cost assembly for isogeometric analysis. _ArXiv e-print   arXiv:1904.06971 [math.NA]_ [[preprint](https://arxiv.org/abs/1904.06971)]
 ###### Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: a priori error estimation. _ArXiv e-print arXiv:1902.07333 [math.NA]_ [[preprint](https://arxiv.org/abs/1902.07333)]
 

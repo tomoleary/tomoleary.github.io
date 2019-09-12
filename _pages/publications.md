@@ -11,7 +11,7 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 
 ## Preprints
 
-| Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: A reference implementation for low-cost assembly in isogeometric analysis. _Submitted_ [[code](https://github.com/drzisga/geopdes)] |
+| Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: A reference implementation for low-cost assembly in isogeometric analysis. _ArXiv e-print  arXiv:1909.04029 [cs.MS]_ [[preprint](https://arxiv.org/abs/1909.04029)] [[code](https://dx.doi.org/10.5281/zenodo.3402341)] |
 | Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: Low-cost assembly for isogeometric analysis. _ArXiv e-print arXiv:1904.06971 [math.NA]_ [[preprint](https://arxiv.org/abs/1904.06971)] |
 | Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: a priori error estimation. _ArXiv e-print arXiv:1902.07333 [math.NA]_ [[preprint](https://arxiv.org/abs/1902.07333)] |
 | Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2018). The DPG-star method. _ArXiv e-print arXiv:1809.03153 [math.NA]_ [[preprint](https://arxiv.org/abs/1809.03153)] |
