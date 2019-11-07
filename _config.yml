@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Brendan Keith"
-  avatar           : "/assets/images/profile_square.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile_square_new.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computational Science, Numerical Analysis, & Applications"
   location         : "Garching, Germany"
   email            : "keith@ma.tum.de"
