@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/bren096.jpg" width="340px" alt="Brendan Keith" align="right" hspace="20" />
+<img src="/assets/images/bren096.jpg" width="340px" alt="Brendan Keith" align="right" style="display:block" hspace="20" />
 
 <!-- # About -->
 
