@@ -12,12 +12,12 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 ## Preprints
 
 | Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: A reference implementation for low-cost assembly in isogeometric analysis. _ArXiv e-print  arXiv:1909.04029 [cs.MS]_ [[preprint](https://arxiv.org/abs/1909.04029)] [[code](https://dx.doi.org/10.5281/zenodo.3402341)] |
-| Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: Low-cost assembly for isogeometric analysis. _ArXiv e-print arXiv:1904.06971 [math.NA]_ [[preprint](https://arxiv.org/abs/1904.06971)] |
-| Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: a priori error estimation. _ArXiv e-print arXiv:1902.07333 [math.NA]_ [[preprint](https://arxiv.org/abs/1902.07333)] |
 | Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2018). The DPG-star method. _ArXiv e-print arXiv:1809.03153 [math.NA]_ [[preprint](https://arxiv.org/abs/1809.03153)] |
 
 ## Journal Articles
 
+| Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: Low-cost assembly for isogeometric analysis. _Computer Methods in Applied Mechanics and Engineering_ (to appear). [[preprint](https://arxiv.org/abs/1904.06971)] |
+| Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: a priori error estimation. _SIAM Journal on Scientific Computing_, 41(6):A3806-A3838 [[preprint](https://arxiv.org/abs/1902.07333)] [[doi](https://doi.org/10.1137/18M1226580)] |
 | Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2019). Goal-oriented adaptive mesh refinement for discontinuous Petrov–Galerkin methods. _SIAM Journal on Numerical Analysis_, 57(4):1649-1676 [[preprint](https://arxiv.org/abs/1711.01996)] [[doi](https://doi.org/10.1137/18M1181754)] |
 | Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2018). On perfectly matched layers for discontinuous Petrov–Galerkin methods. _Computational Mechanics_, 63(6):1131-1145 [[preprint](https://arxiv.org/abs/1804.04496)] [[doi](https://doi.org/10.1007/s00466-018-1640-3)] |
 | Keith, B., Petrides, S., Fuentes, F., and Demkowicz, L. (2017). Discrete least-squares finite element methods. _Computer Methods in Applied Mechanics and Engineering_, 327:226-255. [[preprint](https://arxiv.org/abs/1705.02078)] [[doi](https://doi.org/10.1016/j.cma.2017.08.043)] |
