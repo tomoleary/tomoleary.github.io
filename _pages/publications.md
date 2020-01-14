@@ -16,7 +16,7 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 ## Journal Articles
 
 | Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2020). The DPG-star method. _Computers & Mathematics with Applications_ (to appear) [[preprint](https://arxiv.org/abs/1809.03153)] |
-| Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: Low-cost assembly for isogeometric analysis. _Computer Methods in Applied Mechanics and Engineering_ 361:112776. [[preprint](https://arxiv.org/abs/1904.06971)] [[doi](https://doi.org/10.1016/j.cma.2019.112776)] |
+| Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: Low-cost assembly for isogeometric analysis. _Computer Methods in Applied Mechanics and Engineering_, 361:112776. [[preprint](https://arxiv.org/abs/1904.06971)] [[doi](https://doi.org/10.1016/j.cma.2019.112776)] |
 | Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: a priori error estimation. _SIAM Journal on Scientific Computing_, 41(6):A3806-A3838 [[preprint](https://arxiv.org/abs/1902.07333)] [[doi](https://doi.org/10.1137/18M1226580)] |
 | Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2019). Goal-oriented adaptive mesh refinement for discontinuous Petrov–Galerkin methods. _SIAM Journal on Numerical Analysis_, 57(4):1649-1676 [[preprint](https://arxiv.org/abs/1711.01996)] [[doi](https://doi.org/10.1137/18M1181754)] |
 | Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2018). On perfectly matched layers for discontinuous Petrov–Galerkin methods. _Computational Mechanics_, 63(6):1131-1145 [[preprint](https://arxiv.org/abs/1804.04496)] [[doi](https://doi.org/10.1007/s00466-018-1640-3)] |

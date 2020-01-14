@@ -42,7 +42,7 @@ In a well-defined sense, DPG, as a methodology, can be viewed as a practical mea
 In a similar way, DPG* delivers a methodology for underdetermined discretizations. 
 </p>
 
-###### Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2018). The DPG-star method. _Comput. Math. Appl. (to appear)_ [[link](https://arxiv.org/abs/1809.03153)]
+###### Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2020). The DPG-star method. _Comput. Math. Appl. (To appear)_ [[link](https://arxiv.org/abs/1809.03153)]
 
 ### Surrogate Matrix Methods
 
@@ -67,7 +67,7 @@ This ongoing work is part of <a href="https://www-m2.ma.tum.de/bin/view/Allgemei
 </p>
 
 ###### Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: A reference implementation for low-cost assembly in isogeometric analysis. _ArXiv e-print  arXiv:1909.04029 [cs.MS]_ [[preprint](https://arxiv.org/abs/1909.04029)] [[code](https://dx.doi.org/10.5281/zenodo.3402341)]
-###### Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: Low-cost assembly for isogeometric analysis. _Comput. Methods Appl. Mech. Engrg._ 361:112776 [[preprint](https://arxiv.org/abs/1904.06971)] [[doi](https://doi.org/10.1016/j.cma.2019.112776)]
+###### Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: Low-cost assembly for isogeometric analysis. _Comput. Methods Appl. Mech. Engrg._, 361:112776 [[preprint](https://arxiv.org/abs/1904.06971)] [[doi](https://doi.org/10.1016/j.cma.2019.112776)]
 ###### Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: a priori error estimation. _SIAM J. Sci. Comput._, 41(6):A3806-A3838 [[preprint](https://arxiv.org/abs/1902.07333)] [[doi](https://doi.org/10.1137/18M1226580)]
 
 ### DLS Methods
