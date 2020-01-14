@@ -42,7 +42,7 @@ In a well-defined sense, DPG, as a methodology, can be viewed as a practical mea
 In a similar way, DPG* delivers a methodology for underdetermined discretizations. 
 </p>
 
-###### Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2018). The DPG-star method. _ArXiv e-print arXiv:1809.03153 [math.NA]_ [[link](https://arxiv.org/abs/1809.03153)]
+###### Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2018). The DPG-star method. _Comput. Math. Appl. (to appear)_ [[link](https://arxiv.org/abs/1809.03153)]
 
 ### Surrogate Matrix Methods
 
@@ -67,7 +67,7 @@ This ongoing work is part of <a href="https://www-m2.ma.tum.de/bin/view/Allgemei
 </p>
 
 ###### Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: A reference implementation for low-cost assembly in isogeometric analysis. _ArXiv e-print  arXiv:1909.04029 [cs.MS]_ [[preprint](https://arxiv.org/abs/1909.04029)] [[code](https://dx.doi.org/10.5281/zenodo.3402341)]
-###### Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: Low-cost assembly for isogeometric analysis. _Comput. Methods Appl. Mech. Engrg._ (to appear). [[preprint](https://arxiv.org/abs/1904.06971)]
+###### Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: Low-cost assembly for isogeometric analysis. _Comput. Methods Appl. Mech. Engrg._ 361:112776 [[preprint](https://arxiv.org/abs/1904.06971)] [[doi](https://doi.org/10.1016/j.cma.2019.112776)]
 ###### Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: a priori error estimation. _SIAM J. Sci. Comput._, 41(6):A3806-A3838 [[preprint](https://arxiv.org/abs/1902.07333)] [[doi](https://doi.org/10.1137/18M1226580)]
 
 ### DLS Methods
@@ -153,7 +153,7 @@ Perfectly matched layers (PMLs) are a very widespread type of artificial absorbi
 In order to lay the groundwork for some of my colleagues to begin their dissertation research, <a href="https://scholar.google.com/citations?user=q3bl85sAAAAJ&hl=en">Ali Vaziri Astaneh</a> and I developed PMLs for high-order DPG methods for acoustic, elastodynamic, and electromagnetic models.
 </p>
 
-###### Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2019). On perfectly matched layers for discontinuous Petrov–Galerkin methods. _Computational Mechanics_, 63(6):1131-1145 [[preprint](https://arxiv.org/abs/1804.04496)] [[doi](https://doi.org/10.1007/s00466-018-1640-3)]
+###### Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2019). On perfectly matched layers for discontinuous Petrov–Galerkin methods. _Comput. Mech._, 63(6):1131-1145 [[preprint](https://arxiv.org/abs/1804.04496)] [[doi](https://doi.org/10.1007/s00466-018-1640-3)]
 
 ### Mixing patterns
 
@@ -206,7 +206,7 @@ This hierarchical construction was the breakthrough which lead to the first expl
 ESEAS is currently being used inside <em>hp</em>2D and <em>hp</em>3D, [HOFEM](https://doi.org/10.23919/EuMC.2018.8541806), and [Sierra](https://sierradist.sandia.gov/).
 It is being rewritten and optimized in C++ for the [Trilinos](https://trilinos.org/) and [MFEM](https://mfem.org/) libraries. 
 
-###### Fuentes, F., Keith, B., Demkowicz, L., and Nagaraj, S. (2015). Orientation embedded high order shape functions for the exact sequence elements of all shapes. _Computers & Mathematics with Applications_, 70(4):353-458. [[preprint](https://arxiv.org/abs/1504.03025)] [[doi](https://doi.org/10.1016/j.camwa.2015.04.027)] [[code](https://github.com/libESEAS/ESEAS)]
+###### Fuentes, F., Keith, B., Demkowicz, L., and Nagaraj, S. (2015). Orientation embedded high order shape functions for the exact sequence elements of all shapes. _Comput. Math. Appl._, 70(4):353-458. [[preprint](https://arxiv.org/abs/1504.03025)] [[doi](https://doi.org/10.1016/j.camwa.2015.04.027)] [[code](https://github.com/libESEAS/ESEAS)]
 
 ### Camellia
 
