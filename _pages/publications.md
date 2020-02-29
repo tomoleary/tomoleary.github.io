@@ -10,7 +10,7 @@ Additional links to my preprints can be found on [arXiv.org](https://arxiv.org/f
 My published work can also be tracked on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56699706400) and [Google Scholar](https://scholar.google.com/citations?user=vcSEoi4AAAAJ&hl=en).
 
 <!-- ## Preprints -->
-## Articles
+## Scientific Articles
 
 | Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: A reference implementation for low-cost assembly in isogeometric analysis. _MethodsX_ [[preprint](https://arxiv.org/abs/1909.04029)] [[doi](https://doi.org/10.1016/j.mex.2020.100813)] [[code](https://doi.org/10.5281/zenodo.3402341)] |
 | Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2020). The DPG-star method. _Computers & Mathematics with Applications_ [[preprint](https://arxiv.org/abs/1809.03153)] [[doi](https://doi.org/10.1016/j.camwa.2020.01.012)] |
