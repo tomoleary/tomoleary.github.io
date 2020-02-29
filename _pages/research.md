@@ -15,7 +15,7 @@ By studying the mathematics behind computer simulations, I try to bring clarity 
 </p>
 
 <p style="text-align: justify">
-My recent research has resulted in discovering a new class of finite element methods, called <a href="https://arxiv.org/abs/1809.03153">DPG* methods</a>, and classifying a large category of related methods, called <a href="https://doi.org/10.1016/j.cma.2017.08.043">discrete least-squares methods (DLS methods)</a>.
+My recent research has resulted in discovering a new class of finite element methods, called <a href="https://doi.org/10.1016/j.camwa.2020.01.012">DPG* methods</a>, and classifying a large category of related methods, called <a href="https://doi.org/10.1016/j.cma.2017.08.043">discrete least-squares methods (DLS methods)</a>.
 In addition, I have written general and portable software for high-order and adaptive simulations and applied my work to several structural, fluid, and wave mechanics problems.
 I am currently interested in applying my work to problems at the frontiers of science and engineering research by expanding on state-of-the-art techniques in optimal control, uncertainty quantification, and high performance computing.
 </p>
@@ -42,7 +42,7 @@ In a well-defined sense, DPG, as a methodology, can be viewed as a practical mea
 In a similar way, DPG* delivers a methodology for underdetermined discretizations. 
 </p>
 
-###### Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2020). The DPG-star method. _Comput. Math. Appl. (To appear)_ [[link](https://arxiv.org/abs/1809.03153)]
+###### Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2020). The DPG-star method. _Comput. Math. Appl._ [[preprint](https://arxiv.org/abs/1809.03153)] [[doi](https://doi.org/10.1016/j.camwa.2020.01.012)]
 
 ### Surrogate Matrix Methods
 
@@ -66,7 +66,7 @@ Using surrogate methods can significantly reduce the time to solution in isogeom
 This ongoing work is part of <a href="https://www-m2.ma.tum.de/bin/view/Allgemeines/DanielDrzisga">Daniel Drzisga's</a> PhD research.
 </p>
 
-###### Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: A reference implementation for low-cost assembly in isogeometric analysis. _ArXiv e-print  arXiv:1909.04029 [cs.MS]_ [[preprint](https://arxiv.org/abs/1909.04029)] [[code](https://dx.doi.org/10.5281/zenodo.3402341)]
+###### Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: A reference implementation for low-cost assembly in isogeometric analysis. _MethodsX_ [[preprint](https://arxiv.org/abs/1909.04029)] [[doi](https://doi.org/10.1016/j.mex.2020.100813)] [[code](https://doi.org/10.5281/zenodo.3402341)]
 ###### Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: Low-cost assembly for isogeometric analysis. _Comput. Methods Appl. Mech. Engrg._, 361:112776 [[preprint](https://arxiv.org/abs/1904.06971)] [[doi](https://doi.org/10.1016/j.cma.2019.112776)]
 ###### Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: a priori error estimation. _SIAM J. Sci. Comput._, 41(6):A3806-A3838 [[preprint](https://arxiv.org/abs/1902.07333)] [[doi](https://doi.org/10.1137/18M1226580)]
 

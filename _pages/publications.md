@@ -9,13 +9,11 @@ author_profile: true
 Additional links to my preprints can be found on [arXiv.org](https://arxiv.org/find/math/1/au:+Keith_B/0/1/0/all/0/1) and [ResearchGate](https://www.researchgate.net/profile/Brendan_Keith).
 My published work can also be tracked on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56699706400) and [Google Scholar](https://scholar.google.com/citations?user=vcSEoi4AAAAJ&hl=en).
 
-## Preprints
+<!-- ## Preprints -->
+## Articles
 
-| Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: A reference implementation for low-cost assembly in isogeometric analysis. _ArXiv e-print  arXiv:1909.04029 [cs.MS]_ [[preprint](https://arxiv.org/abs/1909.04029)] [[code](https://dx.doi.org/10.5281/zenodo.3402341)] |
-
-## Journal Articles
-
-| Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2020). The DPG-star method. _Computers & Mathematics with Applications_ (to appear) [[preprint](https://arxiv.org/abs/1809.03153)] |
+| Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: A reference implementation for low-cost assembly in isogeometric analysis. _MethodsX_ [[preprint](https://arxiv.org/abs/1909.04029)] [[doi](https://doi.org/10.1016/j.mex.2020.100813)] [[code](https://doi.org/10.5281/zenodo.3402341)] |
+| Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2020). The DPG-star method. _Computers & Mathematics with Applications_ [[preprint](https://arxiv.org/abs/1809.03153)] [[doi](https://doi.org/10.1016/j.camwa.2020.01.012)] |
 | Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: Low-cost assembly for isogeometric analysis. _Computer Methods in Applied Mechanics and Engineering_, 361:112776. [[preprint](https://arxiv.org/abs/1904.06971)] [[doi](https://doi.org/10.1016/j.cma.2019.112776)] |
 | Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: a priori error estimation. _SIAM Journal on Scientific Computing_, 41(6):A3806-A3838 [[preprint](https://arxiv.org/abs/1902.07333)] [[doi](https://doi.org/10.1137/18M1226580)] |
 | Keith, B., Vaziri Astaneh, A., and Demkowicz, L. (2019). Goal-oriented adaptive mesh refinement for discontinuous Petrov–Galerkin methods. _SIAM Journal on Numerical Analysis_, 57(4):1649-1676 [[preprint](https://arxiv.org/abs/1711.01996)] [[doi](https://doi.org/10.1137/18M1181754)] |
