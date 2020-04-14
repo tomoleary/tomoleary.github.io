@@ -9,10 +9,13 @@ author_profile: true
 Additional links to my preprints can be found on [arXiv.org](https://arxiv.org/find/math/1/au:+Keith_B/0/1/0/all/0/1) and [ResearchGate](https://www.researchgate.net/profile/Brendan_Keith).
 My published work can also be tracked on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56699706400) and [Google Scholar](https://scholar.google.com/citations?user=vcSEoi4AAAAJ&hl=en).
 
-<!-- ## Preprints -->
+## Preprints
+
+| Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: Accelerating isogeometric analysis of waves. arXiv:2004.05197 [math.NA] [[preprint](https://arxiv.org/abs/2004.05197)] |
+
 ## Scientific Articles
 
-| Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: A reference implementation for low-cost assembly in isogeometric analysis. _MethodsX_ [[preprint](https://arxiv.org/abs/1909.04029)] [[doi](https://doi.org/10.1016/j.mex.2020.100813)] [[code](https://doi.org/10.5281/zenodo.3402341)] |
+| Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: A reference implementation for low-cost assembly in isogeometric analysis. _MethodsX_ 7:100813 [[preprint](https://arxiv.org/abs/1909.04029)] [[doi](https://doi.org/10.1016/j.mex.2020.100813)] [[code](https://doi.org/10.5281/zenodo.3402341)] |
 | Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2020). The DPG-star method. _Computers & Mathematics with Applications_ [[preprint](https://arxiv.org/abs/1809.03153)] [[doi](https://doi.org/10.1016/j.camwa.2020.01.012)] |
 | Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: Low-cost assembly for isogeometric analysis. _Computer Methods in Applied Mechanics and Engineering_, 361:112776. [[preprint](https://arxiv.org/abs/1904.06971)] [[doi](https://doi.org/10.1016/j.cma.2019.112776)] |
 | Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: a priori error estimation. _SIAM Journal on Scientific Computing_, 41(6):A3806-A3838 [[preprint](https://arxiv.org/abs/1902.07333)] [[doi](https://doi.org/10.1137/18M1226580)] |
@@ -31,39 +34,3 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 | Keith, B., Demkowicz, L., and Gopalakrishnan, J. (2017). DPG* Method. ICES Report 17-25. The University of Texas at Austin. [[link](https://www.ices.utexas.edu/media/reports/2017/1725.pdf)] |
 | Keith, B. (2014). Lagrangian coherent structures in three-dimensional steady flows. Master's Thesis, McGill University, Montreal, Quebec, Canada. [[link](http://digitool.Library.McGill.CA:80/R/-?func=dbin-jump-full&object_id=121521&silo_library=GEN01)] |
 | Robison, B.K., (2011). The Wave Equation and Multi-Dimensional Time. _The Waterloo Mathematics Review_, 1(1):32-42 [[link](http://mathreview.uwaterloo.ca/archive/voli/1/robison.pdf)] |
-
-
-
-
-<!-- ## Conference articles
-
-| <img src="/assets/images/PetIGAHyperelasticity.png" width="400px" alt=""> | Bernal, L. M., Calo, V. M., Collier, N., Espinosa, G. A., Fuentes, F., and Mahecha, J. C. (2013). Isogeometric analysis of hyperelastic materials using PetIGA. _Procedia Computer Science_, 18:1604-1613. 2013 International Conference on Computational Science (ICCS). [[doi](https://doi.org/10.1016/j.procs.2013.05.328)] [[code](https://bitbucket.org/dalcinl/petiga/)] |
-
-<br>
-
-# Conference Presentations
-
-Here is a list of the latest talks and posters I've presented.
-
-## Talks
-
-|Insulation integrity for power-dense, medium voltage, electric machinery (with Aleta Wilder). Office of Naval Research (ONR) Peer Review in Controls, Electromagnetism, and Power Electronics. Naval Postgraduate School, Monterey, CA, USA, November, 2017.|
-|Discrete least-squares (DLS) and polygonal discontinuous Petrov-Galerkin (PolyDPG) finite element methods. Third Minimum Residual and Least Squares Finite Element Methods Workshop. Portland State University, Portland, OR, USA, October, 2017.|
-|Global stability of 2D plane Couette flow beyond the energy stability limit. Texas Applied Mathematics and Engineering Symposium (TAMES). The University of Texas at Austin, Austin, TX, USA, September, 2017.|
-|Global stability of two-dimensional plane Couette flow beyond the energy stability limit. 2017 Geophysical Fluid Dynamics Program. Woods Hole Oceanographic Institute (WHOI), Woods Hole, MA, USA, August, 2017.|
-|Various applications of the DPG methodology. Oberwolfach Seminar: Discontinuous Petrov-Galerkin Methods. Mathematisches Forschungsinstitut Oberwolfach (MFO, Oberwolfach Research Institute for Mathematics), Oberwolfach, Germany, June, 2017.|
-|Using discontinuous minimum residual methods to simulate DMA experiments in linear viscoelasticity. 2017 Finite Element Rodeo. University of Houston, Houston, TX, USA, March, 2017.|
-|Using discontinuous minimum residual methods to validate DMA experimental calibration results in linear viscoelasticity. SIAM Conference on Computational Science and Engineering (CSE) 2017. Atlanta, GA, USA, February-March, 2017.|
-|Minimum residual methods applied to linear thermoviscoelasticity. The Mathematics of Finite Elements and Applications (MAFELAP) 2016. Brunel University London, London, UK, June, 2016.|
-|Minimum residual methods in linear thermoviscoelasticity. 2016 Finite Element Rodeo. Texas A&M University, College St., TX, USA, March, 2016.|
-|The DPG methodology applied to various variational formulations of linear elasticity. Second Minimum Residual and Least Squares Finite Element Methods Workshop. Delft University of Technology, Delft, Netherlands, November, 2015.|
-|High Order Shape Functions for Exact Sequence Elements of All Shapes. Part II. Pyramid. 13th U.S. National Congress on Computational Mechanics (USNCCM). San Diego, CA, USA, July, 2015.|
-|High Order Shape Functions for Exact Sequence Elements of All Shapes. Part II. Pyramid. 2015 Finite Element Rodeo. Southern Methodist University, Dallas, TX, USA, February, 2015.|
-
-## Posters
-
-|<img src="/assets/images/ACSEOden2017.png" width="400px" alt="">|Using discontinuous minimum residual methods to validate DMA experiments of viscoelastic materials. Workshop for Advances in Computational Sciences and Engineering (Oden 80 years). The University of Texas at Austin, Austin, TX, USA, March, 2017.|
-|<img src="/assets/images/AMFEBabuska2016.png" width="400px" alt="">|Minimum residual methods in linear thermoviscoelasticity. Workshop for Advances in Mathematics for Finite Elements (Babuška 90 years). The University of Texas at Austin, Austin, TX, USA, March, 2016.|
-|<img src="/assets/images/POEMs2015.png" width="400px" alt="">|Pyramid High Order Exact Sequence Shape Functions. Polytopal Element Methods in Mathematics and Engineering. Georgia Institute of Technology, Atlanta, GA, USA, October, 2015.|
-|<img src="/assets/images/TAMU2015.png" width="400px" alt="">|Pyramid High Order Exact Sequence Shape Functions. Advanced Numerical Methods in the Mathematical Sciences. Texas A&M University, College St., TX, USA, May, 2015.|
-|<img src="/assets/images/HOFEIM2014.png" width="400px" alt="">|Orientation Embedded Finite Element (FE) Shape Functions for the Exact Sequence Elements of All Shapes. Sixth International Workshop on High-Order Finite Element and Isogeometric Methods (HOFEIM). Frauenchiemsee Island, Germany, July, 2014.| -->

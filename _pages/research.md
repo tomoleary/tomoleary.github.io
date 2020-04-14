@@ -61,12 +61,13 @@ The methodology has been applied to classical finite element methods with lowest
 
 <p style="text-align: justify">
 In an ongoing series of papers, surrogate matrix methods have been successfully used in a large number of problems with steady or transient characteristics.
-This includes Poisson’s equation and <em>p</em>-Laplacian diffusion, membrane vibration, plate bending, Stokes’ flow, linear and nonlinear elasticity, and a number of high frequency time-harmonic problems.
+This includes Poisson’s equation and <em>p</em>-Laplacian diffusion, membrane vibration, plate bending, Stokes’ flow, linear and nonlinear elasticity, and high frequency wave propagation problems.
 Using surrogate methods can significantly reduce the time to solution in isogeometric analysis (IGA) at a few million degrees of freedom or in large-scale matrix-free applications with billions of degrees of freedom.
 This ongoing work is part of <a href="https://www-m2.ma.tum.de/bin/view/Allgemeines/DanielDrzisga">Daniel Drzisga's</a> PhD research.
 </p>
 
-###### Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: A reference implementation for low-cost assembly in isogeometric analysis. _MethodsX_ [[preprint](https://arxiv.org/abs/1909.04029)] [[doi](https://doi.org/10.1016/j.mex.2020.100813)] [[code](https://doi.org/10.5281/zenodo.3402341)]
+###### Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: Accelerating isogeometric analysis of waves. arXiv:2004.05197 [math.NA] [[preprint](https://arxiv.org/abs/2004.05197)]
+###### Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: A reference implementation for low-cost assembly in isogeometric analysis. _MethodsX_ 7:100813 [[preprint](https://arxiv.org/abs/1909.04029)] [[doi](https://doi.org/10.1016/j.mex.2020.100813)] [[code](https://doi.org/10.5281/zenodo.3402341)]
 ###### Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: Low-cost assembly for isogeometric analysis. _Comput. Methods Appl. Mech. Engrg._, 361:112776 [[preprint](https://arxiv.org/abs/1904.06971)] [[doi](https://doi.org/10.1016/j.cma.2019.112776)]
 ###### Drzisga, D., Keith, B., and Wohlmuth, B. (2019). The surrogate matrix methodology: a priori error estimation. _SIAM J. Sci. Comput._, 41(6):A3806-A3838 [[preprint](https://arxiv.org/abs/1902.07333)] [[doi](https://doi.org/10.1137/18M1226580)]
 
