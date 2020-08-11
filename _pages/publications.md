@@ -11,6 +11,7 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 
 ## Preprints
 
+| Keith, B., Khristenko, U., and Wohlmuth, B. (2020). A fractional PDE model for turbulent velocity fields near solid walls. arXiv:2008.03957 [math.NA] [[preprint](https://arxiv.org/abs/2008.03957)] |
 | Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: Accelerating isogeometric analysis of waves. arXiv:2004.05197 [math.NA] [[preprint](https://arxiv.org/abs/2004.05197)] |
 
 ## Scientific Articles
