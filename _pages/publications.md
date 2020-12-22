@@ -11,6 +11,7 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 
 ## Preprints
 
+| Keith, B.  (2020). A priori error analysis of high-order LL\* (FOSLL\*) finite element methods. arXiv:2012.09594 [math.NA] [[preprint](https://arxiv.org/abs/2012.09594)] |
 | Beiser, F., Keith, B., Urbainczyk, S., and Wohlmuth, B.  (2020). Adaptive sampling strategies for risk-averse stochastic optimization with constraints. arXiv:2012.03844 [math.OC] [[preprint](https://arxiv.org/abs/2012.03844)] |
 | Keith, B., Khristenko, U., and Wohlmuth, B. (2020). A fractional PDE model for turbulent velocity fields near solid walls. arXiv:2008.03957 [physics.flu-dyn ] [[preprint](https://arxiv.org/abs/2008.03957)] |
 
