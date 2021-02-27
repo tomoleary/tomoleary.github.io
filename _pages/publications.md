@@ -9,14 +9,28 @@ author_profile: true
 Additional links to my preprints can be found on [arXiv.org](https://arxiv.org/find/math/1/au:+Keith_B/0/1/0/all/0/1) and [ResearchGate](https://www.researchgate.net/profile/Brendan_Keith).
 My published work can also be tracked on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56699706400) and [Google Scholar](https://scholar.google.com/citations?user=vcSEoi4AAAAJ&hl=en).
 
+
+<!-- ### 2020
+
+<article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    **A priori error analysis of high-order LL\* (FOSLL\*) finite element methods**  
+    B. Keith
+    arXiv:2012.09594 [math.NA]
+
+    [preprint](https://arxiv.org/abs/2012.09594)
+</article> -->
+
+
+
 ## Preprints
 
+| Keith, B., Khadse, A., and Field, S.E. (2021). Orbital dynamics of binary black hole systems can be learned from gravitational wave measurements. arXiv:2102.12695 [gr-qc] [preprint](https://arxiv.org/abs/2102.12695) |
 | Keith, B.  (2020). A priori error analysis of high-order LL\* (FOSLL\*) finite element methods. arXiv:2012.09594 [math.NA] [[preprint](https://arxiv.org/abs/2012.09594)] |
 | Beiser, F., Keith, B., Urbainczyk, S., and Wohlmuth, B.  (2020). Adaptive sampling strategies for risk-averse stochastic optimization with constraints. arXiv:2012.03844 [math.OC] [[preprint](https://arxiv.org/abs/2012.03844)] |
-| Keith, B., Khristenko, U., and Wohlmuth, B. (2020). A fractional PDE model for turbulent velocity fields near solid walls. arXiv:2008.03957 [physics.flu-dyn ] [[preprint](https://arxiv.org/abs/2008.03957)] |
 
 ## Scientific Articles
 
+| Keith, B., Khristenko, U., and Wohlmuth, B. (2020). A fractional PDE model for turbulent velocity fields near solid walls. _Journal of Fluid Mechanics_, (to appear). [preprint](https://arxiv.org/abs/2008.03957) |
 | Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: Accelerating isogeometric analysis of waves. _Computer Methods in Applied Mechanics and Engineering_, 372:113322. [[preprint](https://arxiv.org/abs/2004.05197)] [[doi](https://doi.org/10.1016/j.cma.2020.113322)] |
 | Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: A reference implementation for low-cost assembly in isogeometric analysis. _MethodsX_ 7:100813 [[preprint](https://arxiv.org/abs/1909.04029)] [[doi](https://doi.org/10.1016/j.mex.2020.100813)] [[code](https://doi.org/10.5281/zenodo.3402341)] |
 | Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2020). The DPG-star method. _Computers & Mathematics with Applications_ [[preprint](https://arxiv.org/abs/1809.03153)] [[doi](https://doi.org/10.1016/j.camwa.2020.01.012)] |
