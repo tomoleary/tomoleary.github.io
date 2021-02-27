@@ -30,7 +30,7 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 
 ## Scientific Articles
 
-| Keith, B., Khristenko, U., and Wohlmuth, B. (2020). A fractional PDE model for turbulent velocity fields near solid walls. _Journal of Fluid Mechanics_, (to appear). [[preprint](https://arxiv.org/abs/2008.03957)] |
+| Keith, B., Khristenko, U., and Wohlmuth, B. (2021). A fractional PDE model for turbulent velocity fields near solid walls. _Journal of Fluid Mechanics_, (to appear). [[preprint](https://arxiv.org/abs/2008.03957)] |
 | Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: Accelerating isogeometric analysis of waves. _Computer Methods in Applied Mechanics and Engineering_, 372:113322. [[preprint](https://arxiv.org/abs/2004.05197)] [[doi](https://doi.org/10.1016/j.cma.2020.113322)] |
 | Drzisga, D., Keith, B., and Wohlmuth, B. (2020). The surrogate matrix methodology: A reference implementation for low-cost assembly in isogeometric analysis. _MethodsX_ 7:100813 [[preprint](https://arxiv.org/abs/1909.04029)] [[doi](https://doi.org/10.1016/j.mex.2020.100813)] [[code](https://doi.org/10.5281/zenodo.3402341)] |
 | Demkowicz, L., Gopalakrishnan, J., and Keith, B. (2020). The DPG-star method. _Computers & Mathematics with Applications_ [[preprint](https://arxiv.org/abs/1809.03153)] [[doi](https://doi.org/10.1016/j.camwa.2020.01.012)] |
