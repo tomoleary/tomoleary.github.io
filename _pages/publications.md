@@ -1,11 +1,11 @@
 ---
 title: "Publications"
-layout: archive
+layout: single
 sitemap: true
 permalink: /publications/
 author_profile: true
 toc: true
-toc_label: "Research"
+toc_label: "Category"
 toc_icon: "gear"
 ---
 

@@ -29,7 +29,7 @@ In just a bit here, you should see the text start to wrap below the right aligne
 And that's a wrap, yo! You survived the tumultuous waters of alignment. Image alignment achievement unlocked! -->
 
 
-<figure style="width: 225px" class="align-right">
+<figure style="width: 245px" class="align-right">
   <img src="/assets/images/Portugal.jpg" alt="">
   <figcaption style="text-align: center"> Portugal, 2020.</figcaption>
 </figure>
@@ -42,10 +42,6 @@ And that's a wrap, yo! You survived the tumultuous waters of alignment. Image al
 When I am not working, I enjoy being active — lifting weights at the gym while listening to punk music, riding my bike, or going for a hike in one of the nearby National Parks.
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 <figure style="width: 225px" class="align-left">
   <img src="/assets/images/Aruba.jpg" alt="">
@@ -56,9 +52,7 @@ When I am not working, I enjoy being active — lifting weights at the gym while
 <br>
 <br>
 <br>
-<br>
 I have been vegan for more than 12 years, so I'm always curious to try out new recipes or to find the best vegan restaurants in the area.
-<br>
 <br>
 <br>
 <br>
