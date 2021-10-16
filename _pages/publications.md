@@ -4,6 +4,9 @@ layout: archive
 sitemap: true
 permalink: /publications/
 author_profile: true
+toc: true
+toc_label: "Research"
+toc_icon: "gear"
 ---
 
 Additional links to my preprints can be found on [arXiv.org](https://arxiv.org/find/math/1/au:+Keith_B/0/1/0/all/0/1) and [ResearchGate](https://www.researchgate.net/profile/Brendan_Keith).
