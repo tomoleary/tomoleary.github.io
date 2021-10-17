@@ -1,11 +1,11 @@
 ---
-title: "Research"
+title: "Finite Element Research"
 layout: single
 sitemap: true
 permalink: /research/
 author_profile: true
 toc: true
-toc_label: "Research"
+toc_label: "Topic"
 toc_icon: "gear"
 ---
 <!-- <p style="text-align: justify">
@@ -15,18 +15,18 @@ By studying the mathematics behind computer simulations, I try to bring clarity 
 </p> -->
 
 <p style="text-align: justify">
-My recent work has resulted in discovering a new class of finite element methods, called <a href="https://doi.org/10.1016/j.camwa.2020.01.012">DPG* methods</a>, and classifying a large category of related methods, called <a href="https://doi.org/10.1016/j.cma.2017.08.043">discrete least-squares methods (DLS methods)</a>.
-In addition, I have written general and portable software for high-order and adaptive simulations and applied my work to several structural, fluid, and wave mechanics problems.
-I am currently interested in applying my work to problems at the frontiers of science and engineering research by expanding on state-of-the-art techniques in optimal control, uncertainty quantification, and high performance computing.
+My Ph.D. work ended in the discovery of a new class of finite element methods called <a href="https://doi.org/10.1016/j.camwa.2020.01.012">DPG* methods</a>, as well as in classifying a nebulous category of methods called <a href="https://doi.org/10.1016/j.cma.2017.08.043">discrete least-squares methods (DLS methods)</a>.
+In addition, I wrote software for high-order adaptive computer simulations and developed specific for methods structural, fluid, and wave mechanics problems.
+<!-- I am currently interested in applying my work to problems at the frontiers of science and engineering research by expanding on state-of-the-art techniques in optimal control, uncertainty quantification, and high performance computing. -->
 </p>
 
 ## Numerical Methods
 
 <p style="text-align: justify">
-Much of my <a href="http://hdl.handle.net/2152/68919">PhD research</a>, supervised by <a href="https://users.oden.utexas.edu/~leszek/">Leszek Demkowicz</a>, was spent focusing on discontinuous Petrov-Galerkin finite element methods (DPG methods) which have been used extensively in engineering and scientific applications.
-Since beginning my postdoctoral research, I have been focused on an emerging approach to finite element analysis which has been dubbed the "<a href="https://www-m2.ma.tum.de/bin/view/Allgemeines/M2SURR">surrogate matrix methodology</a>."
-In additional, as part of my role in the EU's Horizon 2020 research and innovation program <a href="http://exaqute.eu/">ExaQUte</a>, my research has also included shape optimization under uncertainty, multilevel Monte Carlo methods, and turbulent inlet generation for large eddy simulation.
-The following summaries only pertain to my contributions to the field of finite element methods.
+Much of my <a href="http://hdl.handle.net/2152/68919">PhD research</a>, supervised by <a href="https://users.oden.utexas.edu/~leszek/">Leszek Demkowicz</a>, was spent focusing on discontinuous Petrov-Galerkin finite element methods (DPG methods).
+In my early postdoctoral work, I focused in part on a non-standard approach to finite element analysis which was dubbed the "<a href="https://www-m2.ma.tum.de/bin/view/Allgemeines/M2SURR">surrogate matrix methodology</a>."
+During my subsequent academic positions, my interests grew to include stochastic optimization, scientific machine learning, numerical relativity, and turbulence modeling.
+The following summaries only pertain to my early contributions to the field of finite element analysis.
 </p>
 
 ### DPG* Methods
@@ -156,7 +156,7 @@ In order to lay the groundwork for some of my colleagues to begin their disserta
 
 ###### Vaziri Astaneh, A., Keith, B., and Demkowicz, L. (2019). On perfectly matched layers for discontinuous Petrov–Galerkin methods. _Comput. Mech._, 63(6):1131-1145 [[preprint](https://arxiv.org/abs/1804.04496)] [[doi](https://doi.org/10.1007/s00466-018-1640-3)]
 
-### Mixing patterns
+<!-- ### Mixing patterns
 
 <figure>
   <img src="/assets/images/ResearchLCS.png" alt="">
@@ -169,7 +169,7 @@ During my Master's studies, supervised by <a href="http://georgehaller.com/">Geo
 </p>
 
 ###### Keith, B. (2014). Lagrangian coherent structures in three-dimensional steady flows. Master's Thesis, McGill University, Montreal, Quebec, Canada. [[link](http://digitool.Library.McGill.CA:80/R/-?func=dbin-jump-full&object_id=121521&silo_library=GEN01)]
-
+ -->
 ## Software
 
 <p style="text-align: justify">
