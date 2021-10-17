@@ -15,7 +15,7 @@ author_profile: true
 <br>
 <br>
 <br>
-When I am not working, I enjoy listening to music and being active; lifting weights at the gym, riding my bike, or going for a hike in one of the nearby National Parks.
+When I am not working, I enjoy listening to punk music and being active; lifting weights at the gym, riding my bike, or going for a hike in one of the nearby National Parks.
 <br>
 <br>
 

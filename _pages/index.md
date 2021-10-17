@@ -23,16 +23,16 @@ By employing mathematical tools from functional analysis, topology, differential
 
 <p style="text-align: justify">
 My work typically focuses on numerical methods for partial differential equations (PDEs), but I also work on computational relativity, scientific machine learning, and turbulence modeling from time to time.
-Please reach out to <a href = "mailto: keith10@llnl.gov">me</a> if you are interested in any of the <a href="/publications/">research</a> you find on this page!
+Please reach out to me if you are interested in any of the <a href="/publications/">research</a> you find on this page!
 </p>
 
 <br>
 <br>
 
 ## Current Research Grants
-**2022&ndash;2024**&nbsp;&nbsp; Adaptive Sampling for Risk-Averse Design and Optimization (PI, *$450,000/year*)
+**D.O.E.&nbsp;&nbsp;2022&ndash;2024**&nbsp;&nbsp; Adaptive Sampling for Risk-Averse Design and Optimization (PI, *$450,000/year*)
 
 
 ### Other notes:
 - I still do finite element research! In fact, I'm an active [MFEM](https://mfem.org/) developer. Check out our (growing) list of examples codes and miniapps [here](https://mfem.org/examples/).
-- This website has been tidied up a little bit. If you are interested in my old finite element work (2015-2020) short summaries can still be found [here](/research/).
+- This website has been tidied up a little bit. If you are interested in my old finite element work (2015-2020), short summaries can still be found [here](/research/).
