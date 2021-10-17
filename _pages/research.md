@@ -8,14 +8,14 @@ toc: true
 toc_label: "Research"
 toc_icon: "gear"
 ---
-<p style="text-align: justify">
+<!-- <p style="text-align: justify">
 In order to bridge the gaps between observation, theory, and prediction, modern science has come to heavily rely on sophisticated computational methods.
 From simulating star formation to proton transport, from climate change and sea level rise to turbulence and combustion (not to mention turbulent combustion), and from structural design to the design of personalized treatment pathways in state-of-the-art medical practice, complex computer simulations are indispensable, regardless of scale.
 By studying the mathematics behind computer simulations, I try to bring clarity and insight into otherwise intractable problems like these.
-</p>
+</p> -->
 
 <p style="text-align: justify">
-My recent research has resulted in discovering a new class of finite element methods, called <a href="https://doi.org/10.1016/j.camwa.2020.01.012">DPG* methods</a>, and classifying a large category of related methods, called <a href="https://doi.org/10.1016/j.cma.2017.08.043">discrete least-squares methods (DLS methods)</a>.
+My recent work has resulted in discovering a new class of finite element methods, called <a href="https://doi.org/10.1016/j.camwa.2020.01.012">DPG* methods</a>, and classifying a large category of related methods, called <a href="https://doi.org/10.1016/j.cma.2017.08.043">discrete least-squares methods (DLS methods)</a>.
 In addition, I have written general and portable software for high-order and adaptive simulations and applied my work to several structural, fluid, and wave mechanics problems.
 I am currently interested in applying my work to problems at the frontiers of science and engineering research by expanding on state-of-the-art techniques in optimal control, uncertainty quantification, and high performance computing.
 </p>

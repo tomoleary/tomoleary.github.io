@@ -6,13 +6,13 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/bren096.jpg" width="340px" alt="Brendan Keith" align="right" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 10px;padding-right: 10px;" z-index="1" />
+<img src="/assets/images/bren096.jpg" width="340px" alt="Brendan Keith" align="right" style="display:block;margin-bottom:20px;margin-left:auto;margin-right:auto;padding-left: 20px;padding-right: 20px;" z-index="1" />
 <!-- <img src="/assets/images/bren096.jpg" width="340px" alt="Brendan Keith" align="right" style="display:block" hspace="20" /> -->
 
 <!-- # About -->
 
 <p style="text-align: justify">
-I am a postdoctoral researcher at the Center for Applied Scientific Computing at Lawrence Livermore National Laboratory.
+I am a postdoctoral researcher at the Center for Applied Scientific Computing at Lawrence Livermore National Laboratory where I am leading a three-year research project on PDE-constrained stochastic optimization methods for risk-averse engineering design.
 <!-- Previously, I was a postdoc at the Institute for Computational and Experimental Research in Mathematics at Brown University.
 Before that, I was a postdoc at the Chair of Numerical Analysis at the Technical University of Munich, where I was supervised by <a href="http://www.professoren.tum.de/en/wohlmuth-barbara/">Barbara Wohlmuth</a>.
 Before that, I attended the <a href="https://www.oden.utexas.edu/">Oden Institute</a>, at the University of Texas at Austin, where I earned my Ph.D. under the supervision of <a href="https://users.oden.utexas.edu/~leszek/">Leszek Demkowicz</a>. -->
@@ -27,8 +27,8 @@ By employing mathematical tools from functional analysis, topology, differential
 </p> -->
 
 <p style="text-align: justify">
-My work typically focuses on numerical methods for PDEs, but I also dabble in some other fun topics from time to time.
+My work typically focuses on numerical methods for partial differential equations (PDEs), but I also dabble in computational relativity, machine learning, and turbulence modeling from time to time.
+Please reach out to <a href = "mailto: keith10@llnl.gov">me</a> if you are interested in any of the <a href="/publications/">research</a> you find on this page!
 </p>
 
-[Learn more about my research](/research/)
-
+Some of my old research projects (2015-2020) are described [here](/research/).
