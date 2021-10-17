@@ -15,7 +15,7 @@ author_profile: true
 <br>
 <br>
 <br>
-When I am not working, I enjoy being active — lifting weights at the gym while listening to punk music, riding my bike, or going for a hike in one of the nearby National Parks.
+When I am not working, I enjoy listening to music and being active; lifting weights at the gym, riding my bike, or going for a hike in one of the nearby National Parks.
 <br>
 <br>
 
@@ -28,7 +28,7 @@ When I am not working, I enjoy being active — lifting weights at the gym while
 <br>
 <br>
 <br>
-I have been vegan for more than 12 years, so I'm always curious to try out new recipes or to find the best vegan restaurants in the area.
+I have been vegan for about 12 years, so I'm always keen to try out new recipes or to find the best vegan restaurants in my vicinity.
 <br>
 <br>
 <br>
@@ -44,5 +44,5 @@ I have been vegan for more than 12 years, so I'm always curious to try out new r
 <br>
 <br>
 <br>
-I love traveling and exploring new cultures, but for now I'm happy to go on weekend trips along the California coast and I just recently discovered surfing is a great catalyst for both physical and mental health. 
+I love traveling and exploring new cultures, but for now I'm happy to go on weekend trips along the California coast and I just recently discovered surfing, which is great for both physical and mental health. 
 
