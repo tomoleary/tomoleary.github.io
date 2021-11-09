@@ -26,8 +26,14 @@ My work typically focuses on numerical methods for partial differential equation
 Please reach out to me if you are interested in any of the <a href="/publications/">research</a> you find on this page!
 </p>
 
-<br>
-<br>
+<!-- <br> -->
+<span style="color:red">**Research Highlights:**</span>
+*See <a href="https://www.llnl.gov/news/llnl-led-team-uses-machine-learning-derive-black-hole-motion-gravitational-waves">this press release</a> about my recent work on machine learning and back holes!*
+
+<!-- <br> -->
+<!-- <br> -->
+
+
 
 ## Current Research Grants
 **D.O.E.&nbsp;&nbsp;2022&ndash;2024**&nbsp;&nbsp; Adaptive Sampling for Risk-Averse Design and Optimization (PI, *$450,000/year*)
