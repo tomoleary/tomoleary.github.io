@@ -27,7 +27,7 @@ Please reach out to me if you are interested in any of the <a href="/publication
 </p>
 
 <!-- <br> -->
-<span style="color:red">**Research Highlights:**</span>
+<span style="color:red">**Research Highlight:**</span>
 *See <a href="https://www.llnl.gov/news/llnl-led-team-uses-machine-learning-derive-black-hole-motion-gravitational-waves">this press release</a> about my recent work on machine learning and back holes!*
 
 <!-- <br> -->
