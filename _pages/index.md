@@ -8,7 +8,8 @@ author_profile: true
 
 <img src="/assets/images/bren096.jpg" width="380px" alt="Brendan Keith" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
 <p style="text-align: justify">
-I am a postdoctoral researcher at the Center for Applied Scientific Computing at Lawrence Livermore National Laboratory where I am leading a three-year research project on PDE-constrained stochastic optimization methods for risk-averse engineering design.
+I am an incoming assistant professor at the Division of Applied Mathematics at Brown University.
+Currently, however, I am a postdoctoral researcher at the Center for Applied Scientific Computing at Lawrence Livermore National Laboratory where I am leading a three-year research project on PDE-constrained stochastic optimization methods for risk-averse engineering design.
 <!-- Previously, I was a postdoc at the Institute for Computational and Experimental Research in Mathematics at Brown University.
 Before that, I was a postdoc at the Chair of Numerical Analysis at the Technical University of Munich, where I was supervised by <a href="http://www.professoren.tum.de/en/wohlmuth-barbara/">Barbara Wohlmuth</a>.
 Before that, I attended the <a href="https://www.oden.utexas.edu/">Oden Institute</a>, at the University of Texas at Austin, where I earned my Ph.D. under the supervision of <a href="https://users.oden.utexas.edu/~leszek/">Leszek Demkowicz</a>. -->
@@ -36,7 +37,7 @@ Please reach out to me if you are interested in any of the <a href="/publication
 
 
 ## Current Research Grants
-**D.O.E.&nbsp;&nbsp;2022&ndash;2024**&nbsp;&nbsp; Adaptive Sampling for Risk-Averse Design and Optimization (PI, *$450,000/year*)
+**LDRD&nbsp;&nbsp;2022&ndash;2024**&nbsp;&nbsp; Adaptive Sampling for Risk-Averse Design and Optimization (PI, *$450,000/year*)
 
 
 ### Other notes:
