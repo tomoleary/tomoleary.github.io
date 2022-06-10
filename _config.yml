@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Brendan Keith"
   avatar           : "/assets/images/profile_square_new.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computational Science, Numerical Analysis, & Scientific Machine Learning"
-  location         : "Livermore, California"
+  bio              : "Computational Science, Numerical Analysis, Optimization, & Scientific Machine Learning"
+  location         : "Providence, Rhode Island"
   email            : "brendan_keith@brown.edu"
   uri              :
   bitbucket        :
