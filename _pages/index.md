@@ -12,8 +12,8 @@ I am an Assistant Professor in the Division of Applied Mathematics at Brown Univ
 I work on numerical methods for partial differential equations (PDEs), scientific machine learning, and PDE-constrained optimization.
 </p>
 
-<span style="color:red">**Now Hiring:**</span>
-*I am seeking to hire a number of <a href="https://www.mathjobs.org/jobs/list/20345">postdocs</a> to join my group this academic Fall.*
+<!-- <span style="color:red">**Now Hiring:**</span>
+*I am seeking to hire a number of <a href="https://www.mathjobs.org/jobs/list/20345">postdocs</a> to join my group this academic Fall.* -->
 
 <span style="color:red">**Research Highlight:**</span>
 *See <a href="https://www.llnl.gov/news/llnl-led-team-uses-machine-learning-derive-black-hole-motion-gravitational-waves">this press release</a> about my recent work on machine learning and black holes!*
