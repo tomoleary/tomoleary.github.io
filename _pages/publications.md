@@ -27,8 +27,8 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 
 ## Preprints
 
-| <img src="/assets/images/AnticipatoryRefinement.gif" width="200" height="180" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" /> **Multi-agent reinforcement learning for adaptive mesh refinement** <br> _with Jiachen Yang, Ketan Mittal, Tarik Dzanic, Socratis Petrides, Brenden Petersen, Daniel Faissol, and Robert Anderson_ <br> arXiv: 2211.00801 [cs.LG] [[preprint](https://arxiv.org/abs/2211.00801)] |
-| <img src="/assets/images/fichera_rl.png" width="200" height="200" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" /> **Learning robust marking policies for adaptive mesh refinement** <br> _with Andrew Gillette and Socratis Petrides_ <br> arXiv: 2207.06339 [math.NA] [[preprint](https://arxiv.org/abs/2207.06339)] |
+| <img src="/assets/images/AnticipatoryRefinement.gif" width="200" height="160" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" /> **Multi-agent reinforcement learning for adaptive mesh refinement** <br> _with Jiachen Yang, Ketan Mittal, Tarik Dzanic, Socratis Petrides, Brenden Petersen, Daniel Faissol, and Robert Anderson_ <br> arXiv: 2211.00801 [cs.LG] [[preprint](https://arxiv.org/abs/2211.00801)] |
+| <img src="/assets/images/fichera_rl.png" width="200" height="200" alt="" align="left" style="display:block;margin-bottom:0px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" /> **Learning robust marking policies for adaptive mesh refinement** <br> _with Andrew Gillette and Socratis Petrides_ <br> arXiv: 2207.06339 [math.NA] [[preprint](https://arxiv.org/abs/2207.06339)] |
 
 ## Peer-Reviewed Scientific Articles
 
