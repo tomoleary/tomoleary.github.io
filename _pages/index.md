@@ -27,8 +27,9 @@ Before that, I was a Ph.D. student at the <a href="https://www.oden.utexas.edu/"
 </p>
 
 
-<!-- ## Current Research Grants
-**LDRD&nbsp;&nbsp;2022&ndash;2024**&nbsp;&nbsp; Adaptive Sampling for Risk-Averse Design and Optimization (PI, *$450,000/year*) -->
+## Current Research Grants
+**DOE SC Early Career Research Program&nbsp;&nbsp;2024&ndash;2028**&nbsp;&nbsp; REASON-3D:Randomized,Entropic,Adaptive,andScalableOptimizationforNon-Intrusive Data-Driven Design
+<!-- **LDRD&nbsp;&nbsp;2022&ndash;2024**&nbsp;&nbsp; Adaptive Sampling for Risk-Averse Design and Optimization (PI, *$450,000/year*) -->
 
 
 ### Other notes:
