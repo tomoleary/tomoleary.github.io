@@ -27,7 +27,7 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 
 ## Preprints
 
-| <img src="/assets/images/AnticipatoryRefinement.gif" width="200" height="150" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" /> **Multi-agent reinforcement learning for adaptive mesh refinement** <br> _with Jiachen Yang, Ketan Mittal, Tarik Dzanic, Socratis Petrides, Brenden Petersen, Daniel Faissol, and Robert Anderson_ <br> arXiv: 2211.00801 [cs.LG] [[preprint](https://arxiv.org/abs/2211.00801)] |
+| <img src="/assets/images/thermal_compliance_stochastic.png" width="200" height="200" alt="" align="left" style="display:block;margin-bottom:0px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" /> **An Adaptive Sampling Augmented Lagrangian Method for Stochastic Optimization with Deterministic Constraints** <br> _with Raghu Bollapragada, Cem Karamanli, Boyan Lazarov, Socratis Petrides, and Jingyi Wang <br> arXiv: 2305.01018 [math.OC] [[preprint](https://arxiv.org/abs/2305.01018)] |
 | <img src="/assets/images/fichera_rl.png" width="200" height="200" alt="" align="left" style="display:block;margin-bottom:0px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" /> **Learning robust marking policies for adaptive mesh refinement** <br> _with Andrew Gillette and Socratis Petrides_ <br> arXiv: 2207.06339 [math.NA] [[preprint](https://arxiv.org/abs/2207.06339)] |
 
 ## Peer-Reviewed Scientific Articles
@@ -67,6 +67,10 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 | Fuentes, F., Keith, B., Demkowicz, L., and Le Tallec, P. (2017). Coupled variational formulations of linear elasticity and the DPG methodology. _Journal of Computational Physics_, 348:715-731. [[preprint](https://arxiv.org/abs/1609.08180)] [[doi](https://doi.org/10.1016/j.jcp.2017.07.051)] |
 | Keith, B., Fuentes, F., and Demkowicz, L. (2016). The DPG methodology applied to different variational formulations of linear elasticity. _Computer Methods in Applied Mechanics and Engineering_, 309:579-609. [[preprint](https://arxiv.org/abs/1601.07937)] [[doi](https://doi.org/10.1016/j.cma.2016.05.034)] |
 | Fuentes, F., Keith, B., Demkowicz, L., and Nagaraj, S. (2015). Orientation embedded high order shape functions for the exact sequence elements of all shapes. _Computers & Mathematics with Applications_, 70(4):353-458. [[preprint](https://arxiv.org/abs/1504.03025)] [[doi](https://doi.org/10.1016/j.camwa.2015.04.027)] [[code](https://github.com/libESEAS/ESEAS)] | -->
+
+## Conference Proceedings
+
+| <img src="/assets/images/AnticipatoryRefinement.gif" width="200" height="150" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" /> **Multi-agent reinforcement learning for adaptive mesh refinement** <br> _with Jiachen Yang, Ketan Mittal, Tarik Dzanic, Socratis Petrides, Brenden Petersen, Daniel Faissol, and Robert Anderson_ <br> Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2023) [[preprint](https://arxiv.org/abs/2211.00801)] [[link](https://www.southampton.ac.uk/~eg/AAMAS2023/pdfs/p14.pdf)] |
 
 ## Other
 

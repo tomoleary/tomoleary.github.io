@@ -28,7 +28,7 @@ When I am not working, I enjoy listening to punk music and being active; lifting
 <br>
 <br>
 <br>
-I have been vegan for about 12 years, so I'm always keen to try out new recipes or to find the best vegan restaurants in my vicinity.
+I have been vegan for about 13 years, so I'm always keen to try out new recipes or to find the best vegan restaurants in my vicinity.
 <br>
 <br>
 <br>
@@ -44,5 +44,5 @@ I have been vegan for about 12 years, so I'm always keen to try out new recipes 
 <br>
 <br>
 <br>
-I love traveling and exploring new cultures, but for now I'm happy to go on weekend trips along the California coast and I just recently discovered surfing, which is great for both physical and mental health. 
+I love traveling and exploring new cultures, but for now I'm happy to go on weekend trips along the coast and I recently discovered surfing, which is great for both physical and mental health. 
 
