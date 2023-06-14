@@ -13,18 +13,6 @@ Additional links to my preprints can be found on [arXiv.org](https://arxiv.org/f
 My published work can also be tracked on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56699706400) and [Google Scholar](https://scholar.google.com/citations?user=vcSEoi4AAAAJ&hl=en).
 
 
-<!-- ### 2020
-
-<article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-    **A priori error analysis of high-order LL\* (FOSLL\*) finite element methods**  
-    B. Keith
-    arXiv:2012.09594 [math.NA]
-
-    [preprint](https://arxiv.org/abs/2012.09594)
-</article> -->
-
-
-
 ## Preprints
 
 | <img src="/assets/images/thermal_compliance_stochastic.png" width="200" height="200" alt="" align="left" style="display:block;margin-bottom:0px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" /> **An Adaptive Sampling Augmented Lagrangian Method for Stochastic Optimization with Deterministic Constraints** <br> _with Raghu Bollapragada, Cem Karamanli, Boyan Lazarov, Socratis Petrides, and Jingyi Wang_ <br> arXiv: 2305.01018 [math.OC] [[preprint](https://arxiv.org/abs/2305.01018)] |
