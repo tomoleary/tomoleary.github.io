@@ -15,6 +15,7 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 
 ## Preprints
 
+| <img src="/assets/images/Heat2D_color_lowres.gif" width="200" height="200" alt="" align="left" style="display:block;margin-bottom:0px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" /> **Proximal Galerkin: A structure-preserving finite element method for pointwise bound constraints** <br> _with Thomas M. Surowiec_ <br> arXiv: 2307.12444 [math.NA] [[preprint](https://arxiv.org/abs/2307.12444)] |
 | <img src="/assets/images/thermal_compliance_stochastic.png" width="200" height="200" alt="" align="left" style="display:block;margin-bottom:0px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" /> **An Adaptive Sampling Augmented Lagrangian Method for Stochastic Optimization with Deterministic Constraints** <br> _with Raghu Bollapragada, Cem Karamanli, Boyan Lazarov, Socratis Petrides, and Jingyi Wang_ <br> arXiv: 2305.01018 [math.OC] [[preprint](https://arxiv.org/abs/2305.01018)] |
 | <img src="/assets/images/fichera_rl.png" width="200" height="200" alt="" align="left" style="display:block;margin-bottom:0px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" /> **Learning robust marking policies for adaptive mesh refinement** <br> _with Andrew Gillette and Socratis Petrides_ <br> arXiv: 2207.06339 [math.NA] [[preprint](https://arxiv.org/abs/2207.06339)] |
 
