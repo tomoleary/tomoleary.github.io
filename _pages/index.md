@@ -28,8 +28,8 @@ Before that, I was a Ph.D. student at the <a href="https://www.oden.utexas.edu/"
 
 
 ## Current Research Funding
-<!-- **DOE SC Early Career Research Program&nbsp;&nbsp;2024&ndash;2028**&nbsp;&nbsp; REASON-3D: Randomized, Entropic, Adaptive, and Scalable Optimization for Non-Intrusive Data-Driven Design
-\ -->
+**DOE SC Early Career Research Program&nbsp;&nbsp;2024&ndash;2028**&nbsp;&nbsp; REASON-3D: Randomized, Entropic, Adaptive, and Scalable Optimization for Non-Intrusive Data-Driven Design
+\
 **OVPR Seed Award (Brown Internal)&nbsp;&nbsp;2023**&nbsp;&nbsp; Data-Driven High-Order Accurate Fail-Safe Neural Topology Optimization for Plastic Deformation and Fracture
 \
 **LLNL LDRD&nbsp;&nbsp;2022&ndash;2024**&nbsp;&nbsp; Adaptive Sampling for Risk-Averse Design and Optimization
@@ -37,5 +37,5 @@ Before that, I was a Ph.D. student at the <a href="https://www.oden.utexas.edu/"
 
 
 ### Other notes:
-- I still do finite element research! In fact, I'm an active [MFEM](https://mfem.org/) developer. Check out our (growing) list of examples codes and miniapps [here](https://mfem.org/examples/).
-- This website has been tidied up a little bit. If you are interested in my old finite element work (2015-2020), short summaries can still be found [here](/research/).
+- I'm an active [MFEM](https://mfem.org/) developer. Check out our (growing) list of examples codes and miniapps [here](https://mfem.org/examples/).
+- This website has been tidied up a little bit. If you are interested in my old finite element work (2015-2020), short summaries can be found [here](/research/).
