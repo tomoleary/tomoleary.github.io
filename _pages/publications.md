@@ -15,7 +15,7 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 
 ## Preprints
 
-| <img src="/assets/images/DynAMO.gif" width="200" height="200" alt="" align="left" style="display:block;margin-bottom:0px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" /> **DynAMO: Multi-agent reinforcement learning for dynamic anticipatory mesh optimization with applications to hyperbolic conservation laws** <br> _with Tarik Dzanic, Ketan Mittal, Dohyun Kim, Jiachen Yang, Socratis Petrides, and Robert Anderson_ <br> arXiv: 2310.01695 [math.NA] [[preprint](https://arxiv.org/abs/2310.01695)] |
+| <img src="/assets/images/DynAMO.gif" width="200" height="220" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" /> **DynAMO: Multi-agent reinforcement learning for dynamic anticipatory mesh optimization with applications to hyperbolic conservation laws** <br> _with Tarik Dzanic, Ketan Mittal, Dohyun Kim, Jiachen Yang, Socratis Petrides, and Robert Anderson_ <br> arXiv: 2310.01695 [math.NA] [[preprint](https://arxiv.org/abs/2310.01695)] |
 
 | <img src="/assets/images/Heat2D_color_lowres.gif" width="200" height="200" alt="" align="left" style="display:block;margin-bottom:0px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" /> **Proximal Galerkin: A structure-preserving finite element method for pointwise bound constraints** <br> _with Thomas M. Surowiec_ <br> arXiv: 2307.12444 [math.NA] [[preprint](https://arxiv.org/abs/2307.12444)] |
 
