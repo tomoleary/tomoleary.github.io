@@ -20,7 +20,7 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 
 ## Software
 
-| <img src="/assets/images/drd.gif" width="375" height="375" alt="" align="center" style="margin-bottom:10px;margin-top:10px;margin-left:auto;margin-right:auto;padding-left:auto;padding-right:auto;" /> | **DRDMannTurb: A python package for scalable, data-driven synthetic turbulence simulation based on rapid distortion theory** <br> _with Alexey Izmailov, Matthew Meeker, and Georgios Deskos_ <br> Python Package (2024) [[PyPI](https://pypi.org/project/drdmannturb/1.0.0/)] [[documentation](https://methods-group.github.io/DRDMannTurb/)] |
+| <img src="/assets/images/drd.gif" width="375" height="375" alt="" align="center" style="margin-bottom:10px;margin-top:10px;margin-left:auto;margin-right:auto;padding-left:auto;padding-right:auto;" /> | **DRDMannTurb: A python package for scalable, data-driven synthetic turbulence** <br> _with Alexey Izmailov, Matthew Meeker, and Georgios Deskos_ <br> Python Package (2024) [[PyPI](https://pypi.org/project/drdmannturb/1.0.0/)] [[documentation](https://methods-group.github.io/DRDMannTurb/)] |
 
 ## Peer-Reviewed Scientific Articles
 
