@@ -83,6 +83,6 @@ Through our NSF RISE grant, with collaborators Thorsten Becker, Simone Puel and 
 
 ### Collaboration
 
-My collaborators on DINO-related topics include [Thorsten Becker](https://www-udc.ig.utexas.edu/external/becker/), [Michael Brennan](https://michaelcbrennan.com/), [Lianghao Cao](https://www.lianghaocao.com/home), [Joshua Chen](https://oden.utexas.edu/people/directory/Joshua-Chen/), [Peng Chen](https://faculty.cc.gatech.edu/~pchen402/), [Omar Ghattas](https://users.oden.utexas.edu/~omar/), [Youssef Marzouk](https://aeroastro.mit.edu/people/youssef-m-marzouk/), [Simone Puel](https://www.linkedin.com/in/simonepuel/?locale=en_US) and [Umberto Villa](https://uvilla.github.io/). 
+My collaborators on DINO-related topics include [Thorsten Becker](https://www-udc.ig.utexas.edu/external/becker/), [Michael Brennan](https://michaelcbrennan.com/), [Lianghao Cao](https://www.lianghaocao.com/home), [Joshua Chen](https://oden.utexas.edu/people/directory/Joshua-Chen/), [Peng Chen](https://faculty.cc.gatech.edu/~pchen402/), [Omar Ghattas](https://users.oden.utexas.edu/~omar/), [Dingcheng Luo](https://oden.utexas.edu/people/directory/Dingcheng-Luo/), [Youssef Marzouk](https://aeroastro.mit.edu/people/youssef-m-marzouk/), [Simone Puel](https://www.linkedin.com/in/simonepuel/?locale=en_US) and [Umberto Villa](https://uvilla.github.io/). 
 
 
