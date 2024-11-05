@@ -32,7 +32,7 @@ The key issue for DINO is to devise representations of the neural operator and t
 ## Advantages of DINO
 
 
-### Improved generalization
+### Improved generalization per unit compute
 
 Derivatives (e.g., Jacobians) of implicitly defined functions can often be computed and compressed at a significantly lower cost when compared to the function itself. Consider an implicitly defined parametric PDE map in a strong residual form.
 
@@ -42,7 +42,7 @@ Then the derivative can be computed efficiently as follows.
 
 $$\mathcal{D}u(m) = - \left[\frac{\partial R (u,m)}{\partial u}\right]^{-1}\frac{\partial R(u,m)}{\partial m} $$
 
-Notably, the factors for $$\left[\frac{\partial R (u,m)}{\partial u}\right]$$ need only be computed once, and then the Jacobian can be compressed, matrix-free, at marginal additional costs. In this case the DINO formulation brings in more, cheap training data; it thereby leads to empirically better $$L^2_\mu$$ generalization accuracy per unit compute of training data. 
+Notably, when utilizing (sparse) direct solvers, the factors for $$\left[\frac{\partial R (u,m)}{\partial u}\right]$$ need only be computed once, and then the Jacobian can be compressed, matrix-free, at marginal additional costs. Other amoritizations are possible in other settings such as (i) the use of expensive preconditioners, and (ii) implicit time integrators. In these cases the DINO formulation brings in more, cheap training data; it thereby leads to empirically better $$L^2_\mu$$ generalization accuracy per unit compute of training data. 
 
 ### Improved accuracy in optimization and inference tasks
 
