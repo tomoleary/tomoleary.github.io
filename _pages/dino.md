@@ -50,7 +50,7 @@ Many tasks regarding the decision support of complex physical systems can
 1. be formulated as optimization problems, or 
 2. require derivative information for their efficient solution. 
 
-Such tasks involve Bayesian inference, stochastic optimization (including optimal design and optimal control), and optimal experimental design. DINOs are uniquely suitable to these tasks as they control not only the operator approximation error but also its derivative(s). 
+Such tasks include Bayesian inference, stochastic optimization (including optimal design and optimal control), and optimal experimental design. DINOs are uniquely suitable to these tasks as they control not only the operator approximation error but also its derivative(s). These lead to more accurate approximations of optimization gradients and stationary points.
 
 
 ### DINOs for Bayesian Inference
