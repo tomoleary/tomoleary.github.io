@@ -66,14 +66,14 @@ DINOs are able to control viscous flow fields with expensive-to-estimate risk me
 #### Uncontrolled flow field
 <img src="/assets/images/v_uncontrolled_2.png" width="800" height="200" alt="" align="center" style="margin-bottom:0px;margin-top:0px;margin-left:auto;margin-right:auto;padding-left:auto;padding-right:auto;" />
 
-#### Controlled flow field
+#### Optimally controlled flow field
 <img src="/assets/images/v_controlled_2.png" width="800" height="200" alt="" align="center" style="margin-bottom:0px;margin-top:0px;margin-left:auto;margin-right:auto;padding-left:auto;padding-right:auto;" />
 
 
 
 ### Application to 2011 Tōhoku earthquake
 
-Through our NSF RISE grant, with collaborators Thorsten Becker, Simone Puel and Umberto Villa we are solving Bayesian inverse problems surrounding the 2011 M9 earthquake. Specifically we seek to characterize the elastic properties beneath Japan, as well as the slip that triggered the event; both with uncertainty.
+Through our NSF RISE grant, with collaborators Thorsten Becker, Simone Puel and Umberto Villa we are solving Bayesian inverse problems surrounding the 2011 M9 earthquake. Specifically we seek to infer the subsurface elastic properties as well as the fault slip, both under uncertainty.
 
 
 <img src="/assets/images/3D_mesh_Japan_1.png" width="800" height="300" alt="" align="center" style="margin-bottom:1px;margin-top:1px;margin-left:auto;margin-right:auto;padding-left:auto;padding-right:auto;" />
