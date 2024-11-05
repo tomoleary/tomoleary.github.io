@@ -27,11 +27,11 @@ Before that I completed degrees in Engineering Mechanics and Mathematics at the 
 
 
 ## Current Research Funding
-**NSF RISE Award 2425922&nbsp;&nbsp;2024&ndash;2027**&nbsp;&nbsp; A Bayesian Inference Framework for Learning Earthquake Cycle Deformation Processes Across Scales via Novel Neural Operators (PI Omar Ghattas, Co-PIs Thorsten Becker and Thomas O'Leary-Roseberry) **$832,277**
+**[NSF RISE Award 2425922](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2425922)&nbsp;&nbsp;2024&ndash;2027**&nbsp;&nbsp; A Bayesian Inference Framework for Learning Earthquake Cycle Deformation Processes Across Scales via Novel Neural Operators (PI Omar Ghattas, Co-PIs Thorsten Becker and Thomas O'Leary-Roseberry) **$832,277**
 
-**NSF OAC Award 2313033&nbsp;&nbsp;2023&ndash;2026**&nbsp;&nbsp; The Best of Both Worlds: Deep Neural Operators as Preconditioners for Physics-Based Forward and Inverse Problems (PI Omar Ghattas, Co-PI Thomas O'Leary-Roseberry) **$600,000**
+**[NSF OAC Award 2313033](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2313033)&nbsp;&nbsp;2023&ndash;2026**&nbsp;&nbsp; The Best of Both Worlds: Deep Neural Operators as Preconditioners for Physics-Based Forward and Inverse Problems (PI Omar Ghattas, Co-PI Thomas O'Leary-Roseberry) **$600,000**
 
-**NSF DMS Award 2324643&nbsp;&nbsp;2023&ndash;2026**&nbsp;&nbsp; Co-Design of Neural Operators and Stochastic Optimization Algorithms for Learning Surrogates for PDE- Constrained Optimization Under Uncertainty (PI Raghu Bollapragada, Co-PIs Omar Ghattas and Thomas O'Leary-Roseberry) **$499,792**
+**[NSF DMS Award 2324643](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2324643)&nbsp;&nbsp;2023&ndash;2026**&nbsp;&nbsp; Co-Design of Neural Operators and Stochastic Optimization Algorithms for Learning Surrogates for PDE- Constrained Optimization Under Uncertainty (PI Raghu Bollapragada, Co-PIs Omar Ghattas and Thomas O'Leary-Roseberry) **$499,792**
 
 
 
