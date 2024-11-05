@@ -8,13 +8,11 @@ author_profile: true
 
 <img src="/assets/images/tom_headshot.jpg" width="380px" alt="Thomas O'Leary-Roseberry" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
 <p style="text-align: justify">
-I am a Research Associate in the OPTIMUS Center at the Oden Institute at The University of Texas at Austin.
-I work on numerical methods for the inference, prediction, and optimal design and control of complex physical systems modeling by parametrized partial differential equations (PDEs).
-My work blends numerical analysis, machine learning, and mechanistic modeling to create state-of-the-art methods for complex decision making under high-dimensional uncertainty. 
+I am a Research Associate in the OPTIMUS Center of the Oden Institute at The University of Texas at Austin.
+I work on numerical methods for the inference, prediction, and optimal design and control of complex physical systems which are mathematically modeled as parametrized partial differential equations (PDEs).
+My work blends numerical analysis, machine learning, and mechanistic modeling to create state-of-the-art methods for decision making for complex systems under high-dimensional uncertainty. 
 </p>
 
-<!-- <span style="color:red">**Now Hiring:**</span>
-*I am seeking to hire a number of <a href="https://www.mathjobs.org/jobs/list/20345">postdocs</a> to join my group this academic Fall.* -->
 
 <span style="color:red">**I am currently looking for tenure-tracked positions.**</span>
 <p style="text-align: justify">
