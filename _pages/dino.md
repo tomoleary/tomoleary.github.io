@@ -55,12 +55,12 @@ Such tasks involve Bayesian inference, stochastic optimization (including optima
 
 ### DINOs for Bayesian Inference
 
-Please see our [preprint](https://arxiv.org/abs/2403.08220) on efficient Markov chain Monte Carlo, led by my collaborator [Dr. Lianghao Cao](https://www.lianghaocao.com/home).
+Please see our [preprint](https://arxiv.org/abs/2403.08220) on efficient Markov chain Monte Carlo, led by my collaborator [Lianghao Cao](https://www.lianghaocao.com/home).
 
 
 ### DINOS for PDE-constrained Optimization Under Uncertainty
 
-Please see our [preprint](https://arxiv.org/abs/2305.20053) on efficient PDE-constrained optimization under uncertainty, led by my collaborator [Dr. Dingcheng Luo](https://oden.utexas.edu/people/directory/Dingcheng-Luo/). We compare DINOs against conventional $$L^2_\mu$$ neural operators (NO) and reference PDE solver based benchmark. Generally our results demonstrate that DINOs are $$10\times$$ more accurate than NO and $$10 \times$$ more sample efficient than reference PDE solver-based implementations when only amortized over one risk-averse optimization problem. When amortizing over many the benefits of DINO increase substantially. 
+Please see our [preprint](https://arxiv.org/abs/2305.20053) on efficient PDE-constrained optimization under uncertainty, led by my collaborator [Dingcheng Luo](https://oden.utexas.edu/people/directory/Dingcheng-Luo/). We compare DINOs against conventional $$L^2_\mu$$ neural operators (NO) and reference PDE solver based benchmark. Generally our results demonstrate that DINOs are $$10\times$$ more accurate than NO and $$10 \times$$ more sample efficient than reference PDE solver-based implementations when only amortized over one risk-averse optimization problem. When amortizing over many the benefits of DINO increase substantially. 
 
 
 DINOs are able to control viscous flow fields with expensive-to-estimate risk measures ([CVaR](https://en.wikipedia.org/wiki/Expected_shortfall)) at $$\mathcal{O}(10^7)$$ online speedup, with little loss of accuracy. 
@@ -79,11 +79,11 @@ Through our NSF RISE grant, with collaborators Thorsten Becker, Simone Puel and 
 
 <img src="/assets/images/3D_mesh_Japan_1.png" width="800" height="300" alt="" align="center" style="margin-bottom:1px;margin-top:1px;margin-left:auto;margin-right:auto;padding-left:auto;padding-right:auto;" />
 
-
+#### Image credit to my collaborator Simone Puel.
 
 
 ### Collaboration
 
-My collaborators on DINO-related topics include Michael Brennan, [Lianghao Cao](https://www.lianghaocao.com/home), Joshua Chen, [Peng Chen](https://faculty.cc.gatech.edu/~pchen402/), [Omar Ghattas](https://users.oden.utexas.edu/~omar/), [Youssef Marzouk](https://aeroastro.mit.edu/people/youssef-m-marzouk/) and [Umberto Villa](https://uvilla.github.io/). 
+My collaborators on DINO-related topics include [Thorsten Becker](https://www-udc.ig.utexas.edu/external/becker/), [Michael Brennan](https://michaelcbrennan.com/), [Lianghao Cao](https://www.lianghaocao.com/home), [Joshua Chen](https://oden.utexas.edu/people/directory/Joshua-Chen/), [Peng Chen](https://faculty.cc.gatech.edu/~pchen402/), [Omar Ghattas](https://users.oden.utexas.edu/~omar/), [Youssef Marzouk](https://aeroastro.mit.edu/people/youssef-m-marzouk/), [Simone Puel](https://www.linkedin.com/in/simonepuel/?locale=en_US) and [Umberto Villa](https://uvilla.github.io/). 
 
 
