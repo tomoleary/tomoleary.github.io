@@ -16,12 +16,10 @@ toc_icon: "gear"
 ### Conventional neural operator training
 Neural operators are neural network surrogates for maps on function spaces, where the neural network parametrization is *independent* of a specific numerical discretization of the target map. Neural operators often arise as surrogates for parametric PDE maps. Neural operators are typically trained in the $$L^2_\mu$$ parametric Bochner space.
 
-
-### DINO training
-
 $$\min_w \mathbb{E}_{m \sim \mu}\left[\|u(m) - u_w(m)\|^2_{\mathcal{U}} \right]$$
 
 
+### DINO training
 Derivative-informed neural operators ([DINOs](https://www.sciencedirect.com/science/article/pii/S0021999123006502)) are neural operators that are trained to learn both an operator and its (Fréchet) derivatives, that is the training is formulated in the  $$H^1_\mu$$ Bochner space (or $$H^k_\mu$$ with $$k\in \mathbb{N}$$).
 
 
