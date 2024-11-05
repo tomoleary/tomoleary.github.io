@@ -13,16 +13,16 @@ toc_icon: "gear"
 
 </p>
 
-A large part of my work involves the creation of new software tools to continue the development of methods for inference, prediction and optimization of complex system. I delineate some of these software projects that I am involved in below
+A large part of my work involves the creation of new software tools to continue the development of methods for inference, prediction and optimization of complex system. I delineate some of these software projects that I am involved in below.
 
 
-### hippylib
+### [hippylib](https://github.com/hippylib/hippylib)
 
 
-### hippyflow
+### [hippyflow](https://github.com/hippylib/hippyflow)
 
 
-### soupy
+### [soupy](https://github.com/hippylib/soupy)
 
 
-### hessianaveraging
+### [hessianaveraging](https://github.com/tomoleary/hessianaveraging)
