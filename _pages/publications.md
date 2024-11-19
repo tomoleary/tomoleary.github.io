@@ -13,6 +13,8 @@ toc_icon: "gear"
 
 ## Preprints
 
+| **LazyDINO: Fast, Scalable, and Efficiently Amortized Bayesian Inversion via Structure-Exploiting and Surrogate-Drive Measure Transport,** <br> _Lianghao Cao, Joshua Chen, Michael Brennan, Thomas O'Leary-Roseberry, Youssef Marzouk and Omar Ghattas_ <br> [[preprint](/assets/documents/lazydino_submission_arxiv.pdf)] |
+
 | **Fast Finite-Sum Optimization via Cyclically-Sampled Hessian Averaging Methods,** <br> _Thomas O'Leary-Roseberry and Raghu Bollapragada_ <br>  In review at *Mathematical Programming* [[see technical report](https://www.arxiv.org/abs/2408.07268)] |
 
 
@@ -71,5 +73,5 @@ toc_icon: "gear"
 
 ## PhD Thesis
 
-| **Efficient and dimension independent method for neural network surrogate construction and training** <br> _PhD Dissertation, The University of Texas at Austin (2020)_ [[link](https://repositories.lib.utexas.edu/items/53c3b97d-0961-4143-99b4-07d9a8319f19)] |
+| **Efficient and dimension independent methods for neural network surrogate construction and training** <br> _PhD Dissertation, The University of Texas at Austin (2020)_ [[link](https://repositories.lib.utexas.edu/items/53c3b97d-0961-4143-99b4-07d9a8319f19)] |
 
