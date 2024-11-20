@@ -13,7 +13,7 @@ toc_icon: "gear"
 
 ## Preprints
 
-| **LazyDINO: Fast, Scalable, and Efficiently Amortized Bayesian Inversion via Structure-Exploiting and Surrogate-Drive Measure Transport,** <br> _Lianghao Cao, Joshua Chen, Michael Brennan, Thomas O'Leary-Roseberry, Youssef Marzouk and Omar Ghattas_ <br> [[preprint](/assets/documents/lazydino_submission_arxiv.pdf)] |
+| **LazyDINO: Fast, Scalable, and Efficiently Amortized Bayesian Inversion via Structure-Exploiting and Surrogate-Drive Measure Transport,** <br> _Lianghao Cao, Joshua Chen, Michael Brennan, Thomas O'Leary-Roseberry, Youssef Marzouk and Omar Ghattas_ <br> [[preprint](https://arxiv.org/abs/2411.12726)] |
 
 | **Fast Finite-Sum Optimization via Cyclically-Sampled Hessian Averaging Methods,** <br> _Thomas O'Leary-Roseberry and Raghu Bollapragada_ <br>  In review at *Mathematical Programming* [[see technical report](https://www.arxiv.org/abs/2408.07268)] |
 
