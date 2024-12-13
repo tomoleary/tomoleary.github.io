@@ -22,7 +22,7 @@ Some of my research focuses on efficient and scalable methods for the solution o
 
 $$\text{(Stochastic)} \quad \min_w f(w) =  \mathbb{E}_{\zeta \sim \pi}\left[F(w,\zeta) \right]$$
 
-$$\text{(Finite-Sum)} \quad \min_w f(w) =  \sum_{i=1}^N F_i(w)$$
+$$\text{(Finite-Sum)} \quad \min_w f(w) =  \frac{1}{N}\sum_{i=1}^N F_i(w)$$
 
 ### Hessian-Averaging
 
