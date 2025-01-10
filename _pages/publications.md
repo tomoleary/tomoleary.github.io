@@ -58,6 +58,8 @@ toc_icon: "gear"
 
 ## Conference Proceedings
 
+| **Improving neural network efficiency with multifidelity and dimensionality reduction techniques** <br> _Vignesh Sella, Thomas O'Leary-Roseberry, Xiaosong Du, Mengwu Guo, Joaquim R. R. A. Martins,  Omar Ghattas, Karen Willcox and Anirban Chaudhuri_ <br> *AIAA SciTech Forum 2025* [[SciTech paper](https://arc.aiaa.org/doi/abs/10.2514/6.2025-2807)] |
+
 | **Learning optimal aerodynamic designs through multi-fidelity reduced-dimensional neural networks** <br> _Xiaosong Du, Joaquim R. R. A. Martins, Thomas O'Leary-Roseberry, Anirban Chaudhuri, Omar Ghattas and Karen Willcox_ <br> *AIAA SciTech Forum 2023* [[SciTech paper](https://arc.aiaa.org/doi/10.2514/6.2023-0334)] |
 
 <!-- | <img src="/assets/images/pSVN.png" width="300" height="300" alt="" align="left" style="display:block;margin-bottom:15px;margin-top:0px;margin-left:auto;margin-right:auto;padding-left:auto;padding-right:auto;" />  -->
