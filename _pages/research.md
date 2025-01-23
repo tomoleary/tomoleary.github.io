@@ -42,7 +42,7 @@ This approach concentrates the Hessian error asymptotically, leading to local su
 
 |           | Stochastic                                           | Finite-sum                                           |
 |-----------|------------------------------------------------------|------------------------------------------------------|
-| [Na et al.](https://link.springer.com/article/10.1007/s10107-022-01913-5) | $$\mathcal{O}\left(\frac{\log k}{\sqrt{k}}\right) $$ | $$\mathcal{O}\left(\frac{\log k}{\sqrt{k}}\right) $$ |
+| [Na et al.](https://link.springer.com/article/10.1007/s10107-022-01913-5) | $$\mathcal{O}\left(\sqrt{\frac{\log k}{k}}\right) $$ | $$\mathcal{O}\left(\sqrt{\frac{\log k}{k}}\right) $$ |
 | [Our preprint](https://www.arxiv.org/abs/2408.07268) | $$\mathcal{O}\left(\frac{1}{\sqrt{k}}\right) $$      | $$\mathcal{O}\left(\frac{1}{k}\right) $$             |
 
 In our work we allow for gradient inexactness using subsampled gradients where the sample sizes are chosen adaptively ensuring asymptotic exactness.
