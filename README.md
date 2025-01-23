@@ -9,6 +9,8 @@ Please feel free to [browse the website](https://tomoleary.github.io/)!
 
 - [Jekyll Basic Usage](https://jekyllrb.com/docs/)
 
+`bundle exec jekyll serve`
+
 ## Credits
 
 I forked this website from [Brendan Keith's website](https://brendankeith.github.io), who in turn forked from [Federico Fuentes's website](https://federicofuentes.github.io/).
