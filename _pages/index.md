@@ -14,10 +14,6 @@ My work blends numerical analysis, machine learning, and mechanistic modeling to
 </p>
 
 
-<span style="color:red">**I am currently looking for tenure-tracked positions.**</span>
-<p style="text-align: justify">
-Please do not hesitate to reach out, if you think I may be a suitable candidate for an open position.
-</p>
 
 <p style="text-align: justify">
 <b> Short Bio: </b> I completed my PhD in Computational Science, Engineering, and Mathematics at The University of Texas at Austin <a href="https://www.oden.utexas.edu/" style="color:black">Oden Institute for Computational Engineering & Sciences</a> under the supervision of <a href="https://users.oden.utexas.edu/~omar/" style="color:black">Omar Ghattas</a> and the co-supervision of <a href="https://heimbach.wordpress.com/" style="color:black">Patrick Heimbach</a>. 
