@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Thomas O'Leary-Roseberry"
   avatar           : "/assets/images/tom_headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Scientific Computing, Optimization, Machine Learning, Inverse Problems, & Computational Mechanics"
-  location         : "Austin, Texas"
-  email            : "tom.olearyroseberry@utexas.edu"
+  bio              : "Computational Mathematician | Optimization, Simulation and Operator Learning."
+  location         : "Columbus, Ohio"
+  email            : "oleary-roseberry.1@osu.edu"
   uri              :
   bitbucket        :
   codepen          :

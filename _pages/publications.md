@@ -13,22 +13,28 @@ toc_icon: "gear"
 
 ## Preprints
 
-| **LazyDINO: Fast, Scalable, and Efficiently Amortized Bayesian Inversion via Structure-Exploiting and Surrogate-Drive Measure Transport,** <br> _Lianghao Cao, Joshua Chen, Michael Brennan, Thomas O'Leary-Roseberry, Youssef Marzouk and Omar Ghattas_ <br> [[preprint](https://arxiv.org/abs/2411.12726)] |
+| **Dimension reduction for derivative-informed operator learning: An analysis of approximation errors,** <br> _Dingcheng Luo, Thomas O'Leary-Roseberry, Peng Chen, Omar Ghattas_ <br> In review at *Journal of Machine Learning Research* [[preprint](https://arxiv.org/abs/2504.08730)] | 
+
+| **Verification and Validation for Trustworthy Scientific Machine Learning,** <br> _John Jakeman, Lorena Barba, Joaquim R. R. A. Martins, Thomas O'Leary-Roseberry_ <br> In review at *Machine Learning: Science and Technology* [[preprint](https://arxiv.org/abs/2502.15496)] | 
+
+| **LazyDINO: Fast, Scalable, and Efficiently Amortized Bayesian Inversion via Structure-Exploiting and Surrogate-Drive Measure Transport,** <br> _Lianghao Cao, Joshua Chen, Michael Brennan, Thomas O'Leary-Roseberry, Youssef Marzouk and Omar Ghattas_ <br> In review at *Journal of Machine Learning Research* [[preprint](https://arxiv.org/abs/2411.12726)] |
 
 | **Fast Finite-Sum Optimization via Cyclically-Sampled Hessian Averaging Methods,** <br> _Thomas O'Leary-Roseberry and Raghu Bollapragada_ <br>  In review at *Mathematical Programming* [[see technical report](https://www.arxiv.org/abs/2408.07268)] |
 
 
-| <img src="/assets/images/longhorn_compression.gif" width="800" height="300" alt="" align="center" style="margin-bottom:1px;margin-top:1px;margin-left:auto;margin-right:auto;padding-left:auto;padding-right:auto;" /> | **Inference of Heterogeneous Material Properties via Infinite-Dimensional Integrated DIC** <br> _Joseph Kirchhoff, Dingcheng Luo, Thomas O'Leary-Roseberry and Omar Ghattas_ <br>  [[preprint](https://arxiv.org/abs/2408.10217)] |
-
-| **Derivative-informed neural operator acceleration of geometric MCMC for infinite-dimensional Bayesian inverse problems** <br> _Lianghao Cao, Thomas O'Leary-Roseberry, and Omar Ghattas_ <br> In review at *Journal of Machine Learning Research* [[preprint](https://arxiv.org/abs/2403.08220)] |
-
-| <img src="/assets/images/v_controlled_2.png" width="800" height="300" alt="" align="center" style="margin-bottom:10px;margin-top:10px;margin-left:auto;margin-right:auto;padding-left:auto;padding-right:auto;" /> | **Efficient PDE-constrained optimization under high-dimensional uncertainty using derivative-informed neural operators** <br> _Dingcheng Luo, Thomas O'Leary-Roseberry, Peng Chen and Omar Ghattas_ <br> In review at *SIAM Journal on Scientific Computing* [[preprint](https://arxiv.org/abs/2305.20053)] |
-
+| <img src="/assets/images/longhorn_compression.gif" width="800" height="300" alt="" align="center" style="margin-bottom:1px;margin-top:1px;margin-left:auto;margin-right:auto;padding-left:auto;padding-right:auto;" /> | **Inference of Heterogeneous Material Properties via Infinite-Dimensional Integrated DIC** <br> _Joseph Kirchhoff, Dingcheng Luo, Thomas O'Leary-Roseberry and Omar Ghattas_ <br> In review at *Journal of Computational Physics* [[preprint](https://arxiv.org/abs/2408.10217)] |
 
 
 ## Journal Articles
 
-| **Scientific Machine Learning: A Symbiosis** <br> _Brendan Keith, Thomas O'Leary-Roseberry, Benjamin Sanderse, Robert Scheichl and Bart van Bloemen Waanders_ <br> *Foundations of Data Science* (2025) |
+| <img src="/assets/images/v_controlled_2.png" width="800" height="300" alt="" align="center" style="margin-bottom:10px;margin-top:10px;margin-left:auto;margin-right:auto;padding-left:auto;padding-right:auto;" /> | **Efficient PDE-constrained optimization under high-dimensional uncertainty using derivative-informed neural operators** <br> _Dingcheng Luo, Thomas O'Leary-Roseberry, Peng Chen and Omar Ghattas_ <br> *SIAM Journal on Scientific Computing* (2025) [[SISC Paper](https://epubs.siam.org/doi/abs/10.1137/23M157956X)] |
+
+
+
+| **Derivative-informed neural operator acceleration of geometric MCMC for infinite-dimensional Bayesian inverse problems** <br> _Lianghao Cao, Thomas O'Leary-Roseberry, and Omar Ghattas_ <br> *Journal of Machine Learning Research* (2025) [[JMLR Paper](https://www.jmlr.org/papers/volume26/24-0745/24-0745.pdf)] |
+
+
+| **Scientific Machine Learning: A Symbiosis** <br> _Brendan Keith, Thomas O'Leary-Roseberry, Benjamin Sanderse, Robert Scheichl and Bart van Bloemen Waanders_ <br> *Foundations of Data Science* (2025) [[FoDS article](https://www.aimsciences.org/article/doi/10.3934/fods.2024051)]|
 
 
 | **SOUPy: Stochastic PDE-constrained optimization under high-dimensional uncertainty in Python** <br> _Dingcheng Luo, Peng Chen, Thomas O'Leary-Roseberry, Umberto Villa and Omar Ghattas_ <br> *Journal of Open Source Software* (2024) [[GitHub](https://github.com/hippylib/soupy)] [[JOSS Paper](https://joss.theoj.org/papers/10.21105/joss.06101)] |

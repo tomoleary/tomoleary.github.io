@@ -2,6 +2,8 @@
 main:
   - title: "Home" 
     url: /
+  - title: "Group"
+    url: /group/
   - title: "DINO"
     url: /dino/
   - title: "Research"
@@ -10,5 +12,5 @@ main:
     url: /publications/
   - title: "Software"
     url: /software/
-  - title: "CV"
-    url: /CV/
+  # - title: "CV"
+  #   url: /CV/
