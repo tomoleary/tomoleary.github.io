@@ -13,6 +13,8 @@ toc_icon: "gear"
 
 </p>
 
+[Check out a short GitHub tutorial here!](https://github.com/dinoSciML/dino_tutorial)
+
 ### Conventional neural operator training
 Neural operators are neural network surrogates for maps on function spaces, where the neural network parametrization is *independent* of a specific numerical discretization of the target map. Neural operators often arise as surrogates for parametric PDE maps. Neural operators are typically trained in the $$L^2_\mu$$ parametric Bochner space.
 
