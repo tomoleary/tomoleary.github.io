@@ -17,7 +17,7 @@ Please take a look [here](/group/) if you are interested in working with me.
 
  <!-- Research Associate in the OPTIMUS Center of the Oden Institute at The University of Texas at Austin. -->
 <p style="text-align: justify">
-I work on numerical methods for the inference, prediction, and optimal design and control of complex physical systems which are often mathematically modeled as parametrized partial differential equations (PDEs).
+I work on numerical methods for the inference, prediction, and optimal design and control of complex physical systems. Of particular interest are systems mathematically modeled by parametrized partial differential equations (PDEs).
 My work blends numerical analysis, machine learning, and mechanistic modeling to create state-of-the-art methods to support decision making regarding complex systems under high-dimensional uncertainty. 
 </p>
 
