@@ -8,7 +8,7 @@ author_profile: true
 
 <img src="/assets/images/tom_headshot.jpg" width="380px" alt="Thomas O'Leary-Roseberry" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
 <p style="text-align: justify">
-I am an Assistant Professor in the Department of Mathematics at The Ohio State University.
+<a href="https://math.osu.edu/people/oleary-roseberry.1/" style="color:black">I am an Assistant Professor</a> in the Department of Mathematics at The Ohio State University.
 </p>
 
 <b> I am currently recruiting! </b>
@@ -21,7 +21,7 @@ I work on numerical methods for the inference, prediction, and optimal design an
 My work blends numerical analysis, machine learning, and mechanistic modeling to create state-of-the-art algorithms to optimize and support decision making regarding complex systems with high-dimensional uncertainty. 
 </p>
 
-
+<!-- https://math.osu.edu/people/oleary-roseberry.1 -->
 
 <p style="text-align: justify">
 <b> Short Bio: </b> I completed my PhD in Computational Science, Engineering, and Mathematics at The University of Texas at Austin <a href="https://www.oden.utexas.edu/" style="color:black">Oden Institute for Computational Engineering & Sciences</a> under the supervision of <a href="https://users.oden.utexas.edu/~omar/" style="color:black">Omar Ghattas</a> and the co-supervision of <a href="https://heimbach.wordpress.com/" style="color:black">Patrick Heimbach</a>. 
